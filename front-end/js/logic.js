@@ -14,13 +14,13 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 var link = ("/cb_2017_us_cd115_20m.json")
 // Function that will determine the color of a disrict based on 
-function chooseColor(district) {
-  switch (district) {
-  case "06":
+function chooseColor(STATEFP) {
+  switch (STATEFP) {
+  case "23":
     return "red";
-  case "07":
+  case "24":
     return "blue";
-  case "08":
+  case "25":
 	  return "grey";
   }
 }
@@ -34,7 +34,7 @@ d3.json(link, function(data) {
       return {
         color: "white",
         // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
-        fillColor: chooseColor(properties.STATEFP),
+        fillColor: chooseColor(feature.properties.STATEFP),
         fillOpacity: 0.5,
         weight: 1.5
       };
