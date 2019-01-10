@@ -4,6 +4,16 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
+
+ #map {
+  width: 1900px;
+  height: 1080px;
+  border: 1px solid #ccc;
+}
+
+
+
+
 #mainNav {
   min-height: 56px;
   background-color: #fff;
