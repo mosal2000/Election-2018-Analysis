@@ -1,11 +1,12 @@
 [
 	{
-		"id" : 443,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Alaska",
 		"st_abbrev" : "AK",
+		"fips" : null,
 		"district" : "0",
+		"district_char" : "00",
 		"name" : "Don Young",
 		"party" : "REP",
 		"fec_candidate_id" : "H6AK00045",
@@ -17,12 +18,13 @@
 		"num_of_establishment" : 21077
 	},
 	{
-		"id" : 436,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Alabama",
 		"st_abbrev" : "AL",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Bradley Byrne",
 		"party" : "REP",
 		"fec_candidate_id" : "H4AL01123",
@@ -34,12 +36,13 @@
 		"num_of_establishment" : 15611
 	},
 	{
-		"id" : 437,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Alabama",
 		"st_abbrev" : "AL",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Martha Roby",
 		"party" : "REP",
 		"fec_candidate_id" : "H0AL02087",
@@ -51,12 +54,13 @@
 		"num_of_establishment" : 14252
 	},
 	{
-		"id" : 438,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Alabama",
 		"st_abbrev" : "AL",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Mike Rogers",
 		"party" : "REP",
 		"fec_candidate_id" : "H2AL03032",
@@ -68,12 +72,13 @@
 		"num_of_establishment" : 11510
 	},
 	{
-		"id" : 439,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Alabama",
 		"st_abbrev" : "AL",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Robert Aderholt",
 		"party" : "REP",
 		"fec_candidate_id" : "H6AL04098",
@@ -85,12 +90,13 @@
 		"num_of_establishment" : 12538
 	},
 	{
-		"id" : 440,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Alabama",
 		"st_abbrev" : "AL",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Mo Brooks",
 		"party" : "REP",
 		"fec_candidate_id" : "H0AL05163",
@@ -102,12 +108,13 @@
 		"num_of_establishment" : 15137
 	},
 	{
-		"id" : 441,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Alabama",
 		"st_abbrev" : "AL",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Gary Palmer",
 		"party" : "REP",
 		"fec_candidate_id" : "H4AL06098",
@@ -119,12 +126,13 @@
 		"num_of_establishment" : 16197
 	},
 	{
-		"id" : 442,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Alabama",
 		"st_abbrev" : "AL",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Terri Sewell",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0AL07086",
@@ -136,12 +144,13 @@
 		"num_of_establishment" : 13840
 	},
 	{
-		"id" : 453,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arkansas",
 		"st_abbrev" : "AR",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Rick Crawford",
 		"party" : "REP",
 		"fec_candidate_id" : "H0AR01083",
@@ -153,12 +162,13 @@
 		"num_of_establishment" : 13855
 	},
 	{
-		"id" : 454,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arkansas",
 		"st_abbrev" : "AR",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "French Hill",
 		"party" : "REP",
 		"fec_candidate_id" : "H4AR02141",
@@ -170,12 +180,13 @@
 		"num_of_establishment" : 18848
 	},
 	{
-		"id" : 455,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arkansas",
 		"st_abbrev" : "AR",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Steve Womack",
 		"party" : "REP",
 		"fec_candidate_id" : "H0AR03055",
@@ -187,12 +198,13 @@
 		"num_of_establishment" : 18788
 	},
 	{
-		"id" : 456,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arkansas",
 		"st_abbrev" : "AR",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Bruce Westerman",
 		"party" : "REP",
 		"fec_candidate_id" : "H4AR04048",
@@ -204,12 +216,13 @@
 		"num_of_establishment" : 13748
 	},
 	{
-		"id" : 444,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Tom O'Halleran",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6AZ01199",
@@ -221,12 +234,13 @@
 		"num_of_establishment" : 11927
 	},
 	{
-		"id" : 445,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Ann Kirkpatrick",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8AZ02151",
@@ -238,12 +252,13 @@
 		"num_of_establishment" : 15397
 	},
 	{
-		"id" : 446,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Raúl Grijalva",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2AZ07070",
@@ -255,12 +270,13 @@
 		"num_of_establishment" : 9888
 	},
 	{
-		"id" : 447,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Paul Gosar",
 		"party" : "REP",
 		"fec_candidate_id" : "H0AZ01259",
@@ -272,12 +288,13 @@
 		"num_of_establishment" : 12645
 	},
 	{
-		"id" : 448,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Andy Biggs",
 		"party" : "REP",
 		"fec_candidate_id" : "H6AZ05083",
@@ -289,12 +306,13 @@
 		"num_of_establishment" : 14439
 	},
 	{
-		"id" : 449,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "David Schweikert",
 		"party" : "REP",
 		"fec_candidate_id" : "H4AZ06045",
@@ -306,12 +324,13 @@
 		"num_of_establishment" : 24973
 	},
 	{
-		"id" : 450,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Ruben Gallego",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4AZ07043",
@@ -323,12 +342,13 @@
 		"num_of_establishment" : 14033
 	},
 	{
-		"id" : 451,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Debbie Lesko",
 		"party" : "REP",
 		"fec_candidate_id" : "H8AZ08158",
@@ -340,12 +360,13 @@
 		"num_of_establishment" : 11511
 	},
 	{
-		"id" : 452,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Arizona",
 		"st_abbrev" : "AZ",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Greg Stanton",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8AZ09040",
@@ -357,12 +378,13 @@
 		"num_of_establishment" : 23646
 	},
 	{
-		"id" : 457,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Doug LaMalfa",
 		"party" : "REP",
 		"fec_candidate_id" : "H2CA02142",
@@ -374,12 +396,13 @@
 		"num_of_establishment" : 15365
 	},
 	{
-		"id" : 466,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Josh Harder",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA10126",
@@ -391,12 +414,13 @@
 		"num_of_establishment" : 12185
 	},
 	{
-		"id" : 467,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Mark DeSaulnier",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0CA10073",
@@ -408,12 +432,13 @@
 		"num_of_establishment" : 16983
 	},
 	{
-		"id" : 468,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Nancy Pelosi",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA05035",
@@ -425,12 +450,13 @@
 		"num_of_establishment" : 32718
 	},
 	{
-		"id" : 469,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "Barbara Lee",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA09060",
@@ -442,12 +468,13 @@
 		"num_of_establishment" : 19174
 	},
 	{
-		"id" : 470,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "Jackie Speier",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA12171",
@@ -459,12 +486,13 @@
 		"num_of_establishment" : 19454
 	},
 	{
-		"id" : 471,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "15",
+		"district_char" : "15",
 		"name" : "Eric Swalwell",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA15094",
@@ -476,12 +504,13 @@
 		"num_of_establishment" : 16997
 	},
 	{
-		"id" : 472,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "16",
+		"district_char" : "16",
 		"name" : "Jim Costa",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4CA20082",
@@ -493,12 +522,13 @@
 		"num_of_establishment" : 9102
 	},
 	{
-		"id" : 473,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "17",
+		"district_char" : "17",
 		"name" : "Ro Khanna",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4CA12055",
@@ -510,12 +540,13 @@
 		"num_of_establishment" : 21411
 	},
 	{
-		"id" : 474,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "18",
+		"district_char" : "18",
 		"name" : "Anna Eshoo",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA12098",
@@ -527,12 +558,13 @@
 		"num_of_establishment" : 22079
 	},
 	{
-		"id" : 475,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "19",
+		"district_char" : "19",
 		"name" : "Zoe Lofgren",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4CA16049",
@@ -544,12 +576,13 @@
 		"num_of_establishment" : 13930
 	},
 	{
-		"id" : 458,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Jared Huffman",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA06259",
@@ -561,12 +594,13 @@
 		"num_of_establishment" : 21721
 	},
 	{
-		"id" : 476,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "20",
+		"district_char" : "20",
 		"name" : "Jimmy Panetta",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6CA20152",
@@ -578,12 +612,13 @@
 		"num_of_establishment" : 16384
 	},
 	{
-		"id" : 477,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "21",
+		"district_char" : "21",
 		"name" : "TJ Cox",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA10167",
@@ -595,12 +630,13 @@
 		"num_of_establishment" : 6911
 	},
 	{
-		"id" : 478,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "22",
+		"district_char" : "22",
 		"name" : "Devin Nunes",
 		"party" : "REP",
 		"fec_candidate_id" : "H8CA20059",
@@ -612,12 +648,13 @@
 		"num_of_establishment" : 14384
 	},
 	{
-		"id" : 479,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "23",
+		"district_char" : "23",
 		"name" : "Kevin McCarthy",
 		"party" : "REP",
 		"fec_candidate_id" : "H6CA22125",
@@ -629,12 +666,13 @@
 		"num_of_establishment" : 12055
 	},
 	{
-		"id" : 480,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "24",
+		"district_char" : "24",
 		"name" : "Salud Carbajal",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6CA24303",
@@ -646,12 +684,13 @@
 		"num_of_establishment" : 20372
 	},
 	{
-		"id" : 481,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "25",
+		"district_char" : "25",
 		"name" : "Katie Hill",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA25074",
@@ -663,12 +702,13 @@
 		"num_of_establishment" : 12375
 	},
 	{
-		"id" : 482,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "26",
+		"district_char" : "26",
 		"name" : "Julia Brownley",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA00120",
@@ -680,12 +720,13 @@
 		"num_of_establishment" : 18932
 	},
 	{
-		"id" : 483,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "27",
+		"district_char" : "27",
 		"name" : "Judy Chu",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0CA32101",
@@ -697,12 +738,13 @@
 		"num_of_establishment" : 21984
 	},
 	{
-		"id" : 484,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "28",
+		"district_char" : "28",
 		"name" : "Adam Schiff",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0CA27085",
@@ -714,12 +756,13 @@
 		"num_of_establishment" : 25077
 	},
 	{
-		"id" : 485,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "29",
+		"district_char" : "29",
 		"name" : "Tony Cárdenas",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA28113",
@@ -731,12 +774,13 @@
 		"num_of_establishment" : 12253
 	},
 	{
-		"id" : 459,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "John Garamendi",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0CA10149",
@@ -748,12 +792,13 @@
 		"num_of_establishment" : 11822
 	},
 	{
-		"id" : 486,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "30",
+		"district_char" : "30",
 		"name" : "Brad Sherman",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6CA24113",
@@ -765,12 +810,13 @@
 		"num_of_establishment" : 30390
 	},
 	{
-		"id" : 487,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "31",
+		"district_char" : "31",
 		"name" : "Pete Aguilar",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA31125",
@@ -782,12 +828,13 @@
 		"num_of_establishment" : 13186
 	},
 	{
-		"id" : 488,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "32",
+		"district_char" : "32",
 		"name" : "Grace Napolitano",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA34068",
@@ -799,12 +846,13 @@
 		"num_of_establishment" : 15315
 	},
 	{
-		"id" : 489,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "33",
+		"district_char" : "33",
 		"name" : "Ted Lieu",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4CA33119",
@@ -816,12 +864,13 @@
 		"num_of_establishment" : 40750
 	},
 	{
-		"id" : 490,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "34",
+		"district_char" : "34",
 		"name" : "Jimmy Gomez",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA34266",
@@ -833,12 +882,13 @@
 		"num_of_establishment" : 23945
 	},
 	{
-		"id" : 491,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "35",
+		"district_char" : "35",
 		"name" : "Norma Torres",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4CA35031",
@@ -850,12 +900,13 @@
 		"num_of_establishment" : 13495
 	},
 	{
-		"id" : 492,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "36",
+		"district_char" : "36",
 		"name" : "Raul Ruiz",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA36439",
@@ -867,12 +918,13 @@
 		"num_of_establishment" : 12438
 	},
 	{
-		"id" : 493,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "37",
+		"district_char" : "37",
 		"name" : "Karen Bass",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0CA33117",
@@ -884,12 +936,13 @@
 		"num_of_establishment" : 21475
 	},
 	{
-		"id" : 494,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "38",
+		"district_char" : "38",
 		"name" : "Linda Sánchez",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA39078",
@@ -901,12 +954,13 @@
 		"num_of_establishment" : 14810
 	},
 	{
-		"id" : 495,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "39",
+		"district_char" : "39",
 		"name" : "Gil Cisneros",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA39174",
@@ -918,12 +972,13 @@
 		"num_of_establishment" : 19665
 	},
 	{
-		"id" : 460,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Tom McClintock",
 		"party" : "REP",
 		"fec_candidate_id" : "H8CA04152",
@@ -935,12 +990,13 @@
 		"num_of_establishment" : 18682
 	},
 	{
-		"id" : 496,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "40",
+		"district_char" : "40",
 		"name" : "Lucille Roybal-Allard",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA33048",
@@ -952,12 +1008,13 @@
 		"num_of_establishment" : 11400
 	},
 	{
-		"id" : 497,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "41",
+		"district_char" : "41",
 		"name" : "Mark Takano",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA43245",
@@ -969,12 +1026,13 @@
 		"num_of_establishment" : 10126
 	},
 	{
-		"id" : 498,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "42",
+		"district_char" : "42",
 		"name" : "Ken Calvert",
 		"party" : "REP",
 		"fec_candidate_id" : "H2CA37023",
@@ -986,12 +1044,13 @@
 		"num_of_establishment" : 11740
 	},
 	{
-		"id" : 499,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "43",
+		"district_char" : "43",
 		"name" : "Maxine Waters",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4CA23011",
@@ -1003,12 +1062,13 @@
 		"num_of_establishment" : 15217
 	},
 	{
-		"id" : 500,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "44",
+		"district_char" : "44",
 		"name" : "Nanette Barragán",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6CA44103",
@@ -1020,12 +1080,13 @@
 		"num_of_establishment" : 8735
 	},
 	{
-		"id" : 501,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "45",
+		"district_char" : "45",
 		"name" : "Katie Porter",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA45130",
@@ -1037,12 +1098,13 @@
 		"num_of_establishment" : 26021
 	},
 	{
-		"id" : 502,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "46",
+		"district_char" : "46",
 		"name" : "Lou Correa",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6CA46116",
@@ -1054,12 +1116,13 @@
 		"num_of_establishment" : 18049
 	},
 	{
-		"id" : 503,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "47",
+		"district_char" : "47",
 		"name" : "Alan Lowenthal",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA00104",
@@ -1071,12 +1134,13 @@
 		"num_of_establishment" : 15770
 	},
 	{
-		"id" : 504,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "48",
+		"district_char" : "48",
 		"name" : "Harley Rouda",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA48035",
@@ -1088,12 +1152,13 @@
 		"num_of_establishment" : 25408
 	},
 	{
-		"id" : 505,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "49",
+		"district_char" : "49",
 		"name" : "Mike Levin",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA49058",
@@ -1105,12 +1170,13 @@
 		"num_of_establishment" : 21754
 	},
 	{
-		"id" : 461,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Mike Thompson",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CA01109",
@@ -1122,12 +1188,13 @@
 		"num_of_establishment" : 17266
 	},
 	{
-		"id" : 506,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "50",
+		"district_char" : "50",
 		"name" : "Duncan D. Hunter",
 		"party" : "REP",
 		"fec_candidate_id" : "H8CA52052",
@@ -1139,12 +1206,13 @@
 		"num_of_establishment" : 16313
 	},
 	{
-		"id" : 507,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "51",
+		"district_char" : "51",
 		"name" : "Juan Vargas",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA50026",
@@ -1156,12 +1224,13 @@
 		"num_of_establishment" : 10343
 	},
 	{
-		"id" : 508,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "52",
+		"district_char" : "52",
 		"name" : "Scott Peters",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CA52089",
@@ -1173,12 +1242,13 @@
 		"num_of_establishment" : 29498
 	},
 	{
-		"id" : 509,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "53",
+		"district_char" : "53",
 		"name" : "Susan Davis",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0CA49055",
@@ -1190,12 +1260,13 @@
 		"num_of_establishment" : 16279
 	},
 	{
-		"id" : 462,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Doris Matsui",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6CA05195",
@@ -1207,12 +1278,13 @@
 		"num_of_establishment" : 15582
 	},
 	{
-		"id" : 463,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Ami Bera",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0CA03078",
@@ -1224,12 +1296,13 @@
 		"num_of_establishment" : 13795
 	},
 	{
-		"id" : 464,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Paul Cook",
 		"party" : "REP",
 		"fec_candidate_id" : "H2CA08164",
@@ -1241,12 +1314,13 @@
 		"num_of_establishment" : 9402
 	},
 	{
-		"id" : 465,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "California",
 		"st_abbrev" : "CA",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Jerry McNerney",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4CA11081",
@@ -1258,12 +1332,13 @@
 		"num_of_establishment" : 10777
 	},
 	{
-		"id" : 510,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Colorado",
 		"st_abbrev" : "CO",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Diana DeGette",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6CO01141",
@@ -1275,12 +1350,13 @@
 		"num_of_establishment" : 29618
 	},
 	{
-		"id" : 511,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Colorado",
 		"st_abbrev" : "CO",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Joe Neguse",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CO02160",
@@ -1292,12 +1368,13 @@
 		"num_of_establishment" : 30011
 	},
 	{
-		"id" : 512,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Colorado",
 		"st_abbrev" : "CO",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Scott Tipton",
 		"party" : "REP",
 		"fec_candidate_id" : "H6CO03139",
@@ -1309,12 +1386,13 @@
 		"num_of_establishment" : 25551
 	},
 	{
-		"id" : 513,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Colorado",
 		"st_abbrev" : "CO",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Ken Buck",
 		"party" : "REP",
 		"fec_candidate_id" : "H4CO04090",
@@ -1326,12 +1404,13 @@
 		"num_of_establishment" : 19686
 	},
 	{
-		"id" : 514,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Colorado",
 		"st_abbrev" : "CO",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Doug Lamborn",
 		"party" : "REP",
 		"fec_candidate_id" : "H6CO05159",
@@ -1343,12 +1422,13 @@
 		"num_of_establishment" : 19829
 	},
 	{
-		"id" : 515,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Colorado",
 		"st_abbrev" : "CO",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Jason Crow",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CO06229",
@@ -1360,12 +1440,13 @@
 		"num_of_establishment" : 20336
 	},
 	{
-		"id" : 516,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Colorado",
 		"st_abbrev" : "CO",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Ed Perlmutter",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6CO07023",
@@ -1377,12 +1458,13 @@
 		"num_of_establishment" : 19500
 	},
 	{
-		"id" : 517,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Connecticut",
 		"st_abbrev" : "CT",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "John B. Larson",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CT01046",
@@ -1394,12 +1476,13 @@
 		"num_of_establishment" : 18540
 	},
 	{
-		"id" : 518,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Connecticut",
 		"st_abbrev" : "CT",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Joe Courtney",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2CT02112",
@@ -1411,12 +1494,13 @@
 		"num_of_establishment" : 14386
 	},
 	{
-		"id" : 519,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Connecticut",
 		"st_abbrev" : "CT",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Rosa DeLauro",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0CT03072",
@@ -1428,12 +1512,13 @@
 		"num_of_establishment" : 16503
 	},
 	{
-		"id" : 520,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Connecticut",
 		"st_abbrev" : "CT",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Jim Himes",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CT04172",
@@ -1445,12 +1530,13 @@
 		"num_of_establishment" : 21896
 	},
 	{
-		"id" : 521,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Connecticut",
 		"st_abbrev" : "CT",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Jahana Hayes",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8CT05245",
@@ -1462,12 +1548,13 @@
 		"num_of_establishment" : 17551
 	},
 	{
-		"id" : 522,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Delaware",
 		"st_abbrev" : "DE",
+		"fips" : null,
 		"district" : "0",
+		"district_char" : "00",
 		"name" : "Lisa Blunt Rochester",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6DE00206",
@@ -1479,12 +1566,13 @@
 		"num_of_establishment" : 25366
 	},
 	{
-		"id" : 523,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Matt Gaetz",
 		"party" : "REP",
 		"fec_candidate_id" : "H6FL01119",
@@ -1496,12 +1584,13 @@
 		"num_of_establishment" : 16955
 	},
 	{
-		"id" : 532,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Val Demings",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2FL08063",
@@ -1513,12 +1602,13 @@
 		"num_of_establishment" : 22907
 	},
 	{
-		"id" : 533,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Daniel Webster",
 		"party" : "REP",
 		"fec_candidate_id" : "H0FL08208",
@@ -1530,12 +1620,13 @@
 		"num_of_establishment" : 12340
 	},
 	{
-		"id" : 534,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Gus Bilirakis",
 		"party" : "REP",
 		"fec_candidate_id" : "H6FL09070",
@@ -1547,12 +1638,13 @@
 		"num_of_establishment" : 16550
 	},
 	{
-		"id" : 535,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "Charlie Crist",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6FL13205",
@@ -1564,12 +1656,13 @@
 		"num_of_establishment" : 21271
 	},
 	{
-		"id" : 536,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "Kathy Castor",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6FL11126",
@@ -1581,12 +1674,13 @@
 		"num_of_establishment" : 24612
 	},
 	{
-		"id" : 537,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "15",
+		"district_char" : "15",
 		"name" : "Ross Spano",
 		"party" : "REP",
 		"fec_candidate_id" : "H8FL15230",
@@ -1598,12 +1692,13 @@
 		"num_of_establishment" : 16463
 	},
 	{
-		"id" : 538,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "16",
+		"district_char" : "16",
 		"name" : "Vern Buchanan",
 		"party" : "REP",
 		"fec_candidate_id" : "H6FL13148",
@@ -1615,12 +1710,13 @@
 		"num_of_establishment" : 21196
 	},
 	{
-		"id" : 539,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "17",
+		"district_char" : "17",
 		"name" : "Greg Steube",
 		"party" : "REP",
 		"fec_candidate_id" : "H8FL17053",
@@ -1632,12 +1728,13 @@
 		"num_of_establishment" : 13760
 	},
 	{
-		"id" : 540,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "18",
+		"district_char" : "18",
 		"name" : "Brian Mast",
 		"party" : "REP",
 		"fec_candidate_id" : "H6FL18097",
@@ -1649,12 +1746,13 @@
 		"num_of_establishment" : 21571
 	},
 	{
-		"id" : 541,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "19",
+		"district_char" : "19",
 		"name" : "Francis Rooney",
 		"party" : "REP",
 		"fec_candidate_id" : "H6FL19087",
@@ -1666,12 +1764,13 @@
 		"num_of_establishment" : 25537
 	},
 	{
-		"id" : 524,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Neal Dunn",
 		"party" : "REP",
 		"fec_candidate_id" : "H6FL02208",
@@ -1683,12 +1782,13 @@
 		"num_of_establishment" : 14940
 	},
 	{
-		"id" : 542,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "20",
+		"district_char" : "20",
 		"name" : "Alcee Hastings",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2FL23021",
@@ -1700,12 +1800,13 @@
 		"num_of_establishment" : 17351
 	},
 	{
-		"id" : 543,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "21",
+		"district_char" : "21",
 		"name" : "Lois Frankel",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2FL14053",
@@ -1717,12 +1818,13 @@
 		"num_of_establishment" : 21658
 	},
 	{
-		"id" : 544,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "22",
+		"district_char" : "22",
 		"name" : "Ted Deutch",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0FL19080",
@@ -1734,12 +1836,13 @@
 		"num_of_establishment" : 33420
 	},
 	{
-		"id" : 545,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "23",
+		"district_char" : "23",
 		"name" : "Debbie Wasserman Schultz",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4FL20023",
@@ -1751,12 +1854,13 @@
 		"num_of_establishment" : 26148
 	},
 	{
-		"id" : 546,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "24",
+		"district_char" : "24",
 		"name" : "Frederica Wilson",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0FL17068",
@@ -1768,12 +1872,13 @@
 		"num_of_establishment" : 16401
 	},
 	{
-		"id" : 547,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "25",
+		"district_char" : "25",
 		"name" : "Mario Diaz-Balart",
 		"party" : "REP",
 		"fec_candidate_id" : "H2FL25018",
@@ -1785,12 +1890,13 @@
 		"num_of_establishment" : 26169
 	},
 	{
-		"id" : 548,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "26",
+		"district_char" : "26",
 		"name" : "Debbie Mucarsel-Powell",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8FL26039",
@@ -1802,12 +1908,13 @@
 		"num_of_establishment" : 15223
 	},
 	{
-		"id" : 549,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "27",
+		"district_char" : "27",
 		"name" : "Donna Shalala",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8FL27193",
@@ -1819,12 +1926,13 @@
 		"num_of_establishment" : 32348
 	},
 	{
-		"id" : 525,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Ted Yoho",
 		"party" : "REP",
 		"fec_candidate_id" : "H2FL06109",
@@ -1836,12 +1944,13 @@
 		"num_of_establishment" : 16478
 	},
 	{
-		"id" : 526,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "John Rutherford",
 		"party" : "REP",
 		"fec_candidate_id" : "H6FL04105",
@@ -1853,12 +1962,13 @@
 		"num_of_establishment" : 23983
 	},
 	{
-		"id" : 527,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Al Lawson",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0FL02086",
@@ -1870,12 +1980,13 @@
 		"num_of_establishment" : 14651
 	},
 	{
-		"id" : 528,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Michael Waltz",
 		"party" : "REP",
 		"fec_candidate_id" : "H8FL06148",
@@ -1887,12 +1998,13 @@
 		"num_of_establishment" : 16927
 	},
 	{
-		"id" : 529,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Stephanie Murphy",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6FL07140",
@@ -1904,12 +2016,13 @@
 		"num_of_establishment" : 24259
 	},
 	{
-		"id" : 530,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Bill Posey",
 		"party" : "REP",
 		"fec_candidate_id" : "H8FL15107",
@@ -1921,12 +2034,13 @@
 		"num_of_establishment" : 18379
 	},
 	{
-		"id" : 531,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Florida",
 		"st_abbrev" : "FL",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Darren Soto",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6FL09179",
@@ -1938,12 +2052,13 @@
 		"num_of_establishment" : 13478
 	},
 	{
-		"id" : 550,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Buddy Carter",
 		"party" : "REP",
 		"fec_candidate_id" : "H4GA01039",
@@ -1955,12 +2070,13 @@
 		"num_of_establishment" : 15774
 	},
 	{
-		"id" : 559,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Jody Hice",
 		"party" : "REP",
 		"fec_candidate_id" : "H0GA07125",
@@ -1972,12 +2088,13 @@
 		"num_of_establishment" : 13100
 	},
 	{
-		"id" : 560,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Barry Loudermilk",
 		"party" : "REP",
 		"fec_candidate_id" : "H4GA11061",
@@ -1989,12 +2106,13 @@
 		"num_of_establishment" : 21091
 	},
 	{
-		"id" : 561,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Rick W. Allen",
 		"party" : "REP",
 		"fec_candidate_id" : "H2GA12121",
@@ -2006,12 +2124,13 @@
 		"num_of_establishment" : 13169
 	},
 	{
-		"id" : 562,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "David Scott",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2GA13012",
@@ -2023,12 +2142,13 @@
 		"num_of_establishment" : 11107
 	},
 	{
-		"id" : 563,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "Tom Graves",
 		"party" : "REP",
 		"fec_candidate_id" : "H0GA09030",
@@ -2040,12 +2160,13 @@
 		"num_of_establishment" : 10652
 	},
 	{
-		"id" : 551,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Sanford Bishop",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2GA02031",
@@ -2057,12 +2178,13 @@
 		"num_of_establishment" : 12942
 	},
 	{
-		"id" : 552,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Drew Ferguson",
 		"party" : "REP",
 		"fec_candidate_id" : "H6GA03113",
@@ -2074,12 +2196,13 @@
 		"num_of_establishment" : 15035
 	},
 	{
-		"id" : 553,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Hank Johnson",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6GA04129",
@@ -2091,12 +2214,13 @@
 		"num_of_establishment" : 11245
 	},
 	{
-		"id" : 554,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "John Lewis",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6GA05217",
@@ -2108,12 +2232,13 @@
 		"num_of_establishment" : 22133
 	},
 	{
-		"id" : 555,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Lucy McBath",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8GA06393",
@@ -2125,12 +2250,13 @@
 		"num_of_establishment" : 28524
 	},
 	{
-		"id" : 556,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Rob Woodall",
 		"party" : "REP",
 		"fec_candidate_id" : "H0GA07133",
@@ -2142,12 +2268,13 @@
 		"num_of_establishment" : 24763
 	},
 	{
-		"id" : 557,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Austin Scott",
 		"party" : "REP",
 		"fec_candidate_id" : "H0GA08099",
@@ -2159,12 +2286,13 @@
 		"num_of_establishment" : 13248
 	},
 	{
-		"id" : 558,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Georgia",
 		"st_abbrev" : "GA",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Doug Collins",
 		"party" : "REP",
 		"fec_candidate_id" : "H2GA09150",
@@ -2176,12 +2304,13 @@
 		"num_of_establishment" : 14712
 	},
 	{
-		"id" : 564,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Hawaii",
 		"st_abbrev" : "HI",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Ed Case",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8HI01234",
@@ -2193,12 +2322,13 @@
 		"num_of_establishment" : 18230
 	},
 	{
-		"id" : 565,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Hawaii",
 		"st_abbrev" : "HI",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Tulsi Gabbard",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2HI02508",
@@ -2210,12 +2340,13 @@
 		"num_of_establishment" : 13913
 	},
 	{
-		"id" : 595,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Iowa",
 		"st_abbrev" : "IA",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Abby Finkenauer",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8IA01094",
@@ -2227,12 +2358,13 @@
 		"num_of_establishment" : 19583
 	},
 	{
-		"id" : 596,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Iowa",
 		"st_abbrev" : "IA",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Dave Loebsack",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6IA02146",
@@ -2244,12 +2376,13 @@
 		"num_of_establishment" : 18874
 	},
 	{
-		"id" : 597,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Iowa",
 		"st_abbrev" : "IA",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Cindy Axne",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8IA03124",
@@ -2261,12 +2394,13 @@
 		"num_of_establishment" : 20647
 	},
 	{
-		"id" : 598,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Iowa",
 		"st_abbrev" : "IA",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Steve King",
 		"party" : "REP",
 		"fec_candidate_id" : "H2IA05072",
@@ -2278,12 +2412,13 @@
 		"num_of_establishment" : 22066
 	},
 	{
-		"id" : 566,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Idaho",
 		"st_abbrev" : "ID",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Russ Fulcher",
 		"party" : "REP",
 		"fec_candidate_id" : "H8ID01124",
@@ -2295,12 +2430,13 @@
 		"num_of_establishment" : 21696
 	},
 	{
-		"id" : 567,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Idaho",
 		"st_abbrev" : "ID",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Mike Simpson",
 		"party" : "REP",
 		"fec_candidate_id" : "H8ID02064",
@@ -2312,12 +2448,13 @@
 		"num_of_establishment" : 23825
 	},
 	{
-		"id" : 568,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Bobby Rush",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2IL01042",
@@ -2329,12 +2466,13 @@
 		"num_of_establishment" : 11931
 	},
 	{
-		"id" : 577,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Brad Schneider",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2IL10068",
@@ -2346,12 +2484,13 @@
 		"num_of_establishment" : 21561
 	},
 	{
-		"id" : 578,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Bill Foster",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8IL14067",
@@ -2363,12 +2502,13 @@
 		"num_of_establishment" : 16098
 	},
 	{
-		"id" : 579,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Mike Bost",
 		"party" : "REP",
 		"fec_candidate_id" : "H4IL12060",
@@ -2380,12 +2520,13 @@
 		"num_of_establishment" : 14685
 	},
 	{
-		"id" : 580,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "Rodney Davis",
 		"party" : "REP",
 		"fec_candidate_id" : "H2IL13120",
@@ -2397,12 +2538,13 @@
 		"num_of_establishment" : 15495
 	},
 	{
-		"id" : 581,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "Lauren Underwood",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8IL14174",
@@ -2414,12 +2556,13 @@
 		"num_of_establishment" : 17645
 	},
 	{
-		"id" : 582,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "15",
+		"district_char" : "15",
 		"name" : "John Shimkus",
 		"party" : "REP",
 		"fec_candidate_id" : "H2IL20042",
@@ -2431,12 +2574,13 @@
 		"num_of_establishment" : 15367
 	},
 	{
-		"id" : 583,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "16",
+		"district_char" : "16",
 		"name" : "Adam Kinzinger",
 		"party" : "REP",
 		"fec_candidate_id" : "H0IL11052",
@@ -2448,12 +2592,13 @@
 		"num_of_establishment" : 15063
 	},
 	{
-		"id" : 584,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "17",
+		"district_char" : "17",
 		"name" : "Cheri Bustos",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2IL17071",
@@ -2465,12 +2610,13 @@
 		"num_of_establishment" : 14851
 	},
 	{
-		"id" : 585,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "18",
+		"district_char" : "18",
 		"name" : "Darin LaHood",
 		"party" : "REP",
 		"fec_candidate_id" : "H6IL18088",
@@ -2482,12 +2628,13 @@
 		"num_of_establishment" : 16029
 	},
 	{
-		"id" : 569,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Robin Kelly",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2IL02172",
@@ -2499,12 +2646,13 @@
 		"num_of_establishment" : 10151
 	},
 	{
-		"id" : 570,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Dan Lipinski",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4IL03077",
@@ -2516,12 +2664,13 @@
 		"num_of_establishment" : 15644
 	},
 	{
-		"id" : 571,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Jesús García",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8IL04134",
@@ -2533,12 +2682,13 @@
 		"num_of_establishment" : 11019
 	},
 	{
-		"id" : 572,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Mike Quigley",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0IL05096",
@@ -2550,12 +2700,13 @@
 		"num_of_establishment" : 23375
 	},
 	{
-		"id" : 573,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Sean Casten",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8IL06139",
@@ -2567,12 +2718,13 @@
 		"num_of_establishment" : 25612
 	},
 	{
-		"id" : 574,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Danny K. Davis",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4IL07037",
@@ -2584,12 +2736,13 @@
 		"num_of_establishment" : 30036
 	},
 	{
-		"id" : 575,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Raja Krishnamoorthi",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6IL08147",
@@ -2601,12 +2754,13 @@
 		"num_of_establishment" : 23551
 	},
 	{
-		"id" : 576,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Illinois",
 		"st_abbrev" : "IL",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Jan Schakowsky",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8IL09067",
@@ -2618,12 +2772,13 @@
 		"num_of_establishment" : 20623
 	},
 	{
-		"id" : 586,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Pete Visclosky",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4IN01012",
@@ -2635,12 +2790,13 @@
 		"num_of_establishment" : 14793
 	},
 	{
-		"id" : 587,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Jackie Walorski",
 		"party" : "REP",
 		"fec_candidate_id" : "H0IN02190",
@@ -2652,12 +2808,13 @@
 		"num_of_establishment" : 15621
 	},
 	{
-		"id" : 588,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Jim Banks",
 		"party" : "REP",
 		"fec_candidate_id" : "H6IN03229",
@@ -2669,12 +2826,13 @@
 		"num_of_establishment" : 17467
 	},
 	{
-		"id" : 589,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Jim Baird",
 		"party" : "REP",
 		"fec_candidate_id" : "H8IN04199",
@@ -2686,12 +2844,13 @@
 		"num_of_establishment" : 15058
 	},
 	{
-		"id" : 590,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Susan Brooks",
 		"party" : "REP",
 		"fec_candidate_id" : "H2IN05082",
@@ -2703,12 +2862,13 @@
 		"num_of_establishment" : 21571
 	},
 	{
-		"id" : 591,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Greg Pence",
 		"party" : "REP",
 		"fec_candidate_id" : "H8IN06129",
@@ -2720,12 +2880,13 @@
 		"num_of_establishment" : 14280
 	},
 	{
-		"id" : 592,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "André Carson",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8IN07184",
@@ -2737,12 +2898,13 @@
 		"num_of_establishment" : 15162
 	},
 	{
-		"id" : 593,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Larry Bucshon",
 		"party" : "REP",
 		"fec_candidate_id" : "H0IN08114",
@@ -2754,12 +2916,13 @@
 		"num_of_establishment" : 16244
 	},
 	{
-		"id" : 594,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Indiana",
 		"st_abbrev" : "IN",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Trey Hollingsworth",
 		"party" : "REP",
 		"fec_candidate_id" : "H6IN09176",
@@ -2771,12 +2934,13 @@
 		"num_of_establishment" : 15232
 	},
 	{
-		"id" : 599,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kansas",
 		"st_abbrev" : "KS",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Roger Marshall",
 		"party" : "REP",
 		"fec_candidate_id" : "H6KS01179",
@@ -2788,12 +2952,13 @@
 		"num_of_establishment" : 20010
 	},
 	{
-		"id" : 600,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kansas",
 		"st_abbrev" : "KS",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Steve Watkins",
 		"party" : "REP",
 		"fec_candidate_id" : "H8KS02199",
@@ -2805,12 +2970,13 @@
 		"num_of_establishment" : 15898
 	},
 	{
-		"id" : 601,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kansas",
 		"st_abbrev" : "KS",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Sharice Davids",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8KS03155",
@@ -2822,12 +2988,13 @@
 		"num_of_establishment" : 21283
 	},
 	{
-		"id" : 602,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kansas",
 		"st_abbrev" : "KS",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Ron Estes",
 		"party" : "REP",
 		"fec_candidate_id" : "H8KS04112",
@@ -2839,12 +3006,13 @@
 		"num_of_establishment" : 17199
 	},
 	{
-		"id" : 603,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kentucky",
 		"st_abbrev" : "KY",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "James Comer",
 		"party" : "REP",
 		"fec_candidate_id" : "H6KY01110",
@@ -2856,12 +3024,13 @@
 		"num_of_establishment" : 14355
 	},
 	{
-		"id" : 604,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kentucky",
 		"st_abbrev" : "KY",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Brett Guthrie",
 		"party" : "REP",
 		"fec_candidate_id" : "H8KY02031",
@@ -2873,12 +3042,13 @@
 		"num_of_establishment" : 14608
 	},
 	{
-		"id" : 605,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kentucky",
 		"st_abbrev" : "KY",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "John Yarmuth",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6KY03124",
@@ -2890,12 +3060,13 @@
 		"num_of_establishment" : 19425
 	},
 	{
-		"id" : 606,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kentucky",
 		"st_abbrev" : "KY",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Thomas Massie",
 		"party" : "REP",
 		"fec_candidate_id" : "H2KY04121",
@@ -2907,12 +3078,13 @@
 		"num_of_establishment" : 14364
 	},
 	{
-		"id" : 607,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kentucky",
 		"st_abbrev" : "KY",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Hal Rogers",
 		"party" : "REP",
 		"fec_candidate_id" : "H0KY05015",
@@ -2924,12 +3096,13 @@
 		"num_of_establishment" : 11560
 	},
 	{
-		"id" : 608,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Kentucky",
 		"st_abbrev" : "KY",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Andy Barr",
 		"party" : "REP",
 		"fec_candidate_id" : "H0KY06104",
@@ -2941,12 +3114,13 @@
 		"num_of_establishment" : 17215
 	},
 	{
-		"id" : 609,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Louisiana",
 		"st_abbrev" : "LA",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Steve Scalise",
 		"party" : "REP",
 		"fec_candidate_id" : "H0LA01087",
@@ -2958,12 +3132,13 @@
 		"num_of_establishment" : 21106
 	},
 	{
-		"id" : 610,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Louisiana",
 		"st_abbrev" : "LA",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Cedric Richmond",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8LA02054",
@@ -2975,12 +3150,13 @@
 		"num_of_establishment" : 16070
 	},
 	{
-		"id" : 611,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Louisiana",
 		"st_abbrev" : "LA",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Clay Higgins",
 		"party" : "REP",
 		"fec_candidate_id" : "H6LA03148",
@@ -2992,12 +3168,13 @@
 		"num_of_establishment" : 19703
 	},
 	{
-		"id" : 612,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Louisiana",
 		"st_abbrev" : "LA",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Mike Johnson",
 		"party" : "REP",
 		"fec_candidate_id" : "H6LA04138",
@@ -3009,12 +3186,13 @@
 		"num_of_establishment" : 15002
 	},
 	{
-		"id" : 613,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Louisiana",
 		"st_abbrev" : "LA",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Ralph Abraham",
 		"party" : "REP",
 		"fec_candidate_id" : "H4LA05221",
@@ -3026,12 +3204,13 @@
 		"num_of_establishment" : 15112
 	},
 	{
-		"id" : 614,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Louisiana",
 		"st_abbrev" : "LA",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Garret Graves",
 		"party" : "REP",
 		"fec_candidate_id" : "H4LA06153",
@@ -3043,12 +3222,13 @@
 		"num_of_establishment" : 18207
 	},
 	{
-		"id" : 625,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Richard Neal",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8MA02041",
@@ -3060,12 +3240,13 @@
 		"num_of_establishment" : 16248
 	},
 	{
-		"id" : 626,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Jim McGovern",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4MA03022",
@@ -3077,12 +3258,13 @@
 		"num_of_establishment" : 16760
 	},
 	{
-		"id" : 627,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Lori Trahan",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8MA03106",
@@ -3094,12 +3276,13 @@
 		"num_of_establishment" : 16467
 	},
 	{
-		"id" : 628,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Joseph P. Kennedy III",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2MA04073",
@@ -3111,12 +3294,13 @@
 		"num_of_establishment" : 20832
 	},
 	{
-		"id" : 629,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Katherine Clark",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4MA05084",
@@ -3128,12 +3312,13 @@
 		"num_of_establishment" : 21006
 	},
 	{
-		"id" : 630,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Seth Moulton",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4MA06090",
@@ -3145,12 +3330,13 @@
 		"num_of_establishment" : 21277
 	},
 	{
-		"id" : 631,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Ayanna Pressley",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8MA07032",
@@ -3162,12 +3348,13 @@
 		"num_of_establishment" : 17095
 	},
 	{
-		"id" : 632,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Stephen F. Lynch",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2MA09072",
@@ -3179,12 +3366,13 @@
 		"num_of_establishment" : 24588
 	},
 	{
-		"id" : 633,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Massachusetts",
 		"st_abbrev" : "MA",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Bill Keating",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0MA10082",
@@ -3196,12 +3384,13 @@
 		"num_of_establishment" : 22707
 	},
 	{
-		"id" : 617,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maryland",
 		"st_abbrev" : "MD",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Andy Harris",
 		"party" : "REP",
 		"fec_candidate_id" : "H8MD01094",
@@ -3213,12 +3402,13 @@
 		"num_of_establishment" : 17649
 	},
 	{
-		"id" : 618,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maryland",
 		"st_abbrev" : "MD",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Dutch Ruppersberger",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2MD02160",
@@ -3230,12 +3420,13 @@
 		"num_of_establishment" : 16457
 	},
 	{
-		"id" : 619,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maryland",
 		"st_abbrev" : "MD",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "John Sarbanes",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6MD03292",
@@ -3247,12 +3438,13 @@
 		"num_of_establishment" : 21075
 	},
 	{
-		"id" : 620,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maryland",
 		"st_abbrev" : "MD",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Anthony G. Brown",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6MD04209",
@@ -3264,12 +3456,13 @@
 		"num_of_establishment" : 12929
 	},
 	{
-		"id" : 621,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maryland",
 		"st_abbrev" : "MD",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Steny Hoyer",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2MD05155",
@@ -3281,12 +3474,13 @@
 		"num_of_establishment" : 14122
 	},
 	{
-		"id" : 622,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maryland",
 		"st_abbrev" : "MD",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "David Trone",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8MD06168",
@@ -3298,12 +3492,13 @@
 		"num_of_establishment" : 18921
 	},
 	{
-		"id" : 623,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maryland",
 		"st_abbrev" : "MD",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Elijah Cummings",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6MD07160",
@@ -3315,12 +3510,13 @@
 		"num_of_establishment" : 15662
 	},
 	{
-		"id" : 624,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maryland",
 		"st_abbrev" : "MD",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Jamie Raskin",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6MD08457",
@@ -3332,12 +3528,13 @@
 		"num_of_establishment" : 21085
 	},
 	{
-		"id" : 615,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maine",
 		"st_abbrev" : "ME",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Chellie Pingree",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8ME01120",
@@ -3349,12 +3546,13 @@
 		"num_of_establishment" : 23366
 	},
 	{
-		"id" : 616,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Maine",
 		"st_abbrev" : "ME",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Jared Golden",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8ME02185",
@@ -3366,12 +3564,13 @@
 		"num_of_establishment" : 17522
 	},
 	{
-		"id" : 634,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Jack Bergman",
 		"party" : "REP",
 		"fec_candidate_id" : "H6MI01226",
@@ -3383,12 +3582,13 @@
 		"num_of_establishment" : 19644
 	},
 	{
-		"id" : 643,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Paul Mitchell",
 		"party" : "REP",
 		"fec_candidate_id" : "H4MI04118",
@@ -3400,12 +3600,13 @@
 		"num_of_establishment" : 14750
 	},
 	{
-		"id" : 644,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Haley Stevens",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8MI11254",
@@ -3417,12 +3618,13 @@
 		"num_of_establishment" : 23957
 	},
 	{
-		"id" : 645,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Debbie Dingell",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4MI12079",
@@ -3434,12 +3636,13 @@
 		"num_of_establishment" : 15289
 	},
 	{
-		"id" : 646,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "Rashida Tlaib",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8MI13250",
@@ -3451,12 +3654,13 @@
 		"num_of_establishment" : 10049
 	},
 	{
-		"id" : 647,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "Brenda Lawrence",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2MI14111",
@@ -3468,12 +3672,13 @@
 		"num_of_establishment" : 16155
 	},
 	{
-		"id" : 635,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Bill Huizenga",
 		"party" : "REP",
 		"fec_candidate_id" : "H0MI02094",
@@ -3485,12 +3690,13 @@
 		"num_of_establishment" : 16435
 	},
 	{
-		"id" : 636,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Justin Amash",
 		"party" : "REP",
 		"fec_candidate_id" : "H0MI03126",
@@ -3502,12 +3708,13 @@
 		"num_of_establishment" : 15706
 	},
 	{
-		"id" : 637,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "John Moolenaar",
 		"party" : "REP",
 		"fec_candidate_id" : "H4MI04126",
@@ -3519,12 +3726,13 @@
 		"num_of_establishment" : 13633
 	},
 	{
-		"id" : 638,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Dan Kildee",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2MI05119",
@@ -3536,12 +3744,13 @@
 		"num_of_establishment" : 13578
 	},
 	{
-		"id" : 639,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Fred Upton",
 		"party" : "REP",
 		"fec_candidate_id" : "H6MI04113",
@@ -3553,12 +3762,13 @@
 		"num_of_establishment" : 14408
 	},
 	{
-		"id" : 640,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Tim Walberg",
 		"party" : "REP",
 		"fec_candidate_id" : "H4MI07103",
@@ -3570,12 +3780,13 @@
 		"num_of_establishment" : 12615
 	},
 	{
-		"id" : 641,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Elissa Slotkin",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8MI08102",
@@ -3587,12 +3798,13 @@
 		"num_of_establishment" : 15923
 	},
 	{
-		"id" : 642,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Michigan",
 		"st_abbrev" : "MI",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Andy Levin",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8MI09118",
@@ -3604,12 +3816,13 @@
 		"num_of_establishment" : 17595
 	},
 	{
-		"id" : 648,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Minnesota",
 		"st_abbrev" : "MN",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Jim Hagedorn",
 		"party" : "REP",
 		"fec_candidate_id" : "H0MN01045",
@@ -3621,12 +3834,13 @@
 		"num_of_establishment" : 16844
 	},
 	{
-		"id" : 649,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Minnesota",
 		"st_abbrev" : "MN",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Angie Craig",
 		"party" : "DFL",
 		"fec_candidate_id" : "H6MN02131",
@@ -3638,12 +3852,13 @@
 		"num_of_establishment" : 16946
 	},
 	{
-		"id" : 650,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Minnesota",
 		"st_abbrev" : "MN",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Dean Phillips",
 		"party" : "DFL",
 		"fec_candidate_id" : "H8MN03143",
@@ -3655,12 +3870,13 @@
 		"num_of_establishment" : 23638
 	},
 	{
-		"id" : 651,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Minnesota",
 		"st_abbrev" : "MN",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Betty McCollum",
 		"party" : "DFL",
 		"fec_candidate_id" : "H0MN04049",
@@ -3672,12 +3888,13 @@
 		"num_of_establishment" : 17725
 	},
 	{
-		"id" : 652,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Minnesota",
 		"st_abbrev" : "MN",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Ilhan Omar",
 		"party" : "DFL",
 		"fec_candidate_id" : "H8MN05239",
@@ -3689,12 +3906,13 @@
 		"num_of_establishment" : 20945
 	},
 	{
-		"id" : 653,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Minnesota",
 		"st_abbrev" : "MN",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Tom Emmer",
 		"party" : "REP",
 		"fec_candidate_id" : "H4MN06087",
@@ -3706,12 +3924,13 @@
 		"num_of_establishment" : 16719
 	},
 	{
-		"id" : 654,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Minnesota",
 		"st_abbrev" : "MN",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Collin Peterson",
 		"party" : "DFL",
 		"fec_candidate_id" : "H2MN07014",
@@ -3723,12 +3942,13 @@
 		"num_of_establishment" : 19329
 	},
 	{
-		"id" : 655,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Minnesota",
 		"st_abbrev" : "MN",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Pete Stauber",
 		"party" : "REP",
 		"fec_candidate_id" : "H8MN08043",
@@ -3740,12 +3960,13 @@
 		"num_of_establishment" : 17341
 	},
 	{
-		"id" : 660,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Missouri",
 		"st_abbrev" : "MO",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Lacy Clay",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0MO01066",
@@ -3757,12 +3978,13 @@
 		"num_of_establishment" : 24963
 	},
 	{
-		"id" : 661,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Missouri",
 		"st_abbrev" : "MO",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Ann Wagner",
 		"party" : "REP",
 		"fec_candidate_id" : "H2MO02102",
@@ -3774,12 +3996,13 @@
 		"num_of_establishment" : 25312
 	},
 	{
-		"id" : 662,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Missouri",
 		"st_abbrev" : "MO",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Blaine Luetkemeyer",
 		"party" : "REP",
 		"fec_candidate_id" : "H8MO09153",
@@ -3791,12 +4014,13 @@
 		"num_of_establishment" : 17725
 	},
 	{
-		"id" : 663,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Missouri",
 		"st_abbrev" : "MO",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Vicky Hartzler",
 		"party" : "REP",
 		"fec_candidate_id" : "H0MO04086",
@@ -3808,12 +4032,13 @@
 		"num_of_establishment" : 16471
 	},
 	{
-		"id" : 664,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Missouri",
 		"st_abbrev" : "MO",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Emanuel Cleaver",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4MO05234",
@@ -3825,12 +4050,13 @@
 		"num_of_establishment" : 21603
 	},
 	{
-		"id" : 665,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Missouri",
 		"st_abbrev" : "MO",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Sam Graves",
 		"party" : "REP",
 		"fec_candidate_id" : "H0MO06073",
@@ -3842,12 +4068,13 @@
 		"num_of_establishment" : 16496
 	},
 	{
-		"id" : 666,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Missouri",
 		"st_abbrev" : "MO",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Billy Long",
 		"party" : "REP",
 		"fec_candidate_id" : "H0MO07113",
@@ -3859,12 +4086,13 @@
 		"num_of_establishment" : 19520
 	},
 	{
-		"id" : 667,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Missouri",
 		"st_abbrev" : "MO",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Jason Smith",
 		"party" : "REP",
 		"fec_candidate_id" : "H4MO08162",
@@ -3876,12 +4104,13 @@
 		"num_of_establishment" : 18215
 	},
 	{
-		"id" : 656,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Mississippi",
 		"st_abbrev" : "MS",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Trent Kelly",
 		"party" : "REP",
 		"fec_candidate_id" : "H6MS01131",
@@ -3893,12 +4122,13 @@
 		"num_of_establishment" : 14377
 	},
 	{
-		"id" : 657,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Mississippi",
 		"st_abbrev" : "MS",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Bennie Thompson",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4MS02068",
@@ -3910,12 +4140,13 @@
 		"num_of_establishment" : 12640
 	},
 	{
-		"id" : 658,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Mississippi",
 		"st_abbrev" : "MS",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Michael Guest",
 		"party" : "REP",
 		"fec_candidate_id" : "H8MS03216",
@@ -3927,12 +4158,13 @@
 		"num_of_establishment" : 17206
 	},
 	{
-		"id" : 659,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Mississippi",
 		"st_abbrev" : "MS",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Steven Palazzo",
 		"party" : "REP",
 		"fec_candidate_id" : "H0MS04120",
@@ -3944,12 +4176,13 @@
 		"num_of_establishment" : 14274
 	},
 	{
-		"id" : 668,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Montana",
 		"st_abbrev" : "MT",
+		"fips" : null,
 		"district" : "0",
+		"district_char" : "00",
 		"name" : "Greg Gianforte",
 		"party" : "REP",
 		"fec_candidate_id" : "H8MT01182",
@@ -3961,12 +4194,13 @@
 		"num_of_establishment" : 37626
 	},
 	{
-		"id" : 720,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "G. K. Butterfield",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4NC01046",
@@ -3978,12 +4212,13 @@
 		"num_of_establishment" : 14142
 	},
 	{
-		"id" : 729,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Patrick McHenry",
 		"party" : "REP",
 		"fec_candidate_id" : "H4NC10047",
@@ -3995,12 +4230,13 @@
 		"num_of_establishment" : 18158
 	},
 	{
-		"id" : 730,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Mark Meadows",
 		"party" : "REP",
 		"fec_candidate_id" : "H2NC11080",
@@ -4012,12 +4248,13 @@
 		"num_of_establishment" : 15990
 	},
 	{
-		"id" : 731,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Alma Adams",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4NC12100",
@@ -4029,12 +4266,13 @@
 		"num_of_establishment" : 24307
 	},
 	{
-		"id" : 732,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "Ted Budd",
 		"party" : "REP",
 		"fec_candidate_id" : "H6NC13129",
@@ -4046,12 +4284,13 @@
 		"num_of_establishment" : 20391
 	},
 	{
-		"id" : 721,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "George Holding",
 		"party" : "REP",
 		"fec_candidate_id" : "H2NC13110",
@@ -4063,12 +4302,13 @@
 		"num_of_establishment" : 15427
 	},
 	{
-		"id" : 722,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Walter B. Jones Jr.",
 		"party" : "REP",
 		"fec_candidate_id" : "H2NC01081",
@@ -4080,12 +4320,13 @@
 		"num_of_establishment" : 15874
 	},
 	{
-		"id" : 723,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "David Price",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6NC04037",
@@ -4097,12 +4338,13 @@
 		"num_of_establishment" : 25357
 	},
 	{
-		"id" : 724,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Virginia Foxx",
 		"party" : "REP",
 		"fec_candidate_id" : "H4NC05146",
@@ -4114,12 +4356,13 @@
 		"num_of_establishment" : 16039
 	},
 	{
-		"id" : 725,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Mark Walker",
 		"party" : "REP",
 		"fec_candidate_id" : "H4NC06052",
@@ -4131,12 +4374,13 @@
 		"num_of_establishment" : 13397
 	},
 	{
-		"id" : 726,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "David Rouzer",
 		"party" : "REP",
 		"fec_candidate_id" : "H2NC07096",
@@ -4148,12 +4392,13 @@
 		"num_of_establishment" : 16804
 	},
 	{
-		"id" : 727,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Richard Hudson",
 		"party" : "REP",
 		"fec_candidate_id" : "H2NC08185",
@@ -4165,12 +4410,13 @@
 		"num_of_establishment" : 13936
 	},
 	{
-		"id" : 728,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Carolina",
 		"st_abbrev" : "NC",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "TBD",
 		"party" : "TBD",
 		"fec_candidate_id" : null,
@@ -4182,12 +4428,13 @@
 		"num_of_establishment" : 16737
 	},
 	{
-		"id" : 733,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "North Dakota",
 		"st_abbrev" : "ND",
+		"fips" : null,
 		"district" : "0",
+		"district_char" : "00",
 		"name" : "Kelly Armstrong",
 		"party" : "REP",
 		"fec_candidate_id" : "H8ND00096",
@@ -4199,12 +4446,13 @@
 		"num_of_establishment" : 24601
 	},
 	{
-		"id" : 669,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Nebraska",
 		"st_abbrev" : "NE",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Jeff Fortenberry",
 		"party" : "REP",
 		"fec_candidate_id" : "H4NE01064",
@@ -4216,12 +4464,13 @@
 		"num_of_establishment" : 16883
 	},
 	{
-		"id" : 670,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Nebraska",
 		"st_abbrev" : "NE",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Don Bacon",
 		"party" : "REP",
 		"fec_candidate_id" : "H6NE02125",
@@ -4233,12 +4482,13 @@
 		"num_of_establishment" : 18147
 	},
 	{
-		"id" : 671,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Nebraska",
 		"st_abbrev" : "NE",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Adrian Smith",
 		"party" : "REP",
 		"fec_candidate_id" : "H6NE03115",
@@ -4250,12 +4500,13 @@
 		"num_of_establishment" : 18881
 	},
 	{
-		"id" : 676,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Hampshire",
 		"st_abbrev" : "NH",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Chris Pappas",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NH01210",
@@ -4267,12 +4518,13 @@
 		"num_of_establishment" : 19671
 	},
 	{
-		"id" : 677,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Hampshire",
 		"st_abbrev" : "NH",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Ann McLane Kuster",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0NH02181",
@@ -4284,12 +4536,13 @@
 		"num_of_establishment" : 17804
 	},
 	{
-		"id" : 678,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Donald Norcross",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4NJ01084",
@@ -4301,12 +4554,13 @@
 		"num_of_establishment" : 16024
 	},
 	{
-		"id" : 687,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Donald Payne Jr.",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NJ10154",
@@ -4318,12 +4572,13 @@
 		"num_of_establishment" : 13495
 	},
 	{
-		"id" : 688,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Mikie Sherrill",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NJ11142",
@@ -4335,12 +4590,13 @@
 		"num_of_establishment" : 25520
 	},
 	{
-		"id" : 689,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Bonnie Watson Coleman",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4NJ12149",
@@ -4352,12 +4608,13 @@
 		"num_of_establishment" : 19016
 	},
 	{
-		"id" : 679,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Jeff Van Drew",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NJ02166",
@@ -4369,12 +4626,13 @@
 		"num_of_establishment" : 17169
 	},
 	{
-		"id" : 680,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Andy Kim",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NJ03206",
@@ -4386,12 +4644,13 @@
 		"num_of_establishment" : 16727
 	},
 	{
-		"id" : 681,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Christopher Smith",
 		"party" : "REP",
 		"fec_candidate_id" : "H8NJ04014",
@@ -4403,12 +4662,13 @@
 		"num_of_establishment" : 21476
 	},
 	{
-		"id" : 682,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Josh Gottheimer",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6NJ05171",
@@ -4420,12 +4680,13 @@
 		"num_of_establishment" : 23129
 	},
 	{
-		"id" : 683,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Frank Pallone",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NJ03073",
@@ -4437,12 +4698,13 @@
 		"num_of_establishment" : 18825
 	},
 	{
-		"id" : 684,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Tom Malinowski",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NJ07223",
@@ -4454,12 +4716,13 @@
 		"num_of_establishment" : 23352
 	},
 	{
-		"id" : 685,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Albio Sires",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6NJ13191",
@@ -4471,12 +4734,13 @@
 		"num_of_establishment" : 15496
 	},
 	{
-		"id" : 686,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Jersey",
 		"st_abbrev" : "NJ",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Bill Pascrell",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6NJ08118",
@@ -4488,12 +4752,13 @@
 		"num_of_establishment" : 20991
 	},
 	{
-		"id" : 690,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Mexico",
 		"st_abbrev" : "NM",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Deb Haaland",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NM01331",
@@ -4505,12 +4770,13 @@
 		"num_of_establishment" : 16273
 	},
 	{
-		"id" : 691,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Mexico",
 		"st_abbrev" : "NM",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Xochitl Torres Small",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NM02248",
@@ -4522,12 +4788,13 @@
 		"num_of_establishment" : 12843
 	},
 	{
-		"id" : 692,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New Mexico",
 		"st_abbrev" : "NM",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Ben Ray Luján",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NM03196",
@@ -4539,12 +4806,13 @@
 		"num_of_establishment" : 14317
 	},
 	{
-		"id" : 672,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Nevada",
 		"st_abbrev" : "NV",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Dina Titus",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NV03036",
@@ -4556,12 +4824,13 @@
 		"num_of_establishment" : 18466
 	},
 	{
-		"id" : 673,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Nevada",
 		"st_abbrev" : "NV",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Mark Amodei",
 		"party" : "REP",
 		"fec_candidate_id" : "H2NV02395",
@@ -4573,12 +4842,13 @@
 		"num_of_establishment" : 18592
 	},
 	{
-		"id" : 674,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Nevada",
 		"st_abbrev" : "NV",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Susie Lee",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NV03200",
@@ -4590,12 +4860,13 @@
 		"num_of_establishment" : 17693
 	},
 	{
-		"id" : 675,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Nevada",
 		"st_abbrev" : "NV",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Steven Horsford",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NV04011",
@@ -4607,12 +4878,13 @@
 		"num_of_establishment" : 9587
 	},
 	{
-		"id" : 693,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Lee Zeldin",
 		"party" : "REP",
 		"fec_candidate_id" : "H8NY01148",
@@ -4624,12 +4896,13 @@
 		"num_of_establishment" : 23101
 	},
 	{
-		"id" : 702,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Jerrold Nadler",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NY17071",
@@ -4641,12 +4914,13 @@
 		"num_of_establishment" : 40310
 	},
 	{
-		"id" : 703,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Max Rose",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY11113",
@@ -4658,12 +4932,13 @@
 		"num_of_establishment" : 16191
 	},
 	{
-		"id" : 704,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Carolyn Maloney",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NY14037",
@@ -4675,12 +4950,13 @@
 		"num_of_establishment" : 70310
 	},
 	{
-		"id" : 705,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "Adriano Espaillat",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NY13096",
@@ -4692,12 +4968,13 @@
 		"num_of_establishment" : 10098
 	},
 	{
-		"id" : 706,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "Alexandria Ocasio-Cortez",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY15148",
@@ -4709,12 +4986,13 @@
 		"num_of_establishment" : 12251
 	},
 	{
-		"id" : 707,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "15",
+		"district_char" : "15",
 		"name" : "José E. Serrano",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0NY18065",
@@ -4726,12 +5004,13 @@
 		"num_of_establishment" : 9235
 	},
 	{
-		"id" : 708,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "16",
+		"district_char" : "16",
 		"name" : "Eliot Engel",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY19058",
@@ -4743,12 +5022,13 @@
 		"num_of_establishment" : 16283
 	},
 	{
-		"id" : 709,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "17",
+		"district_char" : "17",
 		"name" : "Nita Lowey",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY20056",
@@ -4760,12 +5040,13 @@
 		"num_of_establishment" : 26445
 	},
 	{
-		"id" : 710,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "18",
+		"district_char" : "18",
 		"name" : "Sean Patrick Maloney",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NY22139",
@@ -4777,12 +5058,13 @@
 		"num_of_establishment" : 19320
 	},
 	{
-		"id" : 711,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "19",
+		"district_char" : "19",
 		"name" : "Antonio Delgado",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY19181",
@@ -4794,12 +5076,13 @@
 		"num_of_establishment" : 16879
 	},
 	{
-		"id" : 694,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Peter T. King",
 		"party" : "REP",
 		"fec_candidate_id" : "H2NY03089",
@@ -4811,12 +5094,13 @@
 		"num_of_establishment" : 20657
 	},
 	{
-		"id" : 712,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "20",
+		"district_char" : "20",
 		"name" : "Paul Tonko",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY21203",
@@ -4828,12 +5112,13 @@
 		"num_of_establishment" : 19043
 	},
 	{
-		"id" : 713,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "21",
+		"district_char" : "21",
 		"name" : "Elise Stefanik",
 		"party" : "REP",
 		"fec_candidate_id" : "H4NY21079",
@@ -4845,12 +5130,13 @@
 		"num_of_establishment" : 15532
 	},
 	{
-		"id" : 714,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "22",
+		"district_char" : "22",
 		"name" : "Anthony Brindisi",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY22151",
@@ -4862,12 +5148,13 @@
 		"num_of_establishment" : 14267
 	},
 	{
-		"id" : 715,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "23",
+		"district_char" : "23",
 		"name" : "Tom Reed",
 		"party" : "REP",
 		"fec_candidate_id" : "H0NY29054",
@@ -4879,12 +5166,13 @@
 		"num_of_establishment" : 14500
 	},
 	{
-		"id" : 716,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "24",
+		"district_char" : "24",
 		"name" : "John Katko",
 		"party" : "REP",
 		"fec_candidate_id" : "H4NY24073",
@@ -4896,12 +5184,13 @@
 		"num_of_establishment" : 16415
 	},
 	{
-		"id" : 717,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "25",
+		"district_char" : "25",
 		"name" : "Joseph D. Morelle",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY25105",
@@ -4913,12 +5202,13 @@
 		"num_of_establishment" : 17182
 	},
 	{
-		"id" : 718,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "26",
+		"district_char" : "26",
 		"name" : "Brian Higgins",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4NY27076",
@@ -4930,12 +5220,13 @@
 		"num_of_establishment" : 17567
 	},
 	{
-		"id" : 719,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "27",
+		"district_char" : "27",
 		"name" : "Chris Collins",
 		"party" : "REP",
 		"fec_candidate_id" : "H8NY29032",
@@ -4947,12 +5238,13 @@
 		"num_of_establishment" : 16241
 	},
 	{
-		"id" : 695,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Thomas Suozzi",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6NY03247",
@@ -4964,12 +5256,13 @@
 		"num_of_establishment" : 29761
 	},
 	{
-		"id" : 696,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Kathleen Rice",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4NY04075",
@@ -4981,12 +5274,13 @@
 		"num_of_establishment" : 24618
 	},
 	{
-		"id" : 697,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Gregory Meeks",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8NY06048",
@@ -4998,12 +5292,13 @@
 		"num_of_establishment" : 11571
 	},
 	{
-		"id" : 698,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Grace Meng",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NY06116",
@@ -5015,12 +5310,13 @@
 		"num_of_establishment" : 18756
 	},
 	{
-		"id" : 699,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Nydia Velázquez",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NY00010",
@@ -5032,12 +5328,13 @@
 		"num_of_establishment" : 22322
 	},
 	{
-		"id" : 700,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Hakeem Jeffries",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2NY10092",
@@ -5049,12 +5346,13 @@
 		"num_of_establishment" : 11539
 	},
 	{
-		"id" : 701,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "New York",
 		"st_abbrev" : "NY",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Yvette Clarke",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4NY11138",
@@ -5066,12 +5364,13 @@
 		"num_of_establishment" : 12771
 	},
 	{
-		"id" : 734,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Steve Chabot",
 		"party" : "REP",
 		"fec_candidate_id" : "H8OH01043",
@@ -5083,12 +5382,13 @@
 		"num_of_establishment" : 16813
 	},
 	{
-		"id" : 743,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Mike Turner",
 		"party" : "REP",
 		"fec_candidate_id" : "H2OH03067",
@@ -5100,12 +5400,13 @@
 		"num_of_establishment" : 15005
 	},
 	{
-		"id" : 744,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Marcia Fudge",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8OH11141",
@@ -5117,12 +5418,13 @@
 		"num_of_establishment" : 18423
 	},
 	{
-		"id" : 745,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Troy Balderson",
 		"party" : "REP",
 		"fec_candidate_id" : "H8OH12180",
@@ -5134,12 +5436,13 @@
 		"num_of_establishment" : 17556
 	},
 	{
-		"id" : 746,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "Tim Ryan",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2OH17109",
@@ -5151,12 +5454,13 @@
 		"num_of_establishment" : 14797
 	},
 	{
-		"id" : 747,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "David Joyce",
 		"party" : "REP",
 		"fec_candidate_id" : "H2OH14064",
@@ -5168,12 +5472,13 @@
 		"num_of_establishment" : 20335
 	},
 	{
-		"id" : 748,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "15",
+		"district_char" : "15",
 		"name" : "Steve Stivers",
 		"party" : "REP",
 		"fec_candidate_id" : "H8OH15076",
@@ -5185,12 +5490,13 @@
 		"num_of_establishment" : 14076
 	},
 	{
-		"id" : 749,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "16",
+		"district_char" : "16",
 		"name" : "Anthony Gonzalez",
 		"party" : "REP",
 		"fec_candidate_id" : "H8OH16124",
@@ -5202,12 +5508,13 @@
 		"num_of_establishment" : 18370
 	},
 	{
-		"id" : 735,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Brad Wenstrup",
 		"party" : "REP",
 		"fec_candidate_id" : "H2OH02085",
@@ -5219,12 +5526,13 @@
 		"num_of_establishment" : 15819
 	},
 	{
-		"id" : 736,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Joyce Beatty",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2OH03125",
@@ -5236,12 +5544,13 @@
 		"num_of_establishment" : 15069
 	},
 	{
-		"id" : 737,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Jim Jordan",
 		"party" : "REP",
 		"fec_candidate_id" : "H6OH04082",
@@ -5253,12 +5562,13 @@
 		"num_of_establishment" : 14458
 	},
 	{
-		"id" : 738,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Bob Latta",
 		"party" : "REP",
 		"fec_candidate_id" : "H8OH05036",
@@ -5270,12 +5580,13 @@
 		"num_of_establishment" : 16205
 	},
 	{
-		"id" : 739,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Bill Johnson",
 		"party" : "REP",
 		"fec_candidate_id" : "H0OH06189",
@@ -5287,12 +5598,13 @@
 		"num_of_establishment" : 12971
 	},
 	{
-		"id" : 740,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Bob Gibbs",
 		"party" : "REP",
 		"fec_candidate_id" : "H0OH18077",
@@ -5304,12 +5616,13 @@
 		"num_of_establishment" : 14281
 	},
 	{
-		"id" : 741,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Warren Davidson",
 		"party" : "REP",
 		"fec_candidate_id" : "H6OH08315",
@@ -5321,12 +5634,13 @@
 		"num_of_establishment" : 13751
 	},
 	{
-		"id" : 742,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Ohio",
 		"st_abbrev" : "OH",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Marcy Kaptur",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2OH09031",
@@ -5338,12 +5652,13 @@
 		"num_of_establishment" : 13397
 	},
 	{
-		"id" : 750,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oklahoma",
 		"st_abbrev" : "OK",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Kevin Hern",
 		"party" : "REP",
 		"fec_candidate_id" : "H8OK01157",
@@ -5355,12 +5670,13 @@
 		"num_of_establishment" : 21498
 	},
 	{
-		"id" : 751,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oklahoma",
 		"st_abbrev" : "OK",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Markwayne Mullin",
 		"party" : "REP",
 		"fec_candidate_id" : "H2OK02083",
@@ -5372,12 +5688,13 @@
 		"num_of_establishment" : 13035
 	},
 	{
-		"id" : 752,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oklahoma",
 		"st_abbrev" : "OK",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Frank Lucas",
 		"party" : "REP",
 		"fec_candidate_id" : "H4OK06056",
@@ -5389,12 +5706,13 @@
 		"num_of_establishment" : 17236
 	},
 	{
-		"id" : 753,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oklahoma",
 		"st_abbrev" : "OK",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Tom Cole",
 		"party" : "REP",
 		"fec_candidate_id" : "H2OK04055",
@@ -5406,12 +5724,13 @@
 		"num_of_establishment" : 16662
 	},
 	{
-		"id" : 754,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oklahoma",
 		"st_abbrev" : "OK",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Kendra Horn",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8OK05109",
@@ -5423,12 +5742,13 @@
 		"num_of_establishment" : 24320
 	},
 	{
-		"id" : 755,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oregon",
 		"st_abbrev" : "OR",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Suzanne Bonamici",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2OR01133",
@@ -5440,12 +5760,13 @@
 		"num_of_establishment" : 23055
 	},
 	{
-		"id" : 756,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oregon",
 		"st_abbrev" : "OR",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Greg Walden",
 		"party" : "REP",
 		"fec_candidate_id" : "H6OR02116",
@@ -5457,12 +5778,13 @@
 		"num_of_establishment" : 23524
 	},
 	{
-		"id" : 757,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oregon",
 		"st_abbrev" : "OR",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Earl Blumenauer",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6OR03064",
@@ -5474,12 +5796,13 @@
 		"num_of_establishment" : 26229
 	},
 	{
-		"id" : 758,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oregon",
 		"st_abbrev" : "OR",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Peter DeFazio",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6OR04047",
@@ -5491,12 +5814,13 @@
 		"num_of_establishment" : 19514
 	},
 	{
-		"id" : 759,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Oregon",
 		"st_abbrev" : "OR",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Kurt Schrader",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8OR05107",
@@ -5508,12 +5832,13 @@
 		"num_of_establishment" : 21740
 	},
 	{
-		"id" : 760,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Brian Fitzpatrick",
 		"party" : "REP",
 		"fec_candidate_id" : "H6PA08277",
@@ -5525,12 +5850,13 @@
 		"num_of_establishment" : 14163
 	},
 	{
-		"id" : 769,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Scott Perry",
 		"party" : "REP",
 		"fec_candidate_id" : "H2PA04135",
@@ -5542,12 +5868,13 @@
 		"num_of_establishment" : 15717
 	},
 	{
-		"id" : 770,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Lloyd Smucker",
 		"party" : "REP",
 		"fec_candidate_id" : "H6PA16320",
@@ -5559,12 +5886,13 @@
 		"num_of_establishment" : 14727
 	},
 	{
-		"id" : 771,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Tom Marino",
 		"party" : "REP",
 		"fec_candidate_id" : "H0PA10078",
@@ -5576,12 +5904,13 @@
 		"num_of_establishment" : 16801
 	},
 	{
-		"id" : 772,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "John Joyce",
 		"party" : "REP",
 		"fec_candidate_id" : "H8PA13125",
@@ -5593,12 +5922,13 @@
 		"num_of_establishment" : 17870
 	},
 	{
-		"id" : 773,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "Guy Reschenthaler",
 		"party" : "REP",
 		"fec_candidate_id" : "H8PA18199",
@@ -5610,12 +5940,13 @@
 		"num_of_establishment" : 19206
 	},
 	{
-		"id" : 774,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "15",
+		"district_char" : "15",
 		"name" : "Glenn Thompson",
 		"party" : "REP",
 		"fec_candidate_id" : "H8PA05071",
@@ -5627,12 +5958,13 @@
 		"num_of_establishment" : 16002
 	},
 	{
-		"id" : 775,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "16",
+		"district_char" : "16",
 		"name" : "Mike Kelly",
 		"party" : "REP",
 		"fec_candidate_id" : "H0PA03271",
@@ -5644,12 +5976,13 @@
 		"num_of_establishment" : 15781
 	},
 	{
-		"id" : 776,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "17",
+		"district_char" : "17",
 		"name" : "Conor Lamb",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8PA18181",
@@ -5661,12 +5994,13 @@
 		"num_of_establishment" : 14996
 	},
 	{
-		"id" : 777,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "18",
+		"district_char" : "18",
 		"name" : "Michael F. Doyle",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4PA18131",
@@ -5678,12 +6012,13 @@
 		"num_of_establishment" : 18740
 	},
 	{
-		"id" : 761,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Brendan Boyle",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4PA13199",
@@ -5695,12 +6030,13 @@
 		"num_of_establishment" : 14463
 	},
 	{
-		"id" : 762,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Dwight Evans",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6PA02171",
@@ -5712,12 +6048,13 @@
 		"num_of_establishment" : 16456
 	},
 	{
-		"id" : 763,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Madeleine Dean",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8PA04116",
@@ -5729,12 +6066,13 @@
 		"num_of_establishment" : 15849
 	},
 	{
-		"id" : 764,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Mary Gay Scanlon",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8PA07200",
@@ -5746,12 +6084,13 @@
 		"num_of_establishment" : 15674
 	},
 	{
-		"id" : 765,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Chrissy Houlahan",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8PA06087",
@@ -5763,12 +6102,13 @@
 		"num_of_establishment" : 20200
 	},
 	{
-		"id" : 766,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Susan Wild",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8PA15229",
@@ -5780,12 +6120,13 @@
 		"num_of_establishment" : 18227
 	},
 	{
-		"id" : 767,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Matt Cartwright",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2PA17079",
@@ -5797,12 +6138,13 @@
 		"num_of_establishment" : 21281
 	},
 	{
-		"id" : 768,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Pennsylvania",
 		"st_abbrev" : "PA",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Dan Meuser",
 		"party" : "REP",
 		"fec_candidate_id" : "H8PA10147",
@@ -5814,12 +6156,13 @@
 		"num_of_establishment" : 14386
 	},
 	{
-		"id" : 778,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Rhode Island",
 		"st_abbrev" : "RI",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "David Cicilline",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0RI01073",
@@ -5831,12 +6174,13 @@
 		"num_of_establishment" : 13558
 	},
 	{
-		"id" : 779,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Rhode Island",
 		"st_abbrev" : "RI",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "James Langevin",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0RI02139",
@@ -5848,12 +6192,13 @@
 		"num_of_establishment" : 14837
 	},
 	{
-		"id" : 780,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "South Carolina",
 		"st_abbrev" : "SC",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Joe Cunningham",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8SC01116",
@@ -5865,12 +6210,13 @@
 		"num_of_establishment" : 19171
 	},
 	{
-		"id" : 781,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "South Carolina",
 		"st_abbrev" : "SC",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Joe Wilson",
 		"party" : "REP",
 		"fec_candidate_id" : "H2SC02059",
@@ -5882,12 +6228,13 @@
 		"num_of_establishment" : 13298
 	},
 	{
-		"id" : 782,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "South Carolina",
 		"st_abbrev" : "SC",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Jeff Duncan",
 		"party" : "REP",
 		"fec_candidate_id" : "H0SC03077",
@@ -5899,12 +6246,13 @@
 		"num_of_establishment" : 11384
 	},
 	{
-		"id" : 783,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "South Carolina",
 		"st_abbrev" : "SC",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "William Timmons",
 		"party" : "REP",
 		"fec_candidate_id" : "H8SC04250",
@@ -5916,12 +6264,13 @@
 		"num_of_establishment" : 17984
 	},
 	{
-		"id" : 784,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "South Carolina",
 		"st_abbrev" : "SC",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Ralph Norman",
 		"party" : "REP",
 		"fec_candidate_id" : "H8SC05158",
@@ -5933,12 +6282,13 @@
 		"num_of_establishment" : 11987
 	},
 	{
-		"id" : 785,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "South Carolina",
 		"st_abbrev" : "SC",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Jim Clyburn",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2SC02042",
@@ -5950,12 +6300,13 @@
 		"num_of_establishment" : 15201
 	},
 	{
-		"id" : 786,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "South Carolina",
 		"st_abbrev" : "SC",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Tom Rice",
 		"party" : "REP",
 		"fec_candidate_id" : "H2SC07066",
@@ -5967,12 +6318,13 @@
 		"num_of_establishment" : 16335
 	},
 	{
-		"id" : 787,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "South Dakota",
 		"st_abbrev" : "SD",
+		"fips" : null,
 		"district" : "0",
+		"district_char" : "00",
 		"name" : "Dusty Johnson",
 		"party" : "REP",
 		"fec_candidate_id" : "H8SD01055",
@@ -5984,12 +6336,13 @@
 		"num_of_establishment" : 26743
 	},
 	{
-		"id" : 788,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Phil Roe",
 		"party" : "REP",
 		"fec_candidate_id" : "H6TN01388",
@@ -6001,12 +6354,13 @@
 		"num_of_establishment" : 13755
 	},
 	{
-		"id" : 789,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Tim Burchett",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TN02119",
@@ -6018,12 +6372,13 @@
 		"num_of_establishment" : 15973
 	},
 	{
-		"id" : 790,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Chuck Fleischmann",
 		"party" : "REP",
 		"fec_candidate_id" : "H0TN03254",
@@ -6035,12 +6390,13 @@
 		"num_of_establishment" : 14266
 	},
 	{
-		"id" : 791,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Scott DesJarlais",
 		"party" : "REP",
 		"fec_candidate_id" : "H0TN04195",
@@ -6052,12 +6408,13 @@
 		"num_of_establishment" : 13058
 	},
 	{
-		"id" : 792,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Jim Cooper",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2TN05131",
@@ -6069,12 +6426,13 @@
 		"num_of_establishment" : 20831
 	},
 	{
-		"id" : 793,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "John Rose",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TN06094",
@@ -6086,12 +6444,13 @@
 		"num_of_establishment" : 13564
 	},
 	{
-		"id" : 794,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Mark E. Green",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TN07076",
@@ -6103,12 +6462,13 @@
 		"num_of_establishment" : 15051
 	},
 	{
-		"id" : 795,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "David Kustoff",
 		"party" : "REP",
 		"fec_candidate_id" : "H2TN07103",
@@ -6120,12 +6480,13 @@
 		"num_of_establishment" : 14857
 	},
 	{
-		"id" : 796,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Tennessee",
 		"st_abbrev" : "TN",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Steve Cohen",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6TN09068",
@@ -6137,12 +6498,13 @@
 		"num_of_establishment" : 13341
 	},
 	{
-		"id" : 797,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Louie Gohmert",
 		"party" : "REP",
 		"fec_candidate_id" : "H4TX04039",
@@ -6154,12 +6516,13 @@
 		"num_of_establishment" : 16759
 	},
 	{
-		"id" : 806,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Michael McCaul",
 		"party" : "REP",
 		"fec_candidate_id" : "H4TX10093",
@@ -6171,12 +6534,13 @@
 		"num_of_establishment" : 19783
 	},
 	{
-		"id" : 807,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Mike Conaway",
 		"party" : "REP",
 		"fec_candidate_id" : "H4TX19136",
@@ -6188,12 +6552,13 @@
 		"num_of_establishment" : 18745
 	},
 	{
-		"id" : 808,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "12",
+		"district_char" : "12",
 		"name" : "Kay Granger",
 		"party" : "REP",
 		"fec_candidate_id" : "H6TX12060",
@@ -6205,12 +6570,13 @@
 		"num_of_establishment" : 17409
 	},
 	{
-		"id" : 809,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "13",
+		"district_char" : "13",
 		"name" : "Mac Thornberry",
 		"party" : "REP",
 		"fec_candidate_id" : "H4TX13014",
@@ -6222,12 +6588,13 @@
 		"num_of_establishment" : 16503
 	},
 	{
-		"id" : 810,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "14",
+		"district_char" : "14",
 		"name" : "Randy Weber",
 		"party" : "REP",
 		"fec_candidate_id" : "H2TX14149",
@@ -6239,12 +6606,13 @@
 		"num_of_establishment" : 13934
 	},
 	{
-		"id" : 811,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "15",
+		"district_char" : "15",
 		"name" : "Vicente González",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6TX15162",
@@ -6256,12 +6624,13 @@
 		"num_of_establishment" : 11812
 	},
 	{
-		"id" : 812,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "16",
+		"district_char" : "16",
 		"name" : "Veronica Escobar",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8TX16109",
@@ -6273,12 +6642,13 @@
 		"num_of_establishment" : 13534
 	},
 	{
-		"id" : 813,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "17",
+		"district_char" : "17",
 		"name" : "Bill Flores",
 		"party" : "REP",
 		"fec_candidate_id" : "H0TX17104",
@@ -6290,12 +6660,13 @@
 		"num_of_establishment" : 14489
 	},
 	{
-		"id" : 814,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "18",
+		"district_char" : "18",
 		"name" : "Sheila Jackson Lee",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4TX18054",
@@ -6307,12 +6678,13 @@
 		"num_of_establishment" : 16824
 	},
 	{
-		"id" : 815,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "19",
+		"district_char" : "19",
 		"name" : "Jodey Arrington",
 		"party" : "REP",
 		"fec_candidate_id" : "H6TX19099",
@@ -6324,12 +6696,13 @@
 		"num_of_establishment" : 16665
 	},
 	{
-		"id" : 798,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Dan Crenshaw",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TX02166",
@@ -6341,12 +6714,13 @@
 		"num_of_establishment" : 20845
 	},
 	{
-		"id" : 816,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "20",
+		"district_char" : "20",
 		"name" : "Joaquín Castro",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2TX35011",
@@ -6358,12 +6732,13 @@
 		"num_of_establishment" : 11717
 	},
 	{
-		"id" : 817,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "21",
+		"district_char" : "21",
 		"name" : "Chip Roy",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TX21307",
@@ -6375,12 +6750,13 @@
 		"num_of_establishment" : 26331
 	},
 	{
-		"id" : 818,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "22",
+		"district_char" : "22",
 		"name" : "Pete Olson",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TX22107",
@@ -6392,12 +6768,13 @@
 		"num_of_establishment" : 15678
 	},
 	{
-		"id" : 819,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "23",
+		"district_char" : "23",
 		"name" : "Will Hurd",
 		"party" : "REP",
 		"fec_candidate_id" : "H0TX23086",
@@ -6409,12 +6786,13 @@
 		"num_of_establishment" : 11141
 	},
 	{
-		"id" : 820,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "24",
+		"district_char" : "24",
 		"name" : "Kenny Marchant",
 		"party" : "REP",
 		"fec_candidate_id" : "H4TX24094",
@@ -6426,12 +6804,13 @@
 		"num_of_establishment" : 27971
 	},
 	{
-		"id" : 821,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "25",
+		"district_char" : "25",
 		"name" : "Roger Williams",
 		"party" : "REP",
 		"fec_candidate_id" : "H2TX33040",
@@ -6443,12 +6822,13 @@
 		"num_of_establishment" : 18087
 	},
 	{
-		"id" : 822,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "26",
+		"district_char" : "26",
 		"name" : "Michael Burgess",
 		"party" : "REP",
 		"fec_candidate_id" : "H2TX26093",
@@ -6460,12 +6840,13 @@
 		"num_of_establishment" : 15199
 	},
 	{
-		"id" : 823,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "27",
+		"district_char" : "27",
 		"name" : "Michael Cloud",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TX27049",
@@ -6477,12 +6858,13 @@
 		"num_of_establishment" : 15738
 	},
 	{
-		"id" : 824,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "28",
+		"district_char" : "28",
 		"name" : "Henry Cuellar",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2TX23082",
@@ -6494,12 +6876,13 @@
 		"num_of_establishment" : 11101
 	},
 	{
-		"id" : 825,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "29",
+		"district_char" : "29",
 		"name" : "Sylvia Garcia",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8TX29052",
@@ -6511,12 +6894,13 @@
 		"num_of_establishment" : 10649
 	},
 	{
-		"id" : 799,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Van Taylor",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TX03123",
@@ -6528,12 +6912,13 @@
 		"num_of_establishment" : 21388
 	},
 	{
-		"id" : 826,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "30",
+		"district_char" : "30",
 		"name" : "Eddie Bernice Johnson",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2TX00015",
@@ -6545,12 +6930,13 @@
 		"num_of_establishment" : 13665
 	},
 	{
-		"id" : 827,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "31",
+		"district_char" : "31",
 		"name" : "John Carter",
 		"party" : "REP",
 		"fec_candidate_id" : "H2TX31044",
@@ -6562,12 +6948,13 @@
 		"num_of_establishment" : 15228
 	},
 	{
-		"id" : 828,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "32",
+		"district_char" : "32",
 		"name" : "Colin Allred",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8TX32098",
@@ -6579,12 +6966,13 @@
 		"num_of_establishment" : 21973
 	},
 	{
-		"id" : 829,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "33",
+		"district_char" : "33",
 		"name" : "Marc Veasey",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2TX33073",
@@ -6596,12 +6984,13 @@
 		"num_of_establishment" : 12588
 	},
 	{
-		"id" : 830,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "34",
+		"district_char" : "34",
 		"name" : "Filemon Vela Jr.",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2TX27190",
@@ -6613,12 +7002,13 @@
 		"num_of_establishment" : 10816
 	},
 	{
-		"id" : 831,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "35",
+		"district_char" : "35",
 		"name" : "Lloyd Doggett",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4TX10028",
@@ -6630,12 +7020,13 @@
 		"num_of_establishment" : 15636
 	},
 	{
-		"id" : 832,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "36",
+		"district_char" : "36",
 		"name" : "Brian Babin",
 		"party" : "REP",
 		"fec_candidate_id" : "H6TX02079",
@@ -6647,12 +7038,13 @@
 		"num_of_establishment" : 12903
 	},
 	{
-		"id" : 800,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "John Ratcliffe",
 		"party" : "REP",
 		"fec_candidate_id" : "H4TX04153",
@@ -6664,12 +7056,13 @@
 		"num_of_establishment" : 13784
 	},
 	{
-		"id" : 801,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Lance Gooden",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TX05144",
@@ -6681,12 +7074,13 @@
 		"num_of_establishment" : 12386
 	},
 	{
-		"id" : 802,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Ron Wright",
 		"party" : "REP",
 		"fec_candidate_id" : "H8TX06233",
@@ -6698,12 +7092,13 @@
 		"num_of_establishment" : 13866
 	},
 	{
-		"id" : 803,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Lizzie Fletcher",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8TX07140",
@@ -6715,12 +7110,13 @@
 		"num_of_establishment" : 25319
 	},
 	{
-		"id" : 804,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Kevin Brady",
 		"party" : "REP",
 		"fec_candidate_id" : "H6TX08100",
@@ -6732,12 +7128,13 @@
 		"num_of_establishment" : 14268
 	},
 	{
-		"id" : 805,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Texas",
 		"st_abbrev" : "TX",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Al Green",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4TX09095",
@@ -6749,12 +7146,13 @@
 		"num_of_establishment" : 13047
 	},
 	{
-		"id" : 833,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Utah",
 		"st_abbrev" : "UT",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Rob Bishop",
 		"party" : "REP",
 		"fec_candidate_id" : "H2UT01094",
@@ -6766,12 +7164,13 @@
 		"num_of_establishment" : 17909
 	},
 	{
-		"id" : 834,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Utah",
 		"st_abbrev" : "UT",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Chris Stewart",
 		"party" : "REP",
 		"fec_candidate_id" : "H2UT02324",
@@ -6783,12 +7182,13 @@
 		"num_of_establishment" : 21144
 	},
 	{
-		"id" : 835,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Utah",
 		"st_abbrev" : "UT",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "John Curtis",
 		"party" : "REP",
 		"fec_candidate_id" : "H8UT03238",
@@ -6800,12 +7200,13 @@
 		"num_of_establishment" : 19109
 	},
 	{
-		"id" : 836,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Utah",
 		"st_abbrev" : "UT",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Ben McAdams",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8UT04053",
@@ -6817,12 +7218,13 @@
 		"num_of_establishment" : 18858
 	},
 	{
-		"id" : 838,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Rob Wittman",
 		"party" : "REP",
 		"fec_candidate_id" : "H8VA01147",
@@ -6834,12 +7236,13 @@
 		"num_of_establishment" : 17052
 	},
 	{
-		"id" : 847,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Jennifer Wexton",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8VA10106",
@@ -6851,12 +7254,13 @@
 		"num_of_establishment" : 22539
 	},
 	{
-		"id" : 848,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "11",
+		"district_char" : "11",
 		"name" : "Gerry Connolly",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8VA11062",
@@ -6868,12 +7272,13 @@
 		"num_of_establishment" : 22048
 	},
 	{
-		"id" : 839,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Elaine Luria",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8VA02111",
@@ -6885,12 +7290,13 @@
 		"num_of_establishment" : 16321
 	},
 	{
-		"id" : 840,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Bobby Scott",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6VA01117",
@@ -6902,12 +7308,13 @@
 		"num_of_establishment" : 16694
 	},
 	{
-		"id" : 841,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Donald McEachin",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6VA04061",
@@ -6919,12 +7326,13 @@
 		"num_of_establishment" : 15673
 	},
 	{
-		"id" : 842,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Denver Riggleman",
 		"party" : "REP",
 		"fec_candidate_id" : "H8VA05171",
@@ -6936,12 +7344,13 @@
 		"num_of_establishment" : 16718
 	},
 	{
-		"id" : 843,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Ben Cline",
 		"party" : "REP",
 		"fec_candidate_id" : "H8VA06104",
@@ -6953,12 +7362,13 @@
 		"num_of_establishment" : 18096
 	},
 	{
-		"id" : 844,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Abigail Spanberger",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8VA07094",
@@ -6970,12 +7380,13 @@
 		"num_of_establishment" : 18985
 	},
 	{
-		"id" : 845,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Don Beyer",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4VA08224",
@@ -6987,12 +7398,13 @@
 		"num_of_establishment" : 20512
 	},
 	{
-		"id" : 846,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Virginia",
 		"st_abbrev" : "VA",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Morgan Griffith",
 		"party" : "REP",
 		"fec_candidate_id" : "H0VA09055",
@@ -7004,12 +7416,13 @@
 		"num_of_establishment" : 14206
 	},
 	{
-		"id" : 837,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Vermont",
 		"st_abbrev" : "VT",
+		"fips" : null,
 		"district" : "0",
+		"district_char" : "00",
 		"name" : "Peter Welch",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6VT00160",
@@ -7021,12 +7434,13 @@
 		"num_of_establishment" : 21174
 	},
 	{
-		"id" : 849,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Suzan DelBene",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0WA08046",
@@ -7038,12 +7452,13 @@
 		"num_of_establishment" : 19264
 	},
 	{
-		"id" : 858,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "10",
+		"district_char" : "10",
 		"name" : "Dennis Heck",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0WA03161",
@@ -7055,12 +7470,13 @@
 		"num_of_establishment" : 14837
 	},
 	{
-		"id" : 850,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Rick Larsen",
 		"party" : "DEM",
 		"fec_candidate_id" : "H0WA02080",
@@ -7072,12 +7488,13 @@
 		"num_of_establishment" : 19869
 	},
 	{
-		"id" : 851,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Jaime Herrera Beutler",
 		"party" : "REP",
 		"fec_candidate_id" : "H0WA03187",
@@ -7089,12 +7506,13 @@
 		"num_of_establishment" : 16100
 	},
 	{
-		"id" : 852,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Dan Newhouse",
 		"party" : "REP",
 		"fec_candidate_id" : "H4WA04104",
@@ -7106,12 +7524,13 @@
 		"num_of_establishment" : 14187
 	},
 	{
-		"id" : 853,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Cathy McMorris Rodgers",
 		"party" : "REP",
 		"fec_candidate_id" : "H4WA05077",
@@ -7123,12 +7542,13 @@
 		"num_of_establishment" : 17033
 	},
 	{
-		"id" : 854,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Derek Kilmer",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2WA06129",
@@ -7140,12 +7560,13 @@
 		"num_of_establishment" : 17157
 	},
 	{
-		"id" : 855,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Pramila Jayapal",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6WA07458",
@@ -7157,12 +7578,13 @@
 		"num_of_establishment" : 28807
 	},
 	{
-		"id" : 856,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Kim Schrier",
 		"party" : "DEM",
 		"fec_candidate_id" : "H8WA08189",
@@ -7174,12 +7596,13 @@
 		"num_of_establishment" : 15426
 	},
 	{
-		"id" : 857,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Washington",
 		"st_abbrev" : "WA",
+		"fips" : null,
 		"district" : "9",
+		"district_char" : "09",
 		"name" : "Adam Smith",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6WA09025",
@@ -7191,12 +7614,13 @@
 		"num_of_establishment" : 22852
 	},
 	{
-		"id" : 862,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wisconsin",
 		"st_abbrev" : "WI",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "Bryan Steil",
 		"party" : "REP",
 		"fec_candidate_id" : "H8WI01156",
@@ -7208,12 +7632,13 @@
 		"num_of_establishment" : 15191
 	},
 	{
-		"id" : 863,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wisconsin",
 		"st_abbrev" : "WI",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Mark Pocan",
 		"party" : "DEM",
 		"fec_candidate_id" : "H2WI02124",
@@ -7225,12 +7650,13 @@
 		"num_of_establishment" : 19233
 	},
 	{
-		"id" : 864,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wisconsin",
 		"st_abbrev" : "WI",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Ron Kind",
 		"party" : "DEM",
 		"fec_candidate_id" : "H6WI03099",
@@ -7242,12 +7668,13 @@
 		"num_of_establishment" : 17032
 	},
 	{
-		"id" : 865,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wisconsin",
 		"st_abbrev" : "WI",
+		"fips" : null,
 		"district" : "4",
+		"district_char" : "04",
 		"name" : "Gwen Moore",
 		"party" : "DEM",
 		"fec_candidate_id" : "H4WI04183",
@@ -7259,12 +7686,13 @@
 		"num_of_establishment" : 13450
 	},
 	{
-		"id" : 866,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wisconsin",
 		"st_abbrev" : "WI",
+		"fips" : null,
 		"district" : "5",
+		"district_char" : "05",
 		"name" : "Jim Sensenbrenner",
 		"party" : "REP",
 		"fec_candidate_id" : "H8WI09050",
@@ -7276,12 +7704,13 @@
 		"num_of_establishment" : 21300
 	},
 	{
-		"id" : 867,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wisconsin",
 		"st_abbrev" : "WI",
+		"fips" : null,
 		"district" : "6",
+		"district_char" : "06",
 		"name" : "Glenn Grothman",
 		"party" : "REP",
 		"fec_candidate_id" : "H4WI06048",
@@ -7293,12 +7722,13 @@
 		"num_of_establishment" : 16747
 	},
 	{
-		"id" : 868,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wisconsin",
 		"st_abbrev" : "WI",
+		"fips" : null,
 		"district" : "7",
+		"district_char" : "07",
 		"name" : "Sean Duffy",
 		"party" : "REP",
 		"fec_candidate_id" : "H0WI07051",
@@ -7310,12 +7740,13 @@
 		"num_of_establishment" : 19077
 	},
 	{
-		"id" : 869,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wisconsin",
 		"st_abbrev" : "WI",
+		"fips" : null,
 		"district" : "8",
+		"district_char" : "08",
 		"name" : "Mike Gallagher",
 		"party" : "REP",
 		"fec_candidate_id" : "H6WI08155",
@@ -7327,12 +7758,13 @@
 		"num_of_establishment" : 18287
 	},
 	{
-		"id" : 859,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "West Virginia",
 		"st_abbrev" : "WV",
+		"fips" : null,
 		"district" : "1",
+		"district_char" : "01",
 		"name" : "David McKinley",
 		"party" : "REP",
 		"fec_candidate_id" : "H0WV01072",
@@ -7344,12 +7776,13 @@
 		"num_of_establishment" : 12924
 	},
 	{
-		"id" : 860,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "West Virginia",
 		"st_abbrev" : "WV",
+		"fips" : null,
 		"district" : "2",
+		"district_char" : "02",
 		"name" : "Alex Mooney",
 		"party" : "REP",
 		"fec_candidate_id" : "H4WV02080",
@@ -7361,12 +7794,13 @@
 		"num_of_establishment" : 12285
 	},
 	{
-		"id" : 861,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "West Virginia",
 		"st_abbrev" : "WV",
+		"fips" : null,
 		"district" : "3",
+		"district_char" : "03",
 		"name" : "Carol Miller",
 		"party" : "REP",
 		"fec_candidate_id" : "H8WV03097",
@@ -7378,12 +7812,13 @@
 		"num_of_establishment" : 11077
 	},
 	{
-		"id" : 870,
 		"congress_num" : 116,
 		"election_year" : 2018,
 		"state" : "Wyoming",
 		"st_abbrev" : "WY",
+		"fips" : null,
 		"district" : "0",
+		"district_char" : "00",
 		"name" : "Liz Cheney",
 		"party" : "REP",
 		"fec_candidate_id" : "H6WY00159",
