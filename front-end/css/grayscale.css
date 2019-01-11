@@ -12,7 +12,10 @@
 }
 
 
+.jumbotron {
+  min-height: 1000px !important;
 
+}
 
 #mainNav {
   min-height: 56px;
