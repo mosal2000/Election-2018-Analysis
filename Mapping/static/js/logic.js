@@ -1,6 +1,6 @@
 // Creating map object
 var map = L.map("map", {
-  center: [40.7128, -84.0059],
+  center: [39.8283, -98.5795],
   zoom: 5
 });
 
@@ -14,8 +14,8 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 var link = ("/cb_2017_us_cd115_20m.json")
 // Function that will determine the color of a disrict based on 
-function chooseColor(STATEFP) {
-  switch (STATEFP) {
+function chooseColor(CD115FP) {
+  switch (CD115FP) {
   case "11":
     return "red";
   case "24":
@@ -35,7 +35,7 @@ d3.json(link, function(data) {
         color: "black",
         // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
         fillColor: chooseColor(feature.properties.CD115FP),
-        fillOpacity: 0.5,
+        fillOpacity: 0.4,
         weight: 1.5
       };
     }
