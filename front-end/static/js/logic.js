@@ -1,7 +1,7 @@
 // Creating map object
 var map = L.map("map", {
   center: [39.8283, -98.5795],
-  zoom: 5
+  zoom: 4
 });
 
 // Adding tile layer
@@ -35,8 +35,8 @@ d3.json(link, function(data) {
         color: "black",
         // Call the chooseColor function to decide which color to color our neighborhood (color based on borough)
         fillColor: chooseColor(feature.properties.CD115FP),
-        fillOpacity: 0.4,
-        weight: 1.5
+        fillOpacity: 0.5,
+        weight: .8
       };
     },
     // Called on each feature
