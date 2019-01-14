@@ -1,4 +1,4 @@
-var map = L.map("map", {
+var colored_map = L.map("colored_map", {
   center: [39.8283, -98.5795],
   zoom: 4
 });
@@ -9,7 +9,7 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   maxZoom: 10,
   id: "mapbox.light",
   accessToken: "pk.eyJ1IjoiZGFydGFuaW9uIiwiYSI6ImNqbThjbHFqczNrcjkzcG10cHpoaWF4aWUifQ.GwBz1hO0sY2QE8bXq9pSRg"
-}).addTo(map);
+}).addTo(colored_map);
 
 /* var map = L.map("map").setView([49.568106423004863, 2.753862487322691], 14);
 
@@ -9189,7 +9189,7 @@ function complete(results) { //everything below runs only after the CSV has been
         fillColor: getColor(STATEFP_CD115FP[feature.properties.GEOID])
       };
     }
-  }).addTo(map);
+  }).addTo(colored_map);
 }
 
 complete(results);
