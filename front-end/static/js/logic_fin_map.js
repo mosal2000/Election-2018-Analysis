@@ -1,4 +1,4 @@
-var map1 = L.map('map1', {
+var fin_map = L.map('fin_map', {
   center: [39.8283, -98.5795],
   zoom: 4
 });
@@ -13,7 +13,7 @@ L.tileLayer(
     id: 'mapbox.light',
     accessToken: API_KEY
   }
-).addTo(map1);
+).addTo(fin_map);
 
 /*
 var xmlhttp = new XMLHttpRequest();
@@ -41,28 +41,31 @@ var results_file = '116th_us_congress_list.json';
 
 function complete(district_data) { 
   function getColor(d) {
-    return d/700000 > 0.8 ? '#0000ff' :
-      d/700000 > 0.7 ? '#803ce4' :
-      d/700000 > 0.4 ? '#ab66cb' :
-      d/700000 > 0.35 ? '#ca8eb5' :
-      d/700000 > 0.3 ? '#e1b4a3' :
-      d/700000 > 0.25 ? '#f4db9c' :
-      d/700000 > 0.1 ? '#ffffe0' :
+    return d < 0 ? '#ffffe0':
+      d < 477624 ? '#f4e2c3':
+      d < 955248 ? '#e8c5a8':
+      d < 1177624? '#dba891':
+      d < 1400000 ? '#ce8b7d':
+      d < 1800000 ? '#c16c72':
+      d < 2200000 ? '#b04b7e':
+      d < 9100000 ? '#8d3195':
+      d < 16000000 ? '#6b1b90':
+      d < 18000000 ? '#4b0082':
       '#000000';
   }
 
   // coordinate GEOID and party affiliation
-  var STATEFP_CD115FP = {};
-  var data = district_data.data;
+  var STATEFP_CD115FP = {},
+    data = district_data.data;
 
-  //   console.log(data);
+    // console.log(data);
 
   for (var i = 0; i < data.length; i += 1) {
-    STATEFP_CD115FP[data[i].GEOID] = data[i].employment;
+    (STATEFP_CD115FP[data[i].GEOID] = data[i].fin_total_receipt);
   }
 
   for (var i = 0; i < data.length; i += 1) {
-    STATEFP_CD115FP[data[i].STATEFP] = data[i].state;
+    (STATEFP_CD115FP[data[i].STATEFP] = data[i].state);
   }
 
 
@@ -106,36 +109,27 @@ function complete(district_data) {
         mouseover: function(event) {
           layer = event.target;
           layer.setStyle({
-            fillOpacity: 1.0,
-            weight: 4,
-            color: 'lightblue',
+            fillOpacity: 1.0
           });
         },
         // When the cursor no longer hovers over a map feature - when the mouseout event occurs - the feature's opacity reverts back to 50%
         mouseout: function(event) {
           layer = event.target;
           layer.setStyle({
-            fillOpacity: 0.9,
-            weight: 0.3,
-            color: 'white',
+            fillOpacity: 0.9
           });
         },
         // When a feature (neighborhood) is clicked, it is enlarged to fit the screen
         click: function(event) {
-          map1.fitBounds(event.target.getBounds());
-            layer.setStyle({
-            fillOpacity: 0.3,
-            weight: 0.3
-          });
+          fin_map.fitBounds(event.target.getBounds());
         }
       });
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup("<h1>" + (STATEFP_CD115FP[feature.properties.STATEFP]) + "</h1> <hr> <h6>" + "District: " + feature.properties.CD115FP + "</h6> <h6>" + "Party: " + STATEFP_CD115FP2[feature.properties.GEOID] +
-             "</h6> <h6>" + "Employment Rate: " + ((STATEFP_CD115FP[feature.properties.GEOID])/750000) + "</h6>");
-    }
+      layer.bindPopup("<h1>" + (STATEFP_CD115FP[feature.properties.STATEFP]) + "</h1> <hr> <h6>" + "District: " + feature.properties.CD115FP + "</h6> <h6>" + "Funds Raised: $" + (STATEFP_CD115FP[feature.properties.GEOID]) + "</h6>");    }
+
 
       // NEW INSERTION FOR POP-UP END
-    }).addTo(map1);
+    }).addTo(fin_map);
   })
     .done(function() {
       console.log('second success shape_file');
