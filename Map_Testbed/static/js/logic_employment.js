@@ -1,9 +1,10 @@
-var map = L.map("map", {
+var map = L.map('map', {
   center: [39.8283, -98.5795],
   zoom: 5
 });
 
 // Adding tile layer
+<<<<<<< HEAD
 L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
   attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
   maxZoom: 10,
@@ -138494,11 +138495,28 @@ var district_data = {
       }
    ]
 };
+=======
+L.tileLayer(
+  'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}',
+  {
+    attribution:
+      'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 10,
+    id: 'mapbox.light',
+    accessToken: API_KEY
+  }
+).addTo(map);
+
+var oise = 'cb_2017_us_cd115_20m_valid.json';
+
+var results_file = 'dashboard_us_congress_list_GEOID_with_data_valid.json';
+>>>>>>> f29272cdc41c7e46b98dcc658df1b28381333fa7
 
 // console.log(district_data.party);
 
-function complete(district_data) { 
+function complete(district_data) {
   function getColor(d) {
+<<<<<<< HEAD
       return d == "REP" ? '#800026' :
          d == "DEM" ? '#0000ff' :
          d == "DFL" ? '#0000ff' :
@@ -138517,21 +138535,44 @@ function complete(district_data) {
 //       d/700000 > 0.1 ? '#FED976' :
 //       '#FFEDA0';
 //   }
+=======
+    return d / 700000 > 0.5
+      ? '#800026'
+      : d / 700000 > 0.4
+      ? '#BD0026'
+      : d / 700000 > 0.3
+      ? '#E31A1C'
+      : d / 700000 > 0.25
+      ? '#FC4E2A'
+      : d / 700000 > 0.2
+      ? '#FD8D3C'
+      : d / 700000 > 0.15
+      ? '#FEB24C'
+      : d / 700000 > 0.1
+      ? '#FED976'
+      : '#FFEDA0';
+  }
+>>>>>>> f29272cdc41c7e46b98dcc658df1b28381333fa7
 
   // coordinate GEOID and party affiliation
-  var STATEFP_CD115FP = {},
-    data = district_data.data;
+  var STATEFP_CD115FP = {};
+  var data = district_data.data;
 
-    // console.log(data);
+  console.log(data);
 
   for (var i = 0; i < data.length; i += 1) {
+<<<<<<< HEAD
     (STATEFP_CD115FP[data[i].GEOID] = data[i].party);
+=======
+    STATEFP_CD115FP[data[i].GEOID] = data[i].employment;
+>>>>>>> f29272cdc41c7e46b98dcc658df1b28381333fa7
   }
 
   for (var i = 0; i < data.length; i += 1) {
-    (STATEFP_CD115FP[data[i].STATEFP] = data[i].state);
+    STATEFP_CD115FP[data[i].STATEFP] = data[i].state;
   }
 
+<<<<<<< HEAD
   var STATEFP_CD115FP2 = {},
   data2 = district_data.data;
 
@@ -138596,11 +138637,92 @@ function complete(district_data) {
 
 
 // NEW INSERTION FOR POP-UP END
+=======
+  // for (var i = 0; i < data.length; i += 1) {
+  //    (STATEFP_CD115FP[data[i].CD115FP] = data[i].district);
+  //  }
 
-  }).addTo(map);
+  var jqxhr = $.getJSON(oise, function(data_shape) {
+    console.log('success shape_file');
+    shape_files = data_shape;
+    console.log(shape_files);
+
+    var shape_file_Layer = new L.geoJson(shape_files, {
+      style: function(feature) {
+        return {
+          weight: 1,
+          opacity: 1,
+          color: 'white',
+          fillOpacity: 0.5,
+          fillColor: getColor(STATEFP_CD115FP[feature.properties.GEOID])
+        };
+      },
+
+      // NEW INSERTION FOR POP-UP
+
+      // Called on each feature
+      onEachFeature: function(feature, layer) {
+        // Set mouse events to change map styling
+        layer.on({
+          // When a user's mouse touches a map feature, the mouseover event calls this function, that feature's opacity changes to 90% so that it stands out
+          mouseover: function(event) {
+            layer = event.target;
+            layer.setStyle({
+              fillOpacity: 0.9
+            });
+          },
+          // When the cursor no longer hovers over a map feature - when the mouseout event occurs - the feature's opacity reverts back to 50%
+          mouseout: function(event) {
+            layer = event.target;
+            layer.setStyle({
+              fillOpacity: 0.5
+            });
+          },
+          // When a feature (neighborhood) is clicked, it is enlarged to fit the screen
+          click: function(event) {
+            map.fitBounds(event.target.getBounds());
+          }
+        });
+        // Giving each feature a pop-up with information pertinent to it
+        layer.bindPopup(
+          '<h1>' +
+            STATEFP_CD115FP[feature.properties.STATEFP] +
+            '</h1> <hr> <h2>' +
+            'District: ' +
+            feature.properties.CD115FP +
+            '</h2>'
+        );
+      }
+>>>>>>> f29272cdc41c7e46b98dcc658df1b28381333fa7
+
+      // NEW INSERTION FOR POP-UP END
+    }).addTo(map);
+  })
+    .done(function() {
+      console.log('second success shape_file');
+    })
+    .fail(function() {
+      console.log('error shape_file');
+    })
+    .always(function() {
+      console.log('complete shape_file');
+    });
 }
 
-complete(district_data);
+var jqxhr1 = $.getJSON(results_file, function(district_data_orig) {
+  console.log('success district_data');
+  // console.log(district_data_orig);
 
+  complete(district_data_orig);
+})
+  .done(function() {
+    console.log('second success district_data');
+  })
+  .fail(function() {
+    console.log('error district_data');
+  })
+  .always(function() {
+    console.log('complete district_data');
+  });
 
 // from stack overflow example: https://stackoverflow.com/questions/35793471/define-json-polygons-color-by-data-from-csv-in-leaflet
