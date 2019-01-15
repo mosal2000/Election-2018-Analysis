@@ -15,6 +15,7 @@ L.tileLayer(
   }
 ).addTo(map1);
 
+/*
 var xmlhttp = new XMLHttpRequest();
 var url = 'https://election-2018-analysis.herokuapp.com/api/map';
 
@@ -30,10 +31,11 @@ xmlhttp.onreadystatechange = function() {
 
 xmlhttp.open('GET', url, true);
 xmlhttp.send();
+*/
 
-var oise = 'cb_2017_us_cd115_20m_valid.json';
+var oise = 'cb_2017_us_cd115_20m.json';
 
-var results_file = 'dashboard_us_congress_list_GEOID_with_data_valid.json';
+var results_file = '116th_us_congress_list.json';
 
 // console.log(district_data.party);
 
