@@ -109,14 +109,18 @@ function complete(district_data) {
         mouseover: function(event) {
           layer = event.target;
           layer.setStyle({
-            fillOpacity: 1.0
+            fillOpacity: 1.0,
+            weight: 4,
+            color: 'lightblue',
           });
         },
         // When the cursor no longer hovers over a map feature - when the mouseout event occurs - the feature's opacity reverts back to 50%
         mouseout: function(event) {
           layer = event.target;
           layer.setStyle({
-            fillOpacity: 0.9
+            fillOpacity: 0.9,
+            weight: 0.3,
+            color: 'white',
           });
         },
         // When a feature (neighborhood) is clicked, it is enlarged to fit the screen

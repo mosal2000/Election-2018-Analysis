@@ -72,7 +72,7 @@ function complete(district_data) {
    // console.log(data);
  
    for (var i = 0; i < data2.length; i += 1) {
-     STATEFP_CD115FP2[data2[i].GEOID] = data2[i].name;
+     STATEFP_CD115FP2[data2[i].GEOID] = data2[i].party;
    }
   // for (var i = 0; i < data.length; i += 1) {
   //    (STATEFP_CD115FP[data[i].CD115FP] = data[i].district);
@@ -130,8 +130,20 @@ function complete(district_data) {
         }
       });
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup("<h1>" + (STATEFP_CD115FP[feature.properties.STATEFP]) + "</h1> <hr> <h6>" + "District: " + feature.properties.CD115FP + "</h6> <h6>" + "Party: " + STATEFP_CD115FP2[feature.properties.GEOID] +
-             "</h6> <h6>" + "Employment Rate: " + ((STATEFP_CD115FP[feature.properties.GEOID])/750000) + "</h6>");
+      layer.bindPopup(
+        "<h5>" + 
+        (STATEFP_CD115FP[feature.properties.STATEFP]) +
+         "</h5> <hr> <h6>" + 
+         "District: " +
+         feature.properties.CD115FP + 
+         "</h6> <h6>" + 
+         "Winning Party: " + 
+         STATEFP_CD115FP2[feature.properties.GEOID] +
+         "</h6> <h6>" + 
+         "Employment Rate: " + 
+         ((STATEFP_CD115FP[feature.properties.GEOID])/750000) + 
+         "</h6>"
+      );
     }
 
       // NEW INSERTION FOR POP-UP END
