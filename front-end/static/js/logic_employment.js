@@ -1,4 +1,4 @@
-var map1 = L.map('map1', {
+var map = L.map('map', {
   center: [39.8283, -98.5795],
   zoom: 5
 });
@@ -13,7 +13,7 @@ L.tileLayer(
     id: 'mapbox.light',
     accessToken: API_KEY
   }
-).addTo(map1);
+).addTo(map);
 
 var xmlhttp = new XMLHttpRequest();
 var url = 'https://election-2018-analysis.herokuapp.com/api/map';
@@ -112,7 +112,7 @@ function complete(district_data) {
           },
           // When a feature (neighborhood) is clicked, it is enlarged to fit the screen
           click: function(event) {
-            map1.fitBounds(event.target.getBounds());
+            map.fitBounds(event.target.getBounds());
           }
         });
         // Giving each feature a pop-up with information pertinent to it
@@ -127,7 +127,7 @@ function complete(district_data) {
       }
 
       // NEW INSERTION FOR POP-UP END
-    }).addTo(map1);
+    }).addTo(map);
   })
     .done(function() {
       console.log('second success shape_file');
