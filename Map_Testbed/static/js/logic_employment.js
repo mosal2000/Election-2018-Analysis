@@ -15,6 +15,22 @@ L.tileLayer(
   }
 ).addTo(map);
 
+var xmlhttp = new XMLHttpRequest();
+var url = 'https://election-2018-analysis.herokuapp.com/api/map';
+
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var data = JSON.parse(this.responseText);
+    console.log('Requesting xmlhttp');
+    console.log(data);
+
+    //  myFunction(myArr);
+  }
+};
+
+xmlhttp.open('GET', url, true);
+xmlhttp.send();
+
 var oise = 'cb_2017_us_cd115_20m_valid.json';
 
 var results_file = 'dashboard_us_congress_list_GEOID_with_data_valid.json';
@@ -44,7 +60,7 @@ function complete(district_data) {
   var STATEFP_CD115FP = {};
   var data = district_data.data;
 
-  console.log(data);
+  //   console.log(data);
 
   for (var i = 0; i < data.length; i += 1) {
     STATEFP_CD115FP[data[i].GEOID] = data[i].employment;
