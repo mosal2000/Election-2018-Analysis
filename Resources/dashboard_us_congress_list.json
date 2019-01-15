@@ -16,7 +16,8 @@
 		"fin_total_disbursement" : 1159940,
 		"employment" : 266072,
 		"annual_payroll_in_1000" : 15239195,
-		"num_of_establishment" : 21077
+		"num_of_establishment" : 21077,
+		"GEOID" : "0200"
 	},
 	{
 		"congress_num" : 116,
@@ -35,7 +36,8 @@
 		"fin_total_disbursement" : 662806,
 		"employment" : 236720,
 		"annual_payroll_in_1000" : 9449314,
-		"num_of_establishment" : 15611
+		"num_of_establishment" : 15611,
+		"GEOID" : "0101"
 	},
 	{
 		"congress_num" : 116,
@@ -54,7 +56,8 @@
 		"fin_total_disbursement" : 2100810,
 		"employment" : 215224,
 		"annual_payroll_in_1000" : 8266520,
-		"num_of_establishment" : 14252
+		"num_of_establishment" : 14252,
+		"GEOID" : "0102"
 	},
 	{
 		"congress_num" : 116,
@@ -73,7 +76,8 @@
 		"fin_total_disbursement" : 857764,
 		"employment" : 179100,
 		"annual_payroll_in_1000" : 6150074,
-		"num_of_establishment" : 11510
+		"num_of_establishment" : 11510,
+		"GEOID" : "0103"
 	},
 	{
 		"congress_num" : 116,
@@ -92,7 +96,8 @@
 		"fin_total_disbursement" : 853026,
 		"employment" : 188796,
 		"annual_payroll_in_1000" : 6497936,
-		"num_of_establishment" : 12538
+		"num_of_establishment" : 12538,
+		"GEOID" : "0104"
 	},
 	{
 		"congress_num" : 116,
@@ -111,7 +116,8 @@
 		"fin_total_disbursement" : 1876240,
 		"employment" : 255797,
 		"annual_payroll_in_1000" : 11465689,
-		"num_of_establishment" : 15137
+		"num_of_establishment" : 15137,
+		"GEOID" : "0105"
 	},
 	{
 		"congress_num" : 116,
@@ -130,7 +136,8 @@
 		"fin_total_disbursement" : 1318790,
 		"employment" : 251622,
 		"annual_payroll_in_1000" : 11806559,
-		"num_of_establishment" : 16197
+		"num_of_establishment" : 16197,
+		"GEOID" : "0106"
 	},
 	{
 		"congress_num" : 116,
@@ -149,7 +156,8 @@
 		"fin_total_disbursement" : 1028350,
 		"employment" : 287267,
 		"annual_payroll_in_1000" : 13460524,
-		"num_of_establishment" : 13840
+		"num_of_establishment" : 13840,
+		"GEOID" : "0107"
 	},
 	{
 		"congress_num" : 116,
@@ -168,7 +176,8 @@
 		"fin_total_disbursement" : 766218,
 		"employment" : 192289,
 		"annual_payroll_in_1000" : 6526430,
-		"num_of_establishment" : 13855
+		"num_of_establishment" : 13855,
+		"GEOID" : "0501"
 	},
 	{
 		"congress_num" : 116,
@@ -187,7 +196,8 @@
 		"fin_total_disbursement" : 2843740,
 		"employment" : 294396,
 		"annual_payroll_in_1000" : 12284595,
-		"num_of_establishment" : 18848
+		"num_of_establishment" : 18848,
+		"GEOID" : "0502"
 	},
 	{
 		"congress_num" : 116,
@@ -206,7 +216,8 @@
 		"fin_total_disbursement" : 1063570,
 		"employment" : 328502,
 		"annual_payroll_in_1000" : 15048329,
-		"num_of_establishment" : 18788
+		"num_of_establishment" : 18788,
+		"GEOID" : "0503"
 	},
 	{
 		"congress_num" : 116,
@@ -225,7 +236,8 @@
 		"fin_total_disbursement" : 960858,
 		"employment" : 186615,
 		"annual_payroll_in_1000" : 6504135,
-		"num_of_establishment" : 13748
+		"num_of_establishment" : 13748,
+		"GEOID" : "0504"
 	},
 	{
 		"congress_num" : 116,
@@ -244,7 +256,8 @@
 		"fin_total_disbursement" : 2023000,
 		"employment" : 166416,
 		"annual_payroll_in_1000" : 6415346,
-		"num_of_establishment" : 11927
+		"num_of_establishment" : 11927,
+		"GEOID" : "0401"
 	},
 	{
 		"congress_num" : 116,
@@ -263,7 +276,8 @@
 		"fin_total_disbursement" : 3275820,
 		"employment" : 217943,
 		"annual_payroll_in_1000" : 7971798,
-		"num_of_establishment" : 15397
+		"num_of_establishment" : 15397,
+		"GEOID" : "0402"
 	},
 	{
 		"congress_num" : 116,
@@ -282,7 +296,8 @@
 		"fin_total_disbursement" : 591169,
 		"employment" : 165199,
 		"annual_payroll_in_1000" : 6620802,
-		"num_of_establishment" : 9888
+		"num_of_establishment" : 9888,
+		"GEOID" : "0403"
 	},
 	{
 		"congress_num" : 116,
@@ -301,7 +316,8 @@
 		"fin_total_disbursement" : 442051,
 		"employment" : 141929,
 		"annual_payroll_in_1000" : 4689523,
-		"num_of_establishment" : 12645
+		"num_of_establishment" : 12645,
+		"GEOID" : "0404"
 	},
 	{
 		"congress_num" : 116,
@@ -320,7 +336,8 @@
 		"fin_total_disbursement" : 531105,
 		"employment" : 187758,
 		"annual_payroll_in_1000" : 7590440,
-		"num_of_establishment" : 14439
+		"num_of_establishment" : 14439,
+		"GEOID" : "0405"
 	},
 	{
 		"congress_num" : 116,
@@ -339,7 +356,8 @@
 		"fin_total_disbursement" : 1472420,
 		"employment" : 379927,
 		"annual_payroll_in_1000" : 19555511,
-		"num_of_establishment" : 24973
+		"num_of_establishment" : 24973,
+		"GEOID" : "0406"
 	},
 	{
 		"congress_num" : 116,
@@ -358,7 +376,8 @@
 		"fin_total_disbursement" : 871342,
 		"employment" : 387001,
 		"annual_payroll_in_1000" : 19479408,
-		"num_of_establishment" : 14033
+		"num_of_establishment" : 14033,
+		"GEOID" : "0407"
 	},
 	{
 		"congress_num" : 116,
@@ -377,7 +396,8 @@
 		"fin_total_disbursement" : 1541970,
 		"employment" : 152527,
 		"annual_payroll_in_1000" : 5319119,
-		"num_of_establishment" : 11511
+		"num_of_establishment" : 11511,
+		"GEOID" : "0408"
 	},
 	{
 		"congress_num" : 116,
@@ -396,7 +416,8 @@
 		"fin_total_disbursement" : 2159070,
 		"employment" : 475935,
 		"annual_payroll_in_1000" : 24709778,
-		"num_of_establishment" : 23646
+		"num_of_establishment" : 23646,
+		"GEOID" : "0409"
 	},
 	{
 		"congress_num" : 116,
@@ -415,7 +436,8 @@
 		"fin_total_disbursement" : 785602,
 		"employment" : 171410,
 		"annual_payroll_in_1000" : 6765690,
-		"num_of_establishment" : 15365
+		"num_of_establishment" : 15365,
+		"GEOID" : "0601"
 	},
 	{
 		"congress_num" : 116,
@@ -434,7 +456,8 @@
 		"fin_total_disbursement" : 6209200,
 		"employment" : 190329,
 		"annual_payroll_in_1000" : 8414164,
-		"num_of_establishment" : 12185
+		"num_of_establishment" : 12185,
+		"GEOID" : "0610"
 	},
 	{
 		"congress_num" : 116,
@@ -453,7 +476,8 @@
 		"fin_total_disbursement" : 438544,
 		"employment" : 230676,
 		"annual_payroll_in_1000" : 13861319,
-		"num_of_establishment" : 16983
+		"num_of_establishment" : 16983,
+		"GEOID" : "0611"
 	},
 	{
 		"congress_num" : 116,
@@ -472,7 +496,8 @@
 		"fin_total_disbursement" : 4581440,
 		"employment" : 613587,
 		"annual_payroll_in_1000" : 59999461,
-		"num_of_establishment" : 32718
+		"num_of_establishment" : 32718,
+		"GEOID" : "0612"
 	},
 	{
 		"congress_num" : 116,
@@ -491,7 +516,8 @@
 		"fin_total_disbursement" : 1589340,
 		"employment" : 300945,
 		"annual_payroll_in_1000" : 19733986,
-		"num_of_establishment" : 19174
+		"num_of_establishment" : 19174,
+		"GEOID" : "0613"
 	},
 	{
 		"congress_num" : 116,
@@ -510,7 +536,8 @@
 		"fin_total_disbursement" : 598202,
 		"employment" : 351648,
 		"annual_payroll_in_1000" : 37628529,
-		"num_of_establishment" : 19454
+		"num_of_establishment" : 19454,
+		"GEOID" : "0614"
 	},
 	{
 		"congress_num" : 116,
@@ -529,7 +556,8 @@
 		"fin_total_disbursement" : 2181950,
 		"employment" : 289706,
 		"annual_payroll_in_1000" : 21236353,
-		"num_of_establishment" : 16997
+		"num_of_establishment" : 16997,
+		"GEOID" : "0615"
 	},
 	{
 		"congress_num" : 116,
@@ -548,7 +576,8 @@
 		"fin_total_disbursement" : 1913600,
 		"employment" : 149720,
 		"annual_payroll_in_1000" : 6271829,
-		"num_of_establishment" : 9102
+		"num_of_establishment" : 9102,
+		"GEOID" : "0616"
 	},
 	{
 		"congress_num" : 116,
@@ -567,7 +596,8 @@
 		"fin_total_disbursement" : 1774850,
 		"employment" : 562421,
 		"annual_payroll_in_1000" : 68100168,
-		"num_of_establishment" : 21411
+		"num_of_establishment" : 21411,
+		"GEOID" : "0617"
 	},
 	{
 		"congress_num" : 116,
@@ -586,7 +616,8 @@
 		"fin_total_disbursement" : 1164440,
 		"employment" : 404129,
 		"annual_payroll_in_1000" : 46636795,
-		"num_of_establishment" : 22079
+		"num_of_establishment" : 22079,
+		"GEOID" : "0618"
 	},
 	{
 		"congress_num" : 116,
@@ -605,7 +636,8 @@
 		"fin_total_disbursement" : 1727330,
 		"employment" : 202572,
 		"annual_payroll_in_1000" : 13439877,
-		"num_of_establishment" : 13930
+		"num_of_establishment" : 13930,
+		"GEOID" : "0619"
 	},
 	{
 		"congress_num" : 116,
@@ -624,7 +656,8 @@
 		"fin_total_disbursement" : 655812,
 		"employment" : 226752,
 		"annual_payroll_in_1000" : 11976222,
-		"num_of_establishment" : 21721
+		"num_of_establishment" : 21721,
+		"GEOID" : "0602"
 	},
 	{
 		"congress_num" : 116,
@@ -643,7 +676,8 @@
 		"fin_total_disbursement" : 672326,
 		"employment" : 200289,
 		"annual_payroll_in_1000" : 8920185,
-		"num_of_establishment" : 16384
+		"num_of_establishment" : 16384,
+		"GEOID" : "0620"
 	},
 	{
 		"congress_num" : 116,
@@ -662,7 +696,8 @@
 		"fin_total_disbursement" : 2268250,
 		"employment" : 105964,
 		"annual_payroll_in_1000" : 4211383,
-		"num_of_establishment" : 6911
+		"num_of_establishment" : 6911,
+		"GEOID" : "0621"
 	},
 	{
 		"congress_num" : 116,
@@ -681,7 +716,8 @@
 		"fin_total_disbursement" : 9943510,
 		"employment" : 208974,
 		"annual_payroll_in_1000" : 8407522,
-		"num_of_establishment" : 14384
+		"num_of_establishment" : 14384,
+		"GEOID" : "0622"
 	},
 	{
 		"congress_num" : 116,
@@ -700,7 +736,8 @@
 		"fin_total_disbursement" : 7103390,
 		"employment" : 186208,
 		"annual_payroll_in_1000" : 7943420,
-		"num_of_establishment" : 12055
+		"num_of_establishment" : 12055,
+		"GEOID" : "0623"
 	},
 	{
 		"congress_num" : 116,
@@ -719,7 +756,8 @@
 		"fin_total_disbursement" : 1521780,
 		"employment" : 242652,
 		"annual_payroll_in_1000" : 11375323,
-		"num_of_establishment" : 20372
+		"num_of_establishment" : 20372,
+		"GEOID" : "0624"
 	},
 	{
 		"congress_num" : 116,
@@ -738,7 +776,8 @@
 		"fin_total_disbursement" : 5933220,
 		"employment" : 161652,
 		"annual_payroll_in_1000" : 6772718,
-		"num_of_establishment" : 12375
+		"num_of_establishment" : 12375,
+		"GEOID" : "0625"
 	},
 	{
 		"congress_num" : 116,
@@ -757,7 +796,8 @@
 		"fin_total_disbursement" : 1615380,
 		"employment" : 242372,
 		"annual_payroll_in_1000" : 13299946,
-		"num_of_establishment" : 18932
+		"num_of_establishment" : 18932,
+		"GEOID" : "0626"
 	},
 	{
 		"congress_num" : 116,
@@ -776,7 +816,8 @@
 		"fin_total_disbursement" : 818392,
 		"employment" : 254910,
 		"annual_payroll_in_1000" : 12957792,
-		"num_of_establishment" : 21984
+		"num_of_establishment" : 21984,
+		"GEOID" : "0627"
 	},
 	{
 		"congress_num" : 116,
@@ -795,7 +836,8 @@
 		"fin_total_disbursement" : 3438990,
 		"employment" : 337666,
 		"annual_payroll_in_1000" : 18736830,
-		"num_of_establishment" : 25077
+		"num_of_establishment" : 25077,
+		"GEOID" : "0628"
 	},
 	{
 		"congress_num" : 116,
@@ -814,7 +856,8 @@
 		"fin_total_disbursement" : 1330020,
 		"employment" : 171756,
 		"annual_payroll_in_1000" : 8011541,
-		"num_of_establishment" : 12253
+		"num_of_establishment" : 12253,
+		"GEOID" : "0629"
 	},
 	{
 		"congress_num" : 116,
@@ -833,7 +876,8 @@
 		"fin_total_disbursement" : 780424,
 		"employment" : 165851,
 		"annual_payroll_in_1000" : 7446447,
-		"num_of_establishment" : 11822
+		"num_of_establishment" : 11822,
+		"GEOID" : "0603"
 	},
 	{
 		"congress_num" : 116,
@@ -852,7 +896,8 @@
 		"fin_total_disbursement" : 508611,
 		"employment" : 391843,
 		"annual_payroll_in_1000" : 19320288,
-		"num_of_establishment" : 30390
+		"num_of_establishment" : 30390,
+		"GEOID" : "0630"
 	},
 	{
 		"congress_num" : 116,
@@ -871,7 +916,8 @@
 		"fin_total_disbursement" : 2113920,
 		"employment" : 240722,
 		"annual_payroll_in_1000" : 10291542,
-		"num_of_establishment" : 13186
+		"num_of_establishment" : 13186,
+		"GEOID" : "0631"
 	},
 	{
 		"congress_num" : 116,
@@ -890,7 +936,8 @@
 		"fin_total_disbursement" : 174202,
 		"employment" : 246743,
 		"annual_payroll_in_1000" : 11325710,
-		"num_of_establishment" : 15315
+		"num_of_establishment" : 15315,
+		"GEOID" : "0632"
 	},
 	{
 		"congress_num" : 116,
@@ -909,7 +956,8 @@
 		"fin_total_disbursement" : 925308,
 		"employment" : 508491,
 		"annual_payroll_in_1000" : 38146705,
-		"num_of_establishment" : 40750
+		"num_of_establishment" : 40750,
+		"GEOID" : "0633"
 	},
 	{
 		"congress_num" : 116,
@@ -928,7 +976,8 @@
 		"fin_total_disbursement" : 1345400,
 		"employment" : 349223,
 		"annual_payroll_in_1000" : 22693117,
-		"num_of_establishment" : 23945
+		"num_of_establishment" : 23945,
+		"GEOID" : "0634"
 	},
 	{
 		"congress_num" : 116,
@@ -947,7 +996,8 @@
 		"fin_total_disbursement" : 562285,
 		"employment" : 260410,
 		"annual_payroll_in_1000" : 11764501,
-		"num_of_establishment" : 13495
+		"num_of_establishment" : 13495,
+		"GEOID" : "0635"
 	},
 	{
 		"congress_num" : 116,
@@ -966,7 +1016,8 @@
 		"fin_total_disbursement" : 2129720,
 		"employment" : 169377,
 		"annual_payroll_in_1000" : 5989491,
-		"num_of_establishment" : 12438
+		"num_of_establishment" : 12438,
+		"GEOID" : "0636"
 	},
 	{
 		"congress_num" : 116,
@@ -985,7 +1036,8 @@
 		"fin_total_disbursement" : 745933,
 		"employment" : 295656,
 		"annual_payroll_in_1000" : 19211561,
-		"num_of_establishment" : 21475
+		"num_of_establishment" : 21475,
+		"GEOID" : "0637"
 	},
 	{
 		"congress_num" : 116,
@@ -1004,7 +1056,8 @@
 		"fin_total_disbursement" : 1326940,
 		"employment" : 243609,
 		"annual_payroll_in_1000" : 10757767,
-		"num_of_establishment" : 14810
+		"num_of_establishment" : 14810,
+		"GEOID" : "0638"
 	},
 	{
 		"congress_num" : 116,
@@ -1023,7 +1076,8 @@
 		"fin_total_disbursement" : 10515000,
 		"employment" : 257648,
 		"annual_payroll_in_1000" : 11940797,
-		"num_of_establishment" : 19665
+		"num_of_establishment" : 19665,
+		"GEOID" : "0639"
 	},
 	{
 		"congress_num" : 116,
@@ -1042,7 +1096,8 @@
 		"fin_total_disbursement" : 1471170,
 		"employment" : 222875,
 		"annual_payroll_in_1000" : 10421957,
-		"num_of_establishment" : 18682
+		"num_of_establishment" : 18682,
+		"GEOID" : "0604"
 	},
 	{
 		"congress_num" : 116,
@@ -1061,7 +1116,8 @@
 		"fin_total_disbursement" : 489820,
 		"employment" : 211391,
 		"annual_payroll_in_1000" : 9116839,
-		"num_of_establishment" : 11400
+		"num_of_establishment" : 11400,
+		"GEOID" : "0640"
 	},
 	{
 		"congress_num" : 116,
@@ -1080,7 +1136,8 @@
 		"fin_total_disbursement" : 890526,
 		"employment" : 184914,
 		"annual_payroll_in_1000" : 7571227,
-		"num_of_establishment" : 10126
+		"num_of_establishment" : 10126,
+		"GEOID" : "0641"
 	},
 	{
 		"congress_num" : 116,
@@ -1099,7 +1156,8 @@
 		"fin_total_disbursement" : 1507580,
 		"employment" : 155850,
 		"annual_payroll_in_1000" : 6339570,
-		"num_of_establishment" : 11740
+		"num_of_establishment" : 11740,
+		"GEOID" : "0642"
 	},
 	{
 		"congress_num" : 116,
@@ -1118,7 +1176,8 @@
 		"fin_total_disbursement" : 890706,
 		"employment" : 291799,
 		"annual_payroll_in_1000" : 15274009,
-		"num_of_establishment" : 15217
+		"num_of_establishment" : 15217,
+		"GEOID" : "0643"
 	},
 	{
 		"congress_num" : 116,
@@ -1137,7 +1196,8 @@
 		"fin_total_disbursement" : 814786,
 		"employment" : 163841,
 		"annual_payroll_in_1000" : 7775026,
-		"num_of_establishment" : 8735
+		"num_of_establishment" : 8735,
+		"GEOID" : "0644"
 	},
 	{
 		"congress_num" : 116,
@@ -1156,7 +1216,8 @@
 		"fin_total_disbursement" : 5357650,
 		"employment" : 413301,
 		"annual_payroll_in_1000" : 29007637,
-		"num_of_establishment" : 26021
+		"num_of_establishment" : 26021,
+		"GEOID" : "0645"
 	},
 	{
 		"congress_num" : 116,
@@ -1175,7 +1236,8 @@
 		"fin_total_disbursement" : 458661,
 		"employment" : 392810,
 		"annual_payroll_in_1000" : 18892153,
-		"num_of_establishment" : 18049
+		"num_of_establishment" : 18049,
+		"GEOID" : "0646"
 	},
 	{
 		"congress_num" : 116,
@@ -1194,7 +1256,8 @@
 		"fin_total_disbursement" : 537257,
 		"employment" : 243080,
 		"annual_payroll_in_1000" : 12344945,
-		"num_of_establishment" : 15770
+		"num_of_establishment" : 15770,
+		"GEOID" : "0647"
 	},
 	{
 		"congress_num" : 116,
@@ -1213,7 +1276,8 @@
 		"fin_total_disbursement" : 6640120,
 		"employment" : 327565,
 		"annual_payroll_in_1000" : 19507963,
-		"num_of_establishment" : 25408
+		"num_of_establishment" : 25408,
+		"GEOID" : "0648"
 	},
 	{
 		"congress_num" : 116,
@@ -1232,7 +1296,8 @@
 		"fin_total_disbursement" : 4757470,
 		"employment" : 276231,
 		"annual_payroll_in_1000" : 15097424,
-		"num_of_establishment" : 21754
+		"num_of_establishment" : 21754,
+		"GEOID" : "0649"
 	},
 	{
 		"congress_num" : 116,
@@ -1251,7 +1316,8 @@
 		"fin_total_disbursement" : 1867920,
 		"employment" : 234849,
 		"annual_payroll_in_1000" : 12433994,
-		"num_of_establishment" : 17266
+		"num_of_establishment" : 17266,
+		"GEOID" : "0605"
 	},
 	{
 		"congress_num" : 116,
@@ -1270,7 +1336,8 @@
 		"fin_total_disbursement" : 1606800,
 		"employment" : 200829,
 		"annual_payroll_in_1000" : 7877190,
-		"num_of_establishment" : 16313
+		"num_of_establishment" : 16313,
+		"GEOID" : "0650"
 	},
 	{
 		"congress_num" : 116,
@@ -1289,7 +1356,8 @@
 		"fin_total_disbursement" : 750274,
 		"employment" : 141209,
 		"annual_payroll_in_1000" : 5174788,
-		"num_of_establishment" : 10343
+		"num_of_establishment" : 10343,
+		"GEOID" : "0651"
 	},
 	{
 		"congress_num" : 116,
@@ -1308,7 +1376,8 @@
 		"fin_total_disbursement" : 1495390,
 		"employment" : 525065,
 		"annual_payroll_in_1000" : 36032894,
-		"num_of_establishment" : 29498
+		"num_of_establishment" : 29498,
+		"GEOID" : "0652"
 	},
 	{
 		"congress_num" : 116,
@@ -1327,7 +1396,8 @@
 		"fin_total_disbursement" : 449134,
 		"employment" : 234195,
 		"annual_payroll_in_1000" : 10678743,
-		"num_of_establishment" : 16279
+		"num_of_establishment" : 16279,
+		"GEOID" : "0653"
 	},
 	{
 		"congress_num" : 116,
@@ -1346,7 +1416,8 @@
 		"fin_total_disbursement" : 1047110,
 		"employment" : 263366,
 		"annual_payroll_in_1000" : 13492461,
-		"num_of_establishment" : 15582
+		"num_of_establishment" : 15582,
+		"GEOID" : "0606"
 	},
 	{
 		"congress_num" : 116,
@@ -1365,7 +1436,8 @@
 		"fin_total_disbursement" : 1387700,
 		"employment" : 213587,
 		"annual_payroll_in_1000" : 11860894,
-		"num_of_establishment" : 13795
+		"num_of_establishment" : 13795,
+		"GEOID" : "0607"
 	},
 	{
 		"congress_num" : 116,
@@ -1384,7 +1456,8 @@
 		"fin_total_disbursement" : 1061810,
 		"employment" : 116450,
 		"annual_payroll_in_1000" : 4035595,
-		"num_of_establishment" : 9402
+		"num_of_establishment" : 9402,
+		"GEOID" : "0608"
 	},
 	{
 		"congress_num" : 116,
@@ -1403,7 +1476,8 @@
 		"fin_total_disbursement" : 732444,
 		"employment" : 159812,
 		"annual_payroll_in_1000" : 7215345,
-		"num_of_establishment" : 10777
+		"num_of_establishment" : 10777,
+		"GEOID" : "0609"
 	},
 	{
 		"congress_num" : 116,
@@ -1422,7 +1496,8 @@
 		"fin_total_disbursement" : 1131640,
 		"employment" : 496227,
 		"annual_payroll_in_1000" : 28878089,
-		"num_of_establishment" : 29618
+		"num_of_establishment" : 29618,
+		"GEOID" : "0801"
 	},
 	{
 		"congress_num" : 116,
@@ -1441,7 +1516,8 @@
 		"fin_total_disbursement" : 976091,
 		"employment" : 356951,
 		"annual_payroll_in_1000" : 18241295,
-		"num_of_establishment" : 30011
+		"num_of_establishment" : 30011,
+		"GEOID" : "0802"
 	},
 	{
 		"congress_num" : 116,
@@ -1460,7 +1536,8 @@
 		"fin_total_disbursement" : 1370070,
 		"employment" : 252456,
 		"annual_payroll_in_1000" : 9777300,
-		"num_of_establishment" : 25551
+		"num_of_establishment" : 25551,
+		"GEOID" : "0803"
 	},
 	{
 		"congress_num" : 116,
@@ -1479,7 +1556,8 @@
 		"fin_total_disbursement" : 598853,
 		"employment" : 241416,
 		"annual_payroll_in_1000" : 12338851,
-		"num_of_establishment" : 19686
+		"num_of_establishment" : 19686,
+		"GEOID" : "0804"
 	},
 	{
 		"congress_num" : 116,
@@ -1498,7 +1576,8 @@
 		"fin_total_disbursement" : 753467,
 		"employment" : 255960,
 		"annual_payroll_in_1000" : 11176491,
-		"num_of_establishment" : 19829
+		"num_of_establishment" : 19829,
+		"GEOID" : "0805"
 	},
 	{
 		"congress_num" : 116,
@@ -1517,7 +1596,8 @@
 		"fin_total_disbursement" : 4505290,
 		"employment" : 326513,
 		"annual_payroll_in_1000" : 19111742,
-		"num_of_establishment" : 20336
+		"num_of_establishment" : 20336,
+		"GEOID" : "0806"
 	},
 	{
 		"congress_num" : 116,
@@ -1536,7 +1616,8 @@
 		"fin_total_disbursement" : 1388520,
 		"employment" : 269887,
 		"annual_payroll_in_1000" : 12820694,
-		"num_of_establishment" : 19500
+		"num_of_establishment" : 19500,
+		"GEOID" : "0807"
 	},
 	{
 		"congress_num" : 116,
@@ -1555,7 +1636,8 @@
 		"fin_total_disbursement" : 1517750,
 		"employment" : 377872,
 		"annual_payroll_in_1000" : 22700042,
-		"num_of_establishment" : 18540
+		"num_of_establishment" : 18540,
+		"GEOID" : "0901"
 	},
 	{
 		"congress_num" : 116,
@@ -1574,7 +1656,8 @@
 		"fin_total_disbursement" : 850917,
 		"employment" : 215723,
 		"annual_payroll_in_1000" : 9871541,
-		"num_of_establishment" : 14386
+		"num_of_establishment" : 14386,
+		"GEOID" : "0902"
 	},
 	{
 		"congress_num" : 116,
@@ -1593,7 +1676,8 @@
 		"fin_total_disbursement" : 1141490,
 		"employment" : 308835,
 		"annual_payroll_in_1000" : 16066503,
-		"num_of_establishment" : 16503
+		"num_of_establishment" : 16503,
+		"GEOID" : "0903"
 	},
 	{
 		"congress_num" : 116,
@@ -1612,7 +1696,8 @@
 		"fin_total_disbursement" : 1383610,
 		"employment" : 336223,
 		"annual_payroll_in_1000" : 30204132,
-		"num_of_establishment" : 21896
+		"num_of_establishment" : 21896,
+		"GEOID" : "0904"
 	},
 	{
 		"congress_num" : 116,
@@ -1631,7 +1716,8 @@
 		"fin_total_disbursement" : 800963,
 		"employment" : 267494,
 		"annual_payroll_in_1000" : 14077634,
-		"num_of_establishment" : 17551
+		"num_of_establishment" : 17551,
+		"GEOID" : "0905"
 	},
 	{
 		"congress_num" : 116,
@@ -1650,7 +1736,8 @@
 		"fin_total_disbursement" : 967958,
 		"employment" : 400069,
 		"annual_payroll_in_1000" : 21196371,
-		"num_of_establishment" : 25366
+		"num_of_establishment" : 25366,
+		"GEOID" : "1000"
 	},
 	{
 		"congress_num" : 116,
@@ -1669,7 +1756,8 @@
 		"fin_total_disbursement" : 989519,
 		"employment" : 208689,
 		"annual_payroll_in_1000" : 8022382,
-		"num_of_establishment" : 16955
+		"num_of_establishment" : 16955,
+		"GEOID" : "1201"
 	},
 	{
 		"congress_num" : 116,
@@ -1688,7 +1776,8 @@
 		"fin_total_disbursement" : 789532,
 		"employment" : 479029,
 		"annual_payroll_in_1000" : 19618829,
-		"num_of_establishment" : 22907
+		"num_of_establishment" : 22907,
+		"GEOID" : "1210"
 	},
 	{
 		"congress_num" : 116,
@@ -1707,7 +1796,8 @@
 		"fin_total_disbursement" : 441355,
 		"employment" : 140927,
 		"annual_payroll_in_1000" : 4728339,
-		"num_of_establishment" : 12340
+		"num_of_establishment" : 12340,
+		"GEOID" : "1211"
 	},
 	{
 		"congress_num" : 116,
@@ -1726,7 +1816,8 @@
 		"fin_total_disbursement" : 1555350,
 		"employment" : 168479,
 		"annual_payroll_in_1000" : 6087297,
-		"num_of_establishment" : 16550
+		"num_of_establishment" : 16550,
+		"GEOID" : "1212"
 	},
 	{
 		"congress_num" : 116,
@@ -1745,7 +1836,8 @@
 		"fin_total_disbursement" : 1479300,
 		"employment" : 301078,
 		"annual_payroll_in_1000" : 13729500,
-		"num_of_establishment" : 21271
+		"num_of_establishment" : 21271,
+		"GEOID" : "1213"
 	},
 	{
 		"congress_num" : 116,
@@ -1764,7 +1856,8 @@
 		"fin_total_disbursement" : 630911,
 		"employment" : 424550,
 		"annual_payroll_in_1000" : 22163919,
-		"num_of_establishment" : 24612
+		"num_of_establishment" : 24612,
+		"GEOID" : "1214"
 	},
 	{
 		"congress_num" : 116,
@@ -1783,7 +1876,8 @@
 		"fin_total_disbursement" : 519284,
 		"employment" : 256097,
 		"annual_payroll_in_1000" : 10638654,
-		"num_of_establishment" : 16463
+		"num_of_establishment" : 16463,
+		"GEOID" : "1215"
 	},
 	{
 		"congress_num" : 116,
@@ -1802,7 +1896,8 @@
 		"fin_total_disbursement" : 3800760,
 		"employment" : 229239,
 		"annual_payroll_in_1000" : 9282636,
-		"num_of_establishment" : 21196
+		"num_of_establishment" : 21196,
+		"GEOID" : "1216"
 	},
 	{
 		"congress_num" : 116,
@@ -1821,7 +1916,8 @@
 		"fin_total_disbursement" : 598442,
 		"employment" : 137652,
 		"annual_payroll_in_1000" : 4846397,
-		"num_of_establishment" : 13760
+		"num_of_establishment" : 13760,
+		"GEOID" : "1217"
 	},
 	{
 		"congress_num" : 116,
@@ -1840,7 +1936,8 @@
 		"fin_total_disbursement" : 4557500,
 		"employment" : 223989,
 		"annual_payroll_in_1000" : 9674944,
-		"num_of_establishment" : 21571
+		"num_of_establishment" : 21571,
+		"GEOID" : "1218"
 	},
 	{
 		"congress_num" : 116,
@@ -1859,7 +1956,8 @@
 		"fin_total_disbursement" : 896068,
 		"employment" : 300371,
 		"annual_payroll_in_1000" : 12245813,
-		"num_of_establishment" : 25537
+		"num_of_establishment" : 25537,
+		"GEOID" : "1219"
 	},
 	{
 		"congress_num" : 116,
@@ -1878,7 +1976,8 @@
 		"fin_total_disbursement" : 935092,
 		"employment" : 173017,
 		"annual_payroll_in_1000" : 6191323,
-		"num_of_establishment" : 14940
+		"num_of_establishment" : 14940,
+		"GEOID" : "1202"
 	},
 	{
 		"congress_num" : 116,
@@ -1897,7 +1996,8 @@
 		"fin_total_disbursement" : 781693,
 		"employment" : 255643,
 		"annual_payroll_in_1000" : 12014425,
-		"num_of_establishment" : 17351
+		"num_of_establishment" : 17351,
+		"GEOID" : "1220"
 	},
 	{
 		"congress_num" : 116,
@@ -1916,7 +2016,8 @@
 		"fin_total_disbursement" : 770982,
 		"employment" : 201112,
 		"annual_payroll_in_1000" : 8272292,
-		"num_of_establishment" : 21658
+		"num_of_establishment" : 21658,
+		"GEOID" : "1221"
 	},
 	{
 		"congress_num" : 116,
@@ -1935,7 +2036,8 @@
 		"fin_total_disbursement" : 1019900,
 		"employment" : 351980,
 		"annual_payroll_in_1000" : 17616621,
-		"num_of_establishment" : 33420
+		"num_of_establishment" : 33420,
+		"GEOID" : "1222"
 	},
 	{
 		"congress_num" : 116,
@@ -1954,7 +2056,8 @@
 		"fin_total_disbursement" : 1616330,
 		"employment" : 295718,
 		"annual_payroll_in_1000" : 13511293,
-		"num_of_establishment" : 26148
+		"num_of_establishment" : 26148,
+		"GEOID" : "1223"
 	},
 	{
 		"congress_num" : 116,
@@ -1973,7 +2076,8 @@
 		"fin_total_disbursement" : 317561,
 		"employment" : 213698,
 		"annual_payroll_in_1000" : 9344369,
-		"num_of_establishment" : 16401
+		"num_of_establishment" : 16401,
+		"GEOID" : "1224"
 	},
 	{
 		"congress_num" : 116,
@@ -1992,7 +2096,8 @@
 		"fin_total_disbursement" : 1941840,
 		"employment" : 333224,
 		"annual_payroll_in_1000" : 15038123,
-		"num_of_establishment" : 26169
+		"num_of_establishment" : 26169,
+		"GEOID" : "1225"
 	},
 	{
 		"congress_num" : 116,
@@ -2011,7 +2116,8 @@
 		"fin_total_disbursement" : 3551100,
 		"employment" : 131696,
 		"annual_payroll_in_1000" : 4538373,
-		"num_of_establishment" : 15223
+		"num_of_establishment" : 15223,
+		"GEOID" : "1226"
 	},
 	{
 		"congress_num" : 116,
@@ -2030,7 +2136,8 @@
 		"fin_total_disbursement" : 3200730,
 		"employment" : 354819,
 		"annual_payroll_in_1000" : 19424578,
-		"num_of_establishment" : 32348
+		"num_of_establishment" : 32348,
+		"GEOID" : "1227"
 	},
 	{
 		"congress_num" : 116,
@@ -2049,7 +2156,8 @@
 		"fin_total_disbursement" : 596302,
 		"employment" : 216562,
 		"annual_payroll_in_1000" : 8032976,
-		"num_of_establishment" : 16478
+		"num_of_establishment" : 16478,
+		"GEOID" : "1203"
 	},
 	{
 		"congress_num" : 116,
@@ -2068,7 +2176,8 @@
 		"fin_total_disbursement" : 350790,
 		"employment" : 355941,
 		"annual_payroll_in_1000" : 16502693,
-		"num_of_establishment" : 23983
+		"num_of_establishment" : 23983,
+		"GEOID" : "1204"
 	},
 	{
 		"congress_num" : 116,
@@ -2087,7 +2196,8 @@
 		"fin_total_disbursement" : 588881,
 		"employment" : 231147,
 		"annual_payroll_in_1000" : 9979470,
-		"num_of_establishment" : 14651
+		"num_of_establishment" : 14651,
+		"GEOID" : "1205"
 	},
 	{
 		"congress_num" : 116,
@@ -2106,7 +2216,8 @@
 		"fin_total_disbursement" : 1605900,
 		"employment" : 181257,
 		"annual_payroll_in_1000" : 6177725,
-		"num_of_establishment" : 16927
+		"num_of_establishment" : 16927,
+		"GEOID" : "1206"
 	},
 	{
 		"congress_num" : 116,
@@ -2125,7 +2236,8 @@
 		"fin_total_disbursement" : 2305960,
 		"employment" : 341794,
 		"annual_payroll_in_1000" : 16649625,
-		"num_of_establishment" : 24259
+		"num_of_establishment" : 24259,
+		"GEOID" : "1207"
 	},
 	{
 		"congress_num" : 116,
@@ -2144,7 +2256,8 @@
 		"fin_total_disbursement" : 777338,
 		"employment" : 219142,
 		"annual_payroll_in_1000" : 9226697,
-		"num_of_establishment" : 18379
+		"num_of_establishment" : 18379,
+		"GEOID" : "1208"
 	},
 	{
 		"congress_num" : 116,
@@ -2163,7 +2276,8 @@
 		"fin_total_disbursement" : 1355930,
 		"employment" : 193190,
 		"annual_payroll_in_1000" : 7103442,
-		"num_of_establishment" : 13478
+		"num_of_establishment" : 13478,
+		"GEOID" : "1209"
 	},
 	{
 		"congress_num" : 116,
@@ -2182,7 +2296,8 @@
 		"fin_total_disbursement" : 1124580,
 		"employment" : 230310,
 		"annual_payroll_in_1000" : 8921698,
-		"num_of_establishment" : 15774
+		"num_of_establishment" : 15774,
+		"GEOID" : "1301"
 	},
 	{
 		"congress_num" : 116,
@@ -2201,7 +2316,8 @@
 		"fin_total_disbursement" : 534759,
 		"employment" : 159169,
 		"annual_payroll_in_1000" : 5488133,
-		"num_of_establishment" : 13100
+		"num_of_establishment" : 13100,
+		"GEOID" : "1310"
 	},
 	{
 		"congress_num" : 116,
@@ -2220,7 +2336,8 @@
 		"fin_total_disbursement" : 479379,
 		"employment" : 362353,
 		"annual_payroll_in_1000" : 20587544,
-		"num_of_establishment" : 21091
+		"num_of_establishment" : 21091,
+		"GEOID" : "1311"
 	},
 	{
 		"congress_num" : 116,
@@ -2239,7 +2356,8 @@
 		"fin_total_disbursement" : 920401,
 		"employment" : 210926,
 		"annual_payroll_in_1000" : 8129608,
-		"num_of_establishment" : 13169
+		"num_of_establishment" : 13169,
+		"GEOID" : "1312"
 	},
 	{
 		"congress_num" : 116,
@@ -2258,7 +2376,8 @@
 		"fin_total_disbursement" : 961049,
 		"employment" : 171442,
 		"annual_payroll_in_1000" : 6935620,
-		"num_of_establishment" : 11107
+		"num_of_establishment" : 11107,
+		"GEOID" : "1313"
 	},
 	{
 		"congress_num" : 116,
@@ -2277,7 +2396,8 @@
 		"fin_total_disbursement" : 879465,
 		"employment" : 175666,
 		"annual_payroll_in_1000" : 6472256,
-		"num_of_establishment" : 10652
+		"num_of_establishment" : 10652,
+		"GEOID" : "1314"
 	},
 	{
 		"congress_num" : 116,
@@ -2296,7 +2416,8 @@
 		"fin_total_disbursement" : 985871,
 		"employment" : 202809,
 		"annual_payroll_in_1000" : 8092637,
-		"num_of_establishment" : 12942
+		"num_of_establishment" : 12942,
+		"GEOID" : "1302"
 	},
 	{
 		"congress_num" : 116,
@@ -2315,7 +2436,8 @@
 		"fin_total_disbursement" : 1019590,
 		"employment" : 226611,
 		"annual_payroll_in_1000" : 8444704,
-		"num_of_establishment" : 15035
+		"num_of_establishment" : 15035,
+		"GEOID" : "1303"
 	},
 	{
 		"congress_num" : 116,
@@ -2334,7 +2456,8 @@
 		"fin_total_disbursement" : 404646,
 		"employment" : 150249,
 		"annual_payroll_in_1000" : 5810605,
-		"num_of_establishment" : 11245
+		"num_of_establishment" : 11245,
+		"GEOID" : "1304"
 	},
 	{
 		"congress_num" : 116,
@@ -2353,7 +2476,8 @@
 		"fin_total_disbursement" : 1770000,
 		"employment" : 529484,
 		"annual_payroll_in_1000" : 32891819,
-		"num_of_establishment" : 22133
+		"num_of_establishment" : 22133,
+		"GEOID" : "1305"
 	},
 	{
 		"congress_num" : 116,
@@ -2372,7 +2496,8 @@
 		"fin_total_disbursement" : 1238620,
 		"employment" : 478508,
 		"annual_payroll_in_1000" : 32962994,
-		"num_of_establishment" : 28524
+		"num_of_establishment" : 28524,
+		"GEOID" : "1306"
 	},
 	{
 		"congress_num" : 116,
@@ -2391,7 +2516,8 @@
 		"fin_total_disbursement" : 924543,
 		"employment" : 359243,
 		"annual_payroll_in_1000" : 18217718,
-		"num_of_establishment" : 24763
+		"num_of_establishment" : 24763,
+		"GEOID" : "1307"
 	},
 	{
 		"congress_num" : 116,
@@ -2410,7 +2536,8 @@
 		"fin_total_disbursement" : 580598,
 		"employment" : 185537,
 		"annual_payroll_in_1000" : 6282657,
-		"num_of_establishment" : 13248
+		"num_of_establishment" : 13248,
+		"GEOID" : "1308"
 	},
 	{
 		"congress_num" : 116,
@@ -2429,7 +2556,8 @@
 		"fin_total_disbursement" : 611826,
 		"employment" : 201396,
 		"annual_payroll_in_1000" : 7616645,
-		"num_of_establishment" : 14712
+		"num_of_establishment" : 14712,
+		"GEOID" : "1309"
 	},
 	{
 		"congress_num" : 116,
@@ -2448,7 +2576,8 @@
 		"fin_total_disbursement" : 424123,
 		"employment" : 320441,
 		"annual_payroll_in_1000" : 14996715,
-		"num_of_establishment" : 18230
+		"num_of_establishment" : 18230,
+		"GEOID" : "1501"
 	},
 	{
 		"congress_num" : 116,
@@ -2467,7 +2596,8 @@
 		"fin_total_disbursement" : 1294440,
 		"employment" : 185382,
 		"annual_payroll_in_1000" : 6974019,
-		"num_of_establishment" : 13913
+		"num_of_establishment" : 13913,
+		"GEOID" : "1502"
 	},
 	{
 		"congress_num" : 116,
@@ -2486,7 +2616,8 @@
 		"fin_total_disbursement" : 3330280,
 		"employment" : 349963,
 		"annual_payroll_in_1000" : 14386816,
-		"num_of_establishment" : 19583
+		"num_of_establishment" : 19583,
+		"GEOID" : "1901"
 	},
 	{
 		"congress_num" : 116,
@@ -2505,7 +2636,8 @@
 		"fin_total_disbursement" : 1647300,
 		"employment" : 314996,
 		"annual_payroll_in_1000" : 12470841,
-		"num_of_establishment" : 18874
+		"num_of_establishment" : 18874,
+		"GEOID" : "1902"
 	},
 	{
 		"congress_num" : 116,
@@ -2524,7 +2656,8 @@
 		"fin_total_disbursement" : 3442910,
 		"employment" : 375053,
 		"annual_payroll_in_1000" : 17821374,
-		"num_of_establishment" : 20647
+		"num_of_establishment" : 20647,
+		"GEOID" : "1903"
 	},
 	{
 		"congress_num" : 116,
@@ -2543,7 +2676,8 @@
 		"fin_total_disbursement" : 689845,
 		"employment" : 288970,
 		"annual_payroll_in_1000" : 10934667,
-		"num_of_establishment" : 22066
+		"num_of_establishment" : 22066,
+		"GEOID" : "1904"
 	},
 	{
 		"congress_num" : 116,
@@ -2562,7 +2696,8 @@
 		"fin_total_disbursement" : 837484,
 		"employment" : 242730,
 		"annual_payroll_in_1000" : 9002654,
-		"num_of_establishment" : 21696
+		"num_of_establishment" : 21696,
+		"GEOID" : "1601"
 	},
 	{
 		"congress_num" : 116,
@@ -2581,7 +2716,8 @@
 		"fin_total_disbursement" : 893691,
 		"employment" : 309751,
 		"annual_payroll_in_1000" : 12870141,
-		"num_of_establishment" : 23825
+		"num_of_establishment" : 23825,
+		"GEOID" : "1602"
 	},
 	{
 		"congress_num" : 116,
@@ -2600,7 +2736,8 @@
 		"fin_total_disbursement" : 299877,
 		"employment" : 191669,
 		"annual_payroll_in_1000" : 7874437,
-		"num_of_establishment" : 11931
+		"num_of_establishment" : 11931,
+		"GEOID" : "1701"
 	},
 	{
 		"congress_num" : 116,
@@ -2619,7 +2756,8 @@
 		"fin_total_disbursement" : 3177320,
 		"employment" : 368852,
 		"annual_payroll_in_1000" : 27883324,
-		"num_of_establishment" : 21561
+		"num_of_establishment" : 21561,
+		"GEOID" : "1710"
 	},
 	{
 		"congress_num" : 116,
@@ -2638,7 +2776,8 @@
 		"fin_total_disbursement" : 1470920,
 		"employment" : 274618,
 		"annual_payroll_in_1000" : 12674795,
-		"num_of_establishment" : 16098
+		"num_of_establishment" : 16098,
+		"GEOID" : "1711"
 	},
 	{
 		"congress_num" : 116,
@@ -2657,7 +2796,8 @@
 		"fin_total_disbursement" : 2383590,
 		"employment" : 217707,
 		"annual_payroll_in_1000" : 8363013,
-		"num_of_establishment" : 14685
+		"num_of_establishment" : 14685,
+		"GEOID" : "1712"
 	},
 	{
 		"congress_num" : 116,
@@ -2676,7 +2816,8 @@
 		"fin_total_disbursement" : 3083220,
 		"employment" : 246755,
 		"annual_payroll_in_1000" : 9796449,
-		"num_of_establishment" : 15495
+		"num_of_establishment" : 15495,
+		"GEOID" : "1713"
 	},
 	{
 		"congress_num" : 116,
@@ -2695,7 +2836,8 @@
 		"fin_total_disbursement" : 2847120,
 		"employment" : 192487,
 		"annual_payroll_in_1000" : 8546798,
-		"num_of_establishment" : 17645
+		"num_of_establishment" : 17645,
+		"GEOID" : "1714"
 	},
 	{
 		"congress_num" : 116,
@@ -2714,7 +2856,8 @@
 		"fin_total_disbursement" : 1567980,
 		"employment" : 202608,
 		"annual_payroll_in_1000" : 7472152,
-		"num_of_establishment" : 15367
+		"num_of_establishment" : 15367,
+		"GEOID" : "1715"
 	},
 	{
 		"congress_num" : 116,
@@ -2733,7 +2876,8 @@
 		"fin_total_disbursement" : 1999130,
 		"employment" : 223584,
 		"annual_payroll_in_1000" : 9296869,
-		"num_of_establishment" : 15063
+		"num_of_establishment" : 15063,
+		"GEOID" : "1716"
 	},
 	{
 		"congress_num" : 116,
@@ -2752,7 +2896,8 @@
 		"fin_total_disbursement" : 2782150,
 		"employment" : 267932,
 		"annual_payroll_in_1000" : 13232628,
-		"num_of_establishment" : 14851
+		"num_of_establishment" : 14851,
+		"GEOID" : "1717"
 	},
 	{
 		"congress_num" : 116,
@@ -2771,7 +2916,8 @@
 		"fin_total_disbursement" : 878717,
 		"employment" : 253201,
 		"annual_payroll_in_1000" : 10842277,
-		"num_of_establishment" : 16029
+		"num_of_establishment" : 16029,
+		"GEOID" : "1718"
 	},
 	{
 		"congress_num" : 116,
@@ -2790,7 +2936,8 @@
 		"fin_total_disbursement" : 841636,
 		"employment" : 165045,
 		"annual_payroll_in_1000" : 6889025,
-		"num_of_establishment" : 10151
+		"num_of_establishment" : 10151,
+		"GEOID" : "1702"
 	},
 	{
 		"congress_num" : 116,
@@ -2809,7 +2956,8 @@
 		"fin_total_disbursement" : 2298130,
 		"employment" : 227989,
 		"annual_payroll_in_1000" : 10218369,
-		"num_of_establishment" : 15644
+		"num_of_establishment" : 15644,
+		"GEOID" : "1703"
 	},
 	{
 		"congress_num" : 116,
@@ -2828,7 +2976,8 @@
 		"fin_total_disbursement" : 770441,
 		"employment" : 140177,
 		"annual_payroll_in_1000" : 5592688,
-		"num_of_establishment" : 11019
+		"num_of_establishment" : 11019,
+		"GEOID" : "1704"
 	},
 	{
 		"congress_num" : 116,
@@ -2847,7 +2996,8 @@
 		"fin_total_disbursement" : 1188740,
 		"employment" : 383537,
 		"annual_payroll_in_1000" : 20306291,
-		"num_of_establishment" : 23375
+		"num_of_establishment" : 23375,
+		"GEOID" : "1705"
 	},
 	{
 		"congress_num" : 116,
@@ -2866,7 +3016,8 @@
 		"fin_total_disbursement" : 4225210,
 		"employment" : 390897,
 		"annual_payroll_in_1000" : 21476852,
-		"num_of_establishment" : 25612
+		"num_of_establishment" : 25612,
+		"GEOID" : "1706"
 	},
 	{
 		"congress_num" : 116,
@@ -2885,7 +3036,8 @@
 		"fin_total_disbursement" : 476949,
 		"employment" : 817997,
 		"annual_payroll_in_1000" : 67192753,
-		"num_of_establishment" : 30036
+		"num_of_establishment" : 30036,
+		"GEOID" : "1707"
 	},
 	{
 		"congress_num" : 116,
@@ -2904,7 +3056,8 @@
 		"fin_total_disbursement" : 1727140,
 		"employment" : 418644,
 		"annual_payroll_in_1000" : 24366085,
-		"num_of_establishment" : 23551
+		"num_of_establishment" : 23551,
+		"GEOID" : "1708"
 	},
 	{
 		"congress_num" : 116,
@@ -2923,7 +3076,8 @@
 		"fin_total_disbursement" : 1363140,
 		"employment" : 299523,
 		"annual_payroll_in_1000" : 15336693,
-		"num_of_establishment" : 20623
+		"num_of_establishment" : 20623,
+		"GEOID" : "1709"
 	},
 	{
 		"congress_num" : 116,
@@ -2942,7 +3096,8 @@
 		"fin_total_disbursement" : 820486,
 		"employment" : 237701,
 		"annual_payroll_in_1000" : 10201131,
-		"num_of_establishment" : 14793
+		"num_of_establishment" : 14793,
+		"GEOID" : "1801"
 	},
 	{
 		"congress_num" : 116,
@@ -2961,7 +3116,8 @@
 		"fin_total_disbursement" : 2261500,
 		"employment" : 316002,
 		"annual_payroll_in_1000" : 13236028,
-		"num_of_establishment" : 15621
+		"num_of_establishment" : 15621,
+		"GEOID" : "1802"
 	},
 	{
 		"congress_num" : 116,
@@ -2980,7 +3136,8 @@
 		"fin_total_disbursement" : 992238,
 		"employment" : 320650,
 		"annual_payroll_in_1000" : 13236488,
-		"num_of_establishment" : 17467
+		"num_of_establishment" : 17467,
+		"GEOID" : "1803"
 	},
 	{
 		"congress_num" : 116,
@@ -2999,7 +3156,8 @@
 		"fin_total_disbursement" : 361530,
 		"employment" : 255057,
 		"annual_payroll_in_1000" : 9902081,
-		"num_of_establishment" : 15058
+		"num_of_establishment" : 15058,
+		"GEOID" : "1804"
 	},
 	{
 		"congress_num" : 116,
@@ -3018,7 +3176,8 @@
 		"fin_total_disbursement" : 1430020,
 		"employment" : 384196,
 		"annual_payroll_in_1000" : 18357334,
-		"num_of_establishment" : 21571
+		"num_of_establishment" : 21571,
+		"GEOID" : "1805"
 	},
 	{
 		"congress_num" : 116,
@@ -3037,7 +3196,8 @@
 		"fin_total_disbursement" : 2087710,
 		"employment" : 239973,
 		"annual_payroll_in_1000" : 9480733,
-		"num_of_establishment" : 14280
+		"num_of_establishment" : 14280,
+		"GEOID" : "1806"
 	},
 	{
 		"congress_num" : 116,
@@ -3056,7 +3216,8 @@
 		"fin_total_disbursement" : 885921,
 		"employment" : 350471,
 		"annual_payroll_in_1000" : 17747505,
-		"num_of_establishment" : 15162
+		"num_of_establishment" : 15162,
+		"GEOID" : "1807"
 	},
 	{
 		"congress_num" : 116,
@@ -3075,7 +3236,8 @@
 		"fin_total_disbursement" : 978370,
 		"employment" : 278663,
 		"annual_payroll_in_1000" : 11410966,
-		"num_of_establishment" : 16244
+		"num_of_establishment" : 16244,
+		"GEOID" : "1808"
 	},
 	{
 		"congress_num" : 116,
@@ -3094,7 +3256,8 @@
 		"fin_total_disbursement" : 979246,
 		"employment" : 239013,
 		"annual_payroll_in_1000" : 8903959,
-		"num_of_establishment" : 15232
+		"num_of_establishment" : 15232,
+		"GEOID" : "1809"
 	},
 	{
 		"congress_num" : 116,
@@ -3113,7 +3276,8 @@
 		"fin_total_disbursement" : 595788,
 		"employment" : 241515,
 		"annual_payroll_in_1000" : 8403200,
-		"num_of_establishment" : 20010
+		"num_of_establishment" : 20010,
+		"GEOID" : "2001"
 	},
 	{
 		"congress_num" : 116,
@@ -3132,7 +3296,8 @@
 		"fin_total_disbursement" : 849446,
 		"employment" : 235451,
 		"annual_payroll_in_1000" : 8824762,
-		"num_of_establishment" : 15898
+		"num_of_establishment" : 15898,
+		"GEOID" : "2002"
 	},
 	{
 		"congress_num" : 116,
@@ -3151,7 +3316,8 @@
 		"fin_total_disbursement" : 3449330,
 		"employment" : 392420,
 		"annual_payroll_in_1000" : 20770789,
-		"num_of_establishment" : 21283
+		"num_of_establishment" : 21283,
+		"GEOID" : "2003"
 	},
 	{
 		"congress_num" : 116,
@@ -3170,7 +3336,8 @@
 		"fin_total_disbursement" : 1237680,
 		"employment" : 282513,
 		"annual_payroll_in_1000" : 11914493,
-		"num_of_establishment" : 17199
+		"num_of_establishment" : 17199,
+		"GEOID" : "2004"
 	},
 	{
 		"congress_num" : 116,
@@ -3189,7 +3356,8 @@
 		"fin_total_disbursement" : 338181,
 		"employment" : 216646,
 		"annual_payroll_in_1000" : 7714960,
-		"num_of_establishment" : 14355
+		"num_of_establishment" : 14355,
+		"GEOID" : "2101"
 	},
 	{
 		"congress_num" : 116,
@@ -3208,7 +3376,8 @@
 		"fin_total_disbursement" : 1421900,
 		"employment" : 233403,
 		"annual_payroll_in_1000" : 8514914,
-		"num_of_establishment" : 14608
+		"num_of_establishment" : 14608,
+		"GEOID" : "2102"
 	},
 	{
 		"congress_num" : 116,
@@ -3227,7 +3396,8 @@
 		"fin_total_disbursement" : 644807,
 		"employment" : 415566,
 		"annual_payroll_in_1000" : 20440695,
-		"num_of_establishment" : 19425
+		"num_of_establishment" : 19425,
+		"GEOID" : "2103"
 	},
 	{
 		"congress_num" : 116,
@@ -3246,7 +3416,8 @@
 		"fin_total_disbursement" : 325236,
 		"employment" : 246768,
 		"annual_payroll_in_1000" : 10394679,
-		"num_of_establishment" : 14364
+		"num_of_establishment" : 14364,
+		"GEOID" : "2104"
 	},
 	{
 		"congress_num" : 116,
@@ -3265,7 +3436,8 @@
 		"fin_total_disbursement" : 916682,
 		"employment" : 161572,
 		"annual_payroll_in_1000" : 5241773,
-		"num_of_establishment" : 11560
+		"num_of_establishment" : 11560,
+		"GEOID" : "2105"
 	},
 	{
 		"congress_num" : 116,
@@ -3284,7 +3456,8 @@
 		"fin_total_disbursement" : 4422850,
 		"employment" : 286388,
 		"annual_payroll_in_1000" : 11846359,
-		"num_of_establishment" : 17215
+		"num_of_establishment" : 17215,
+		"GEOID" : "2106"
 	},
 	{
 		"congress_num" : 116,
@@ -3303,7 +3476,8 @@
 		"fin_total_disbursement" : 8049900,
 		"employment" : 322609,
 		"annual_payroll_in_1000" : 14632705,
-		"num_of_establishment" : 21106
+		"num_of_establishment" : 21106,
+		"GEOID" : "2201"
 	},
 	{
 		"congress_num" : 116,
@@ -3322,7 +3496,8 @@
 		"fin_total_disbursement" : 1088530,
 		"employment" : 296096,
 		"annual_payroll_in_1000" : 14281270,
-		"num_of_establishment" : 16070
+		"num_of_establishment" : 16070,
+		"GEOID" : "2202"
 	},
 	{
 		"congress_num" : 116,
@@ -3341,7 +3516,8 @@
 		"fin_total_disbursement" : 746172,
 		"employment" : 287295,
 		"annual_payroll_in_1000" : 12333845,
-		"num_of_establishment" : 19703
+		"num_of_establishment" : 19703,
+		"GEOID" : "2203"
 	},
 	{
 		"congress_num" : 116,
@@ -3360,7 +3536,8 @@
 		"fin_total_disbursement" : 758817,
 		"employment" : 216636,
 		"annual_payroll_in_1000" : 8162039,
-		"num_of_establishment" : 15002
+		"num_of_establishment" : 15002,
+		"GEOID" : "2204"
 	},
 	{
 		"congress_num" : 116,
@@ -3379,7 +3556,8 @@
 		"fin_total_disbursement" : 921171,
 		"employment" : 210895,
 		"annual_payroll_in_1000" : 7467676,
-		"num_of_establishment" : 15112
+		"num_of_establishment" : 15112,
+		"GEOID" : "2205"
 	},
 	{
 		"congress_num" : 116,
@@ -3398,7 +3576,8 @@
 		"fin_total_disbursement" : 1039100,
 		"employment" : 329060,
 		"annual_payroll_in_1000" : 15561172,
-		"num_of_establishment" : 18207
+		"num_of_establishment" : 18207,
+		"GEOID" : "2206"
 	},
 	{
 		"congress_num" : 116,
@@ -3417,7 +3596,8 @@
 		"fin_total_disbursement" : 2998990,
 		"employment" : 253580,
 		"annual_payroll_in_1000" : 11130260,
-		"num_of_establishment" : 16248
+		"num_of_establishment" : 16248,
+		"GEOID" : "2501"
 	},
 	{
 		"congress_num" : 116,
@@ -3436,7 +3616,8 @@
 		"fin_total_disbursement" : 986442,
 		"employment" : 295089,
 		"annual_payroll_in_1000" : 13255255,
-		"num_of_establishment" : 16760
+		"num_of_establishment" : 16760,
+		"GEOID" : "2502"
 	},
 	{
 		"congress_num" : 116,
@@ -3455,7 +3636,8 @@
 		"fin_total_disbursement" : 1717070,
 		"employment" : 279026,
 		"annual_payroll_in_1000" : 18173514,
-		"num_of_establishment" : 16467
+		"num_of_establishment" : 16467,
+		"GEOID" : "2503"
 	},
 	{
 		"congress_num" : 116,
@@ -3474,7 +3656,8 @@
 		"fin_total_disbursement" : 2729560,
 		"employment" : 340133,
 		"annual_payroll_in_1000" : 19734525,
-		"num_of_establishment" : 20832
+		"num_of_establishment" : 20832,
+		"GEOID" : "2504"
 	},
 	{
 		"congress_num" : 116,
@@ -3493,7 +3676,8 @@
 		"fin_total_disbursement" : 1165410,
 		"employment" : 388851,
 		"annual_payroll_in_1000" : 26718370,
-		"num_of_establishment" : 21006
+		"num_of_establishment" : 21006,
+		"GEOID" : "2505"
 	},
 	{
 		"congress_num" : 116,
@@ -3512,7 +3696,8 @@
 		"fin_total_disbursement" : 2458990,
 		"employment" : 354981,
 		"annual_payroll_in_1000" : 21353638,
-		"num_of_establishment" : 21277
+		"num_of_establishment" : 21277,
+		"GEOID" : "2506"
 	},
 	{
 		"congress_num" : 116,
@@ -3531,7 +3716,8 @@
 		"fin_total_disbursement" : 1165010,
 		"employment" : 504144,
 		"annual_payroll_in_1000" : 40034624,
-		"num_of_establishment" : 17095
+		"num_of_establishment" : 17095,
+		"GEOID" : "2507"
 	},
 	{
 		"congress_num" : 116,
@@ -3550,7 +3736,8 @@
 		"fin_total_disbursement" : 435799,
 		"employment" : 536974,
 		"annual_payroll_in_1000" : 39550028,
-		"num_of_establishment" : 24588
+		"num_of_establishment" : 24588,
+		"GEOID" : "2508"
 	},
 	{
 		"congress_num" : 116,
@@ -3569,7 +3756,8 @@
 		"fin_total_disbursement" : 454278,
 		"employment" : 248225,
 		"annual_payroll_in_1000" : 11241074,
-		"num_of_establishment" : 22707
+		"num_of_establishment" : 22707,
+		"GEOID" : "2509"
 	},
 	{
 		"congress_num" : 116,
@@ -3588,7 +3776,8 @@
 		"fin_total_disbursement" : 1229730,
 		"employment" : 196831,
 		"annual_payroll_in_1000" : 7615467,
-		"num_of_establishment" : 17649
+		"num_of_establishment" : 17649,
+		"GEOID" : "2401"
 	},
 	{
 		"congress_num" : 116,
@@ -3607,7 +3796,8 @@
 		"fin_total_disbursement" : 842446,
 		"employment" : 341450,
 		"annual_payroll_in_1000" : 18882358,
-		"num_of_establishment" : 16457
+		"num_of_establishment" : 16457,
+		"GEOID" : "2402"
 	},
 	{
 		"congress_num" : 116,
@@ -3626,7 +3816,8 @@
 		"fin_total_disbursement" : 664309,
 		"employment" : 382835,
 		"annual_payroll_in_1000" : 21093788,
-		"num_of_establishment" : 21075
+		"num_of_establishment" : 21075,
+		"GEOID" : "2403"
 	},
 	{
 		"congress_num" : 116,
@@ -3645,7 +3836,8 @@
 		"fin_total_disbursement" : 522996,
 		"employment" : 198099,
 		"annual_payroll_in_1000" : 8801195,
-		"num_of_establishment" : 12929
+		"num_of_establishment" : 12929,
+		"GEOID" : "2404"
 	},
 	{
 		"congress_num" : 116,
@@ -3664,7 +3856,8 @@
 		"fin_total_disbursement" : 3848000,
 		"employment" : 208343,
 		"annual_payroll_in_1000" : 9840392,
-		"num_of_establishment" : 14122
+		"num_of_establishment" : 14122,
+		"GEOID" : "2405"
 	},
 	{
 		"congress_num" : 116,
@@ -3683,7 +3876,8 @@
 		"fin_total_disbursement" : 15869800,
 		"employment" : 290187,
 		"annual_payroll_in_1000" : 14572857,
-		"num_of_establishment" : 18921
+		"num_of_establishment" : 18921,
+		"GEOID" : "2406"
 	},
 	{
 		"congress_num" : 116,
@@ -3702,7 +3896,8 @@
 		"fin_total_disbursement" : 1051580,
 		"employment" : 300115,
 		"annual_payroll_in_1000" : 18207264,
-		"num_of_establishment" : 15662
+		"num_of_establishment" : 15662,
+		"GEOID" : "2407"
 	},
 	{
 		"congress_num" : 116,
@@ -3721,7 +3916,8 @@
 		"fin_total_disbursement" : 828243,
 		"employment" : 320828,
 		"annual_payroll_in_1000" : 20160001,
-		"num_of_establishment" : 21085
+		"num_of_establishment" : 21085,
+		"GEOID" : "2408"
 	},
 	{
 		"congress_num" : 116,
@@ -3740,7 +3936,8 @@
 		"fin_total_disbursement" : 974727,
 		"employment" : 300426,
 		"annual_payroll_in_1000" : 13280267,
-		"num_of_establishment" : 23366
+		"num_of_establishment" : 23366,
+		"GEOID" : "2301"
 	},
 	{
 		"congress_num" : 116,
@@ -3759,7 +3956,8 @@
 		"fin_total_disbursement" : 4212860,
 		"employment" : 207750,
 		"annual_payroll_in_1000" : 7844677,
-		"num_of_establishment" : 17522
+		"num_of_establishment" : 17522,
+		"GEOID" : "2302"
 	},
 	{
 		"congress_num" : 116,
@@ -3778,7 +3976,8 @@
 		"fin_total_disbursement" : 1114260,
 		"employment" : 209388,
 		"annual_payroll_in_1000" : 7890516,
-		"num_of_establishment" : 19644
+		"num_of_establishment" : 19644,
+		"GEOID" : "2601"
 	},
 	{
 		"congress_num" : 116,
@@ -3797,7 +3996,8 @@
 		"fin_total_disbursement" : 544488,
 		"employment" : 204753,
 		"annual_payroll_in_1000" : 8804108,
-		"num_of_establishment" : 14750
+		"num_of_establishment" : 14750,
+		"GEOID" : "2610"
 	},
 	{
 		"congress_num" : 116,
@@ -3816,7 +4016,8 @@
 		"fin_total_disbursement" : 3116120,
 		"employment" : 459288,
 		"annual_payroll_in_1000" : 27389390,
-		"num_of_establishment" : 23957
+		"num_of_establishment" : 23957,
+		"GEOID" : "2611"
 	},
 	{
 		"congress_num" : 116,
@@ -3835,7 +4036,8 @@
 		"fin_total_disbursement" : 1084590,
 		"employment" : 295730,
 		"annual_payroll_in_1000" : 16159611,
-		"num_of_establishment" : 15289
+		"num_of_establishment" : 15289,
+		"GEOID" : "2612"
 	},
 	{
 		"congress_num" : 116,
@@ -3854,7 +4056,8 @@
 		"fin_total_disbursement" : 1342750,
 		"employment" : 204922,
 		"annual_payroll_in_1000" : 10218396,
-		"num_of_establishment" : 10049
+		"num_of_establishment" : 10049,
+		"GEOID" : "2613"
 	},
 	{
 		"congress_num" : 116,
@@ -3873,7 +4076,8 @@
 		"fin_total_disbursement" : 472969,
 		"employment" : 336515,
 		"annual_payroll_in_1000" : 21726646,
-		"num_of_establishment" : 16155
+		"num_of_establishment" : 16155,
+		"GEOID" : "2614"
 	},
 	{
 		"congress_num" : 116,
@@ -3892,7 +4096,8 @@
 		"fin_total_disbursement" : 1866480,
 		"employment" : 313473,
 		"annual_payroll_in_1000" : 13154929,
-		"num_of_establishment" : 16435
+		"num_of_establishment" : 16435,
+		"GEOID" : "2602"
 	},
 	{
 		"congress_num" : 116,
@@ -3911,7 +4116,8 @@
 		"fin_total_disbursement" : 588908,
 		"employment" : 316293,
 		"annual_payroll_in_1000" : 14719083,
-		"num_of_establishment" : 15706
+		"num_of_establishment" : 15706,
+		"GEOID" : "2603"
 	},
 	{
 		"congress_num" : 116,
@@ -3930,7 +4136,8 @@
 		"fin_total_disbursement" : 726364,
 		"employment" : 186456,
 		"annual_payroll_in_1000" : 7441097,
-		"num_of_establishment" : 13633
+		"num_of_establishment" : 13633,
+		"GEOID" : "2604"
 	},
 	{
 		"congress_num" : 116,
@@ -3949,7 +4156,8 @@
 		"fin_total_disbursement" : 966446,
 		"employment" : 216104,
 		"annual_payroll_in_1000" : 8971068,
-		"num_of_establishment" : 13578
+		"num_of_establishment" : 13578,
+		"GEOID" : "2605"
 	},
 	{
 		"congress_num" : 116,
@@ -3968,7 +4176,8 @@
 		"fin_total_disbursement" : 2596110,
 		"employment" : 233089,
 		"annual_payroll_in_1000" : 10310150,
-		"num_of_establishment" : 14408
+		"num_of_establishment" : 14408,
+		"GEOID" : "2606"
 	},
 	{
 		"congress_num" : 116,
@@ -3987,7 +4196,8 @@
 		"fin_total_disbursement" : 1344210,
 		"employment" : 203242,
 		"annual_payroll_in_1000" : 8887318,
-		"num_of_establishment" : 12615
+		"num_of_establishment" : 12615,
+		"GEOID" : "2607"
 	},
 	{
 		"congress_num" : 116,
@@ -4006,7 +4216,8 @@
 		"fin_total_disbursement" : 5239850,
 		"employment" : 224836,
 		"annual_payroll_in_1000" : 9687363,
-		"num_of_establishment" : 15923
+		"num_of_establishment" : 15923,
+		"GEOID" : "2608"
 	},
 	{
 		"congress_num" : 116,
@@ -4025,7 +4236,8 @@
 		"fin_total_disbursement" : 1301260,
 		"employment" : 271255,
 		"annual_payroll_in_1000" : 13354469,
-		"num_of_establishment" : 17595
+		"num_of_establishment" : 17595,
+		"GEOID" : "2609"
 	},
 	{
 		"congress_num" : 116,
@@ -4044,7 +4256,8 @@
 		"fin_total_disbursement" : 1209020,
 		"employment" : 299235,
 		"annual_payroll_in_1000" : 13287513,
-		"num_of_establishment" : 16844
+		"num_of_establishment" : 16844,
+		"GEOID" : "2701"
 	},
 	{
 		"congress_num" : 116,
@@ -4063,7 +4276,8 @@
 		"fin_total_disbursement" : 3627010,
 		"employment" : 269747,
 		"annual_payroll_in_1000" : 12783221,
-		"num_of_establishment" : 16946
+		"num_of_establishment" : 16946,
+		"GEOID" : "2702"
 	},
 	{
 		"congress_num" : 116,
@@ -4082,7 +4296,8 @@
 		"fin_total_disbursement" : 5043340,
 		"employment" : 464287,
 		"annual_payroll_in_1000" : 28499554,
-		"num_of_establishment" : 23638
+		"num_of_establishment" : 23638,
+		"GEOID" : "2703"
 	},
 	{
 		"congress_num" : 116,
@@ -4101,7 +4316,8 @@
 		"fin_total_disbursement" : 868304,
 		"employment" : 368186,
 		"annual_payroll_in_1000" : 19615701,
-		"num_of_establishment" : 17725
+		"num_of_establishment" : 17725,
+		"GEOID" : "2704"
 	},
 	{
 		"congress_num" : 116,
@@ -4120,7 +4336,8 @@
 		"fin_total_disbursement" : 681198,
 		"employment" : 510197,
 		"annual_payroll_in_1000" : 31534444,
-		"num_of_establishment" : 20945
+		"num_of_establishment" : 20945,
+		"GEOID" : "2705"
 	},
 	{
 		"congress_num" : 116,
@@ -4139,7 +4356,8 @@
 		"fin_total_disbursement" : 1867900,
 		"employment" : 225187,
 		"annual_payroll_in_1000" : 9515749,
-		"num_of_establishment" : 16719
+		"num_of_establishment" : 16719,
+		"GEOID" : "2706"
 	},
 	{
 		"congress_num" : 116,
@@ -4158,7 +4376,8 @@
 		"fin_total_disbursement" : 1132090,
 		"employment" : 239039,
 		"annual_payroll_in_1000" : 8809816,
-		"num_of_establishment" : 19329
+		"num_of_establishment" : 19329,
+		"GEOID" : "2707"
 	},
 	{
 		"congress_num" : 116,
@@ -4177,7 +4396,8 @@
 		"fin_total_disbursement" : 1217660,
 		"employment" : 215026,
 		"annual_payroll_in_1000" : 8225613,
-		"num_of_establishment" : 17341
+		"num_of_establishment" : 17341,
+		"GEOID" : "2708"
 	},
 	{
 		"congress_num" : 116,
@@ -4196,7 +4416,8 @@
 		"fin_total_disbursement" : 667329,
 		"employment" : 420406,
 		"annual_payroll_in_1000" : 22980021,
-		"num_of_establishment" : 24963
+		"num_of_establishment" : 24963,
+		"GEOID" : "2901"
 	},
 	{
 		"congress_num" : 116,
@@ -4215,7 +4436,8 @@
 		"fin_total_disbursement" : 3174840,
 		"employment" : 449312,
 		"annual_payroll_in_1000" : 23972703,
-		"num_of_establishment" : 25312
+		"num_of_establishment" : 25312,
+		"GEOID" : "2902"
 	},
 	{
 		"congress_num" : 116,
@@ -4234,7 +4456,8 @@
 		"fin_total_disbursement" : 1843810,
 		"employment" : 235609,
 		"annual_payroll_in_1000" : 9003811,
-		"num_of_establishment" : 17725
+		"num_of_establishment" : 17725,
+		"GEOID" : "2903"
 	},
 	{
 		"congress_num" : 116,
@@ -4253,7 +4476,8 @@
 		"fin_total_disbursement" : 907657,
 		"employment" : 206614,
 		"annual_payroll_in_1000" : 7008651,
-		"num_of_establishment" : 16471
+		"num_of_establishment" : 16471,
+		"GEOID" : "2904"
 	},
 	{
 		"congress_num" : 116,
@@ -4272,7 +4496,8 @@
 		"fin_total_disbursement" : 822358,
 		"employment" : 396409,
 		"annual_payroll_in_1000" : 20048329,
-		"num_of_establishment" : 21603
+		"num_of_establishment" : 21603,
+		"GEOID" : "2905"
 	},
 	{
 		"congress_num" : 116,
@@ -4291,7 +4516,8 @@
 		"fin_total_disbursement" : 1466710,
 		"employment" : 221379,
 		"annual_payroll_in_1000" : 8606739,
-		"num_of_establishment" : 16496
+		"num_of_establishment" : 16496,
+		"GEOID" : "2906"
 	},
 	{
 		"congress_num" : 116,
@@ -4310,7 +4536,8 @@
 		"fin_total_disbursement" : 1106760,
 		"employment" : 304304,
 		"annual_payroll_in_1000" : 11398689,
-		"num_of_establishment" : 19520
+		"num_of_establishment" : 19520,
+		"GEOID" : "2907"
 	},
 	{
 		"congress_num" : 116,
@@ -4329,7 +4556,8 @@
 		"fin_total_disbursement" : 1221110,
 		"employment" : 206587,
 		"annual_payroll_in_1000" : 6766860,
-		"num_of_establishment" : 18215
+		"num_of_establishment" : 18215,
+		"GEOID" : "2908"
 	},
 	{
 		"congress_num" : 116,
@@ -4348,7 +4576,8 @@
 		"fin_total_disbursement" : 833122,
 		"employment" : 231373,
 		"annual_payroll_in_1000" : 7985101,
-		"num_of_establishment" : 14377
+		"num_of_establishment" : 14377,
+		"GEOID" : "2801"
 	},
 	{
 		"congress_num" : 116,
@@ -4367,7 +4596,8 @@
 		"fin_total_disbursement" : 765455,
 		"employment" : 190526,
 		"annual_payroll_in_1000" : 6708492,
-		"num_of_establishment" : 12640
+		"num_of_establishment" : 12640,
+		"GEOID" : "2802"
 	},
 	{
 		"congress_num" : 116,
@@ -4386,7 +4616,8 @@
 		"fin_total_disbursement" : 0,
 		"employment" : 266340,
 		"annual_payroll_in_1000" : 10347802,
-		"num_of_establishment" : 17206
+		"num_of_establishment" : 17206,
+		"GEOID" : "2803"
 	},
 	{
 		"congress_num" : 116,
@@ -4405,7 +4636,8 @@
 		"fin_total_disbursement" : 586659,
 		"employment" : 230392,
 		"annual_payroll_in_1000" : 8756162,
-		"num_of_establishment" : 14274
+		"num_of_establishment" : 14274,
+		"GEOID" : "2804"
 	},
 	{
 		"congress_num" : 116,
@@ -4424,7 +4656,8 @@
 		"fin_total_disbursement" : 8782030,
 		"employment" : 378463,
 		"annual_payroll_in_1000" : 14542766,
-		"num_of_establishment" : 37626
+		"num_of_establishment" : 37626,
+		"GEOID" : "3000"
 	},
 	{
 		"congress_num" : 116,
@@ -4443,7 +4676,8 @@
 		"fin_total_disbursement" : 807055,
 		"employment" : 258880,
 		"annual_payroll_in_1000" : 11117774,
-		"num_of_establishment" : 14142
+		"num_of_establishment" : 14142,
+		"GEOID" : "3701"
 	},
 	{
 		"congress_num" : 116,
@@ -4462,7 +4696,8 @@
 		"fin_total_disbursement" : 3335930,
 		"employment" : 284658,
 		"annual_payroll_in_1000" : 10851156,
-		"num_of_establishment" : 18158
+		"num_of_establishment" : 18158,
+		"GEOID" : "3710"
 	},
 	{
 		"congress_num" : 116,
@@ -4481,7 +4716,8 @@
 		"fin_total_disbursement" : 1058530,
 		"employment" : 203831,
 		"annual_payroll_in_1000" : 7035166,
-		"num_of_establishment" : 15990
+		"num_of_establishment" : 15990,
+		"GEOID" : "3711"
 	},
 	{
 		"congress_num" : 116,
@@ -4500,7 +4736,8 @@
 		"fin_total_disbursement" : 472067,
 		"employment" : 516688,
 		"annual_payroll_in_1000" : 31590268,
-		"num_of_establishment" : 24307
+		"num_of_establishment" : 24307,
+		"GEOID" : "3712"
 	},
 	{
 		"congress_num" : 116,
@@ -4519,7 +4756,8 @@
 		"fin_total_disbursement" : 1588550,
 		"employment" : 365903,
 		"annual_payroll_in_1000" : 16239517,
-		"num_of_establishment" : 20391
+		"num_of_establishment" : 20391,
+		"GEOID" : "3713"
 	},
 	{
 		"congress_num" : 116,
@@ -4538,7 +4776,8 @@
 		"fin_total_disbursement" : 2517410,
 		"employment" : 193725,
 		"annual_payroll_in_1000" : 7534389,
-		"num_of_establishment" : 15427
+		"num_of_establishment" : 15427,
+		"GEOID" : "3702"
 	},
 	{
 		"congress_num" : 116,
@@ -4557,7 +4796,8 @@
 		"fin_total_disbursement" : 524048,
 		"employment" : 186316,
 		"annual_payroll_in_1000" : 6110199,
-		"num_of_establishment" : 15874
+		"num_of_establishment" : 15874,
+		"GEOID" : "3703"
 	},
 	{
 		"congress_num" : 116,
@@ -4576,7 +4816,8 @@
 		"fin_total_disbursement" : 848264,
 		"employment" : 477663,
 		"annual_payroll_in_1000" : 27889898,
-		"num_of_establishment" : 25357
+		"num_of_establishment" : 25357,
+		"GEOID" : "3704"
 	},
 	{
 		"congress_num" : 116,
@@ -4595,7 +4836,8 @@
 		"fin_total_disbursement" : 1697280,
 		"employment" : 274151,
 		"annual_payroll_in_1000" : 11971035,
-		"num_of_establishment" : 16039
+		"num_of_establishment" : 16039,
+		"GEOID" : "3705"
 	},
 	{
 		"congress_num" : 116,
@@ -4614,7 +4856,8 @@
 		"fin_total_disbursement" : 625065,
 		"employment" : 199709,
 		"annual_payroll_in_1000" : 7424345,
-		"num_of_establishment" : 13397
+		"num_of_establishment" : 13397,
+		"GEOID" : "3706"
 	},
 	{
 		"congress_num" : 116,
@@ -4633,7 +4876,8 @@
 		"fin_total_disbursement" : 888435,
 		"employment" : 212677,
 		"annual_payroll_in_1000" : 7897197,
-		"num_of_establishment" : 16804
+		"num_of_establishment" : 16804,
+		"GEOID" : "3707"
 	},
 	{
 		"congress_num" : 116,
@@ -4652,7 +4896,8 @@
 		"fin_total_disbursement" : 1590140,
 		"employment" : 204415,
 		"annual_payroll_in_1000" : 7160870,
-		"num_of_establishment" : 13936
+		"num_of_establishment" : 13936,
+		"GEOID" : "3708"
 	},
 	{
 		"congress_num" : 116,
@@ -4671,7 +4916,8 @@
 		"fin_total_disbursement" : null,
 		"employment" : 237045,
 		"annual_payroll_in_1000" : 10416475,
-		"num_of_establishment" : 16737
+		"num_of_establishment" : 16737,
+		"GEOID" : "3709"
 	},
 	{
 		"congress_num" : 116,
@@ -4690,7 +4936,8 @@
 		"fin_total_disbursement" : 1435580,
 		"employment" : 346947,
 		"annual_payroll_in_1000" : 15816748,
-		"num_of_establishment" : 24601
+		"num_of_establishment" : 24601,
+		"GEOID" : "3800"
 	},
 	{
 		"congress_num" : 116,
@@ -4709,7 +4956,8 @@
 		"fin_total_disbursement" : 426608,
 		"employment" : 241684,
 		"annual_payroll_in_1000" : 9547757,
-		"num_of_establishment" : 16883
+		"num_of_establishment" : 16883,
+		"GEOID" : "3101"
 	},
 	{
 		"congress_num" : 116,
@@ -4728,7 +4976,8 @@
 		"fin_total_disbursement" : 1873230,
 		"employment" : 347534,
 		"annual_payroll_in_1000" : 16978160,
-		"num_of_establishment" : 18147
+		"num_of_establishment" : 18147,
+		"GEOID" : "3102"
 	},
 	{
 		"congress_num" : 116,
@@ -4747,7 +4996,8 @@
 		"fin_total_disbursement" : 1528480,
 		"employment" : 209352,
 		"annual_payroll_in_1000" : 7355813,
-		"num_of_establishment" : 18881
+		"num_of_establishment" : 18881,
+		"GEOID" : "3103"
 	},
 	{
 		"congress_num" : 116,
@@ -4766,7 +5016,8 @@
 		"fin_total_disbursement" : 1214510,
 		"employment" : 293126,
 		"annual_payroll_in_1000" : 14549134,
-		"num_of_establishment" : 19671
+		"num_of_establishment" : 19671,
+		"GEOID" : "3301"
 	},
 	{
 		"congress_num" : 116,
@@ -4785,7 +5036,8 @@
 		"fin_total_disbursement" : 2775340,
 		"employment" : 269274,
 		"annual_payroll_in_1000" : 12917830,
-		"num_of_establishment" : 17804
+		"num_of_establishment" : 17804,
+		"GEOID" : "3302"
 	},
 	{
 		"congress_num" : 116,
@@ -4804,7 +5056,8 @@
 		"fin_total_disbursement" : 1268100,
 		"employment" : 258122,
 		"annual_payroll_in_1000" : 12103284,
-		"num_of_establishment" : 16024
+		"num_of_establishment" : 16024,
+		"GEOID" : "3401"
 	},
 	{
 		"congress_num" : 116,
@@ -4823,7 +5076,8 @@
 		"fin_total_disbursement" : 468615,
 		"employment" : 191406,
 		"annual_payroll_in_1000" : 10703553,
-		"num_of_establishment" : 13495
+		"num_of_establishment" : 13495,
+		"GEOID" : "3410"
 	},
 	{
 		"congress_num" : 116,
@@ -4842,7 +5096,8 @@
 		"fin_total_disbursement" : 5923520,
 		"employment" : 425500,
 		"annual_payroll_in_1000" : 30861469,
-		"num_of_establishment" : 25520
+		"num_of_establishment" : 25520,
+		"GEOID" : "3411"
 	},
 	{
 		"congress_num" : 116,
@@ -4861,7 +5116,8 @@
 		"fin_total_disbursement" : 649864,
 		"employment" : 335689,
 		"annual_payroll_in_1000" : 22656398,
-		"num_of_establishment" : 19016
+		"num_of_establishment" : 19016,
+		"GEOID" : "3412"
 	},
 	{
 		"congress_num" : 116,
@@ -4880,7 +5136,8 @@
 		"fin_total_disbursement" : 1490430,
 		"employment" : 227916,
 		"annual_payroll_in_1000" : 9074362,
-		"num_of_establishment" : 17169
+		"num_of_establishment" : 17169,
+		"GEOID" : "3402"
 	},
 	{
 		"congress_num" : 116,
@@ -4899,7 +5156,8 @@
 		"fin_total_disbursement" : 4468830,
 		"employment" : 248515,
 		"annual_payroll_in_1000" : 11954064,
-		"num_of_establishment" : 16727
+		"num_of_establishment" : 16727,
+		"GEOID" : "3403"
 	},
 	{
 		"congress_num" : 116,
@@ -4918,7 +5176,8 @@
 		"fin_total_disbursement" : 1002110,
 		"employment" : 292275,
 		"annual_payroll_in_1000" : 13628185,
-		"num_of_establishment" : 21476
+		"num_of_establishment" : 21476,
+		"GEOID" : "3404"
 	},
 	{
 		"congress_num" : 116,
@@ -4937,7 +5196,8 @@
 		"fin_total_disbursement" : 1777180,
 		"employment" : 300398,
 		"annual_payroll_in_1000" : 16918124,
-		"num_of_establishment" : 23129
+		"num_of_establishment" : 23129,
+		"GEOID" : "3405"
 	},
 	{
 		"congress_num" : 116,
@@ -4956,7 +5216,8 @@
 		"fin_total_disbursement" : 1328570,
 		"employment" : 306117,
 		"annual_payroll_in_1000" : 18715810,
-		"num_of_establishment" : 18825
+		"num_of_establishment" : 18825,
+		"GEOID" : "3406"
 	},
 	{
 		"congress_num" : 116,
@@ -4975,7 +5236,8 @@
 		"fin_total_disbursement" : 4433550,
 		"employment" : 362809,
 		"annual_payroll_in_1000" : 26928146,
-		"num_of_establishment" : 23352
+		"num_of_establishment" : 23352,
+		"GEOID" : "3407"
 	},
 	{
 		"congress_num" : 116,
@@ -4994,7 +5256,8 @@
 		"fin_total_disbursement" : 402874,
 		"employment" : 255223,
 		"annual_payroll_in_1000" : 17263266,
-		"num_of_establishment" : 15496
+		"num_of_establishment" : 15496,
+		"GEOID" : "3408"
 	},
 	{
 		"congress_num" : 116,
@@ -5013,7 +5276,8 @@
 		"fin_total_disbursement" : 1183700,
 		"employment" : 295993,
 		"annual_payroll_in_1000" : 16605791,
-		"num_of_establishment" : 20991
+		"num_of_establishment" : 20991,
+		"GEOID" : "3409"
 	},
 	{
 		"congress_num" : 116,
@@ -5032,7 +5296,8 @@
 		"fin_total_disbursement" : 1797150,
 		"employment" : 275149,
 		"annual_payroll_in_1000" : 11552041,
-		"num_of_establishment" : 16273
+		"num_of_establishment" : 16273,
+		"GEOID" : "3501"
 	},
 	{
 		"congress_num" : 116,
@@ -5051,7 +5316,8 @@
 		"fin_total_disbursement" : 2809810,
 		"employment" : 168615,
 		"annual_payroll_in_1000" : 6009000,
-		"num_of_establishment" : 12843
+		"num_of_establishment" : 12843,
+		"GEOID" : "3502"
 	},
 	{
 		"congress_num" : 116,
@@ -5070,7 +5336,8 @@
 		"fin_total_disbursement" : 2064650,
 		"employment" : 175940,
 		"annual_payroll_in_1000" : 7046107,
-		"num_of_establishment" : 14317
+		"num_of_establishment" : 14317,
+		"GEOID" : "3503"
 	},
 	{
 		"congress_num" : 116,
@@ -5089,7 +5356,8 @@
 		"fin_total_disbursement" : 654274,
 		"employment" : 424742,
 		"annual_payroll_in_1000" : 17285142,
-		"num_of_establishment" : 18466
+		"num_of_establishment" : 18466,
+		"GEOID" : "3201"
 	},
 	{
 		"congress_num" : 116,
@@ -5108,7 +5376,8 @@
 		"fin_total_disbursement" : 960950,
 		"employment" : 270369,
 		"annual_payroll_in_1000" : 11994974,
-		"num_of_establishment" : 18592
+		"num_of_establishment" : 18592,
+		"GEOID" : "3202"
 	},
 	{
 		"congress_num" : 116,
@@ -5127,7 +5396,8 @@
 		"fin_total_disbursement" : 4373200,
 		"employment" : 289072,
 		"annual_payroll_in_1000" : 12383743,
-		"num_of_establishment" : 17693
+		"num_of_establishment" : 17693,
+		"GEOID" : "3203"
 	},
 	{
 		"congress_num" : 116,
@@ -5146,7 +5416,8 @@
 		"fin_total_disbursement" : 1474630,
 		"employment" : 148057,
 		"annual_payroll_in_1000" : 5880627,
-		"num_of_establishment" : 9587
+		"num_of_establishment" : 9587,
+		"GEOID" : "3204"
 	},
 	{
 		"congress_num" : 116,
@@ -5165,7 +5436,8 @@
 		"fin_total_disbursement" : 3180380,
 		"employment" : 240530,
 		"annual_payroll_in_1000" : 12700193,
-		"num_of_establishment" : 23101
+		"num_of_establishment" : 23101,
+		"GEOID" : "3601"
 	},
 	{
 		"congress_num" : 116,
@@ -5184,7 +5456,8 @@
 		"fin_total_disbursement" : 1406500,
 		"employment" : 810907,
 		"annual_payroll_in_1000" : 74402401,
-		"num_of_establishment" : 40310
+		"num_of_establishment" : 40310,
+		"GEOID" : "3610"
 	},
 	{
 		"congress_num" : 116,
@@ -5203,7 +5476,8 @@
 		"fin_total_disbursement" : 3091180,
 		"employment" : 154361,
 		"annual_payroll_in_1000" : 6231767,
-		"num_of_establishment" : 16191
+		"num_of_establishment" : 16191,
+		"GEOID" : "3611"
 	},
 	{
 		"congress_num" : 116,
@@ -5222,7 +5496,8 @@
 		"fin_total_disbursement" : 2254760,
 		"employment" : 1523839,
 		"annual_payroll_in_1000" : 171221392,
-		"num_of_establishment" : 70310
+		"num_of_establishment" : 70310,
+		"GEOID" : "3612"
 	},
 	{
 		"congress_num" : 116,
@@ -5241,7 +5516,8 @@
 		"fin_total_disbursement" : 498502,
 		"employment" : 146859,
 		"annual_payroll_in_1000" : 7862055,
-		"num_of_establishment" : 10098
+		"num_of_establishment" : 10098,
+		"GEOID" : "3613"
 	},
 	{
 		"congress_num" : 116,
@@ -5260,7 +5536,8 @@
 		"fin_total_disbursement" : 1319150,
 		"employment" : 151251,
 		"annual_payroll_in_1000" : 7175339,
-		"num_of_establishment" : 12251
+		"num_of_establishment" : 12251,
+		"GEOID" : "3614"
 	},
 	{
 		"congress_num" : 116,
@@ -5279,7 +5556,8 @@
 		"fin_total_disbursement" : 225682,
 		"employment" : 125450,
 		"annual_payroll_in_1000" : 5415593,
-		"num_of_establishment" : 9235
+		"num_of_establishment" : 9235,
+		"GEOID" : "3615"
 	},
 	{
 		"congress_num" : 116,
@@ -5298,7 +5576,8 @@
 		"fin_total_disbursement" : 1940830,
 		"employment" : 176729,
 		"annual_payroll_in_1000" : 8026349,
-		"num_of_establishment" : 16283
+		"num_of_establishment" : 16283,
+		"GEOID" : "3616"
 	},
 	{
 		"congress_num" : 116,
@@ -5317,7 +5596,8 @@
 		"fin_total_disbursement" : 1190790,
 		"employment" : 345251,
 		"annual_payroll_in_1000" : 22441807,
-		"num_of_establishment" : 26445
+		"num_of_establishment" : 26445,
+		"GEOID" : "3617"
 	},
 	{
 		"congress_num" : 116,
@@ -5336,7 +5616,8 @@
 		"fin_total_disbursement" : 3925320,
 		"employment" : 225181,
 		"annual_payroll_in_1000" : 9899714,
-		"num_of_establishment" : 19320
+		"num_of_establishment" : 19320,
+		"GEOID" : "3618"
 	},
 	{
 		"congress_num" : 116,
@@ -5355,7 +5636,8 @@
 		"fin_total_disbursement" : 7160440,
 		"employment" : 167396,
 		"annual_payroll_in_1000" : 6244745,
-		"num_of_establishment" : 16879
+		"num_of_establishment" : 16879,
+		"GEOID" : "3619"
 	},
 	{
 		"congress_num" : 116,
@@ -5374,7 +5656,8 @@
 		"fin_total_disbursement" : 1564300,
 		"employment" : 248534,
 		"annual_payroll_in_1000" : 11723594,
-		"num_of_establishment" : 20657
+		"num_of_establishment" : 20657,
+		"GEOID" : "3602"
 	},
 	{
 		"congress_num" : 116,
@@ -5393,7 +5676,8 @@
 		"fin_total_disbursement" : 997419,
 		"employment" : 336634,
 		"annual_payroll_in_1000" : 15951618,
-		"num_of_establishment" : 19043
+		"num_of_establishment" : 19043,
+		"GEOID" : "3620"
 	},
 	{
 		"congress_num" : 116,
@@ -5412,7 +5696,8 @@
 		"fin_total_disbursement" : 1931090,
 		"employment" : 180068,
 		"annual_payroll_in_1000" : 6690050,
-		"num_of_establishment" : 15532
+		"num_of_establishment" : 15532,
+		"GEOID" : "3621"
 	},
 	{
 		"congress_num" : 116,
@@ -5431,7 +5716,8 @@
 		"fin_total_disbursement" : 3539170,
 		"employment" : 224510,
 		"annual_payroll_in_1000" : 8630191,
-		"num_of_establishment" : 14267
+		"num_of_establishment" : 14267,
+		"GEOID" : "3622"
 	},
 	{
 		"congress_num" : 116,
@@ -5450,7 +5736,8 @@
 		"fin_total_disbursement" : 2521030,
 		"employment" : 222997,
 		"annual_payroll_in_1000" : 8293961,
-		"num_of_establishment" : 14500
+		"num_of_establishment" : 14500,
+		"GEOID" : "3623"
 	},
 	{
 		"congress_num" : 116,
@@ -5469,7 +5756,8 @@
 		"fin_total_disbursement" : 2297040,
 		"employment" : 277393,
 		"annual_payroll_in_1000" : 11941229,
-		"num_of_establishment" : 16415
+		"num_of_establishment" : 16415,
+		"GEOID" : "3624"
 	},
 	{
 		"congress_num" : 116,
@@ -5488,7 +5776,8 @@
 		"fin_total_disbursement" : 1364150,
 		"employment" : 353784,
 		"annual_payroll_in_1000" : 15829277,
-		"num_of_establishment" : 17182
+		"num_of_establishment" : 17182,
+		"GEOID" : "3625"
 	},
 	{
 		"congress_num" : 116,
@@ -5507,7 +5796,8 @@
 		"fin_total_disbursement" : 798671,
 		"employment" : 349800,
 		"annual_payroll_in_1000" : 15392131,
-		"num_of_establishment" : 17567
+		"num_of_establishment" : 17567,
+		"GEOID" : "3626"
 	},
 	{
 		"congress_num" : 116,
@@ -5526,7 +5816,8 @@
 		"fin_total_disbursement" : null,
 		"employment" : 210491,
 		"annual_payroll_in_1000" : 8519521,
-		"num_of_establishment" : 16241
+		"num_of_establishment" : 16241,
+		"GEOID" : "3627"
 	},
 	{
 		"congress_num" : 116,
@@ -5545,7 +5836,8 @@
 		"fin_total_disbursement" : 1104810,
 		"employment" : 385416,
 		"annual_payroll_in_1000" : 24442268,
-		"num_of_establishment" : 29761
+		"num_of_establishment" : 29761,
+		"GEOID" : "3603"
 	},
 	{
 		"congress_num" : 116,
@@ -5564,7 +5856,8 @@
 		"fin_total_disbursement" : 1439070,
 		"employment" : 269755,
 		"annual_payroll_in_1000" : 12994512,
-		"num_of_establishment" : 24618
+		"num_of_establishment" : 24618,
+		"GEOID" : "3604"
 	},
 	{
 		"congress_num" : 116,
@@ -5583,7 +5876,8 @@
 		"fin_total_disbursement" : 904034,
 		"employment" : 159716,
 		"annual_payroll_in_1000" : 6967124,
-		"num_of_establishment" : 11571
+		"num_of_establishment" : 11571,
+		"GEOID" : "3605"
 	},
 	{
 		"congress_num" : 116,
@@ -5602,7 +5896,8 @@
 		"fin_total_disbursement" : 1301940,
 		"employment" : 167770,
 		"annual_payroll_in_1000" : 6820483,
-		"num_of_establishment" : 18756
+		"num_of_establishment" : 18756,
+		"GEOID" : "3606"
 	},
 	{
 		"congress_num" : 116,
@@ -5621,7 +5916,8 @@
 		"fin_total_disbursement" : 708388,
 		"employment" : 227425,
 		"annual_payroll_in_1000" : 9484272,
-		"num_of_establishment" : 22322
+		"num_of_establishment" : 22322,
+		"GEOID" : "3607"
 	},
 	{
 		"congress_num" : 116,
@@ -5640,7 +5936,8 @@
 		"fin_total_disbursement" : 1290140,
 		"employment" : 136711,
 		"annual_payroll_in_1000" : 5347136,
-		"num_of_establishment" : 11539
+		"num_of_establishment" : 11539,
+		"GEOID" : "3608"
 	},
 	{
 		"congress_num" : 116,
@@ -5659,7 +5956,8 @@
 		"fin_total_disbursement" : 971089,
 		"employment" : 125110,
 		"annual_payroll_in_1000" : 4916314,
-		"num_of_establishment" : 12771
+		"num_of_establishment" : 12771,
+		"GEOID" : "3609"
 	},
 	{
 		"congress_num" : 116,
@@ -5678,7 +5976,8 @@
 		"fin_total_disbursement" : 1964320,
 		"employment" : 390697,
 		"annual_payroll_in_1000" : 22595879,
-		"num_of_establishment" : 16813
+		"num_of_establishment" : 16813,
+		"GEOID" : "3901"
 	},
 	{
 		"congress_num" : 116,
@@ -5697,7 +5996,8 @@
 		"fin_total_disbursement" : 1125320,
 		"employment" : 295801,
 		"annual_payroll_in_1000" : 13481250,
-		"num_of_establishment" : 15005
+		"num_of_establishment" : 15005,
+		"GEOID" : "3910"
 	},
 	{
 		"congress_num" : 116,
@@ -5716,7 +6016,8 @@
 		"fin_total_disbursement" : 559453,
 		"employment" : 417631,
 		"annual_payroll_in_1000" : 23071512,
-		"num_of_establishment" : 18423
+		"num_of_establishment" : 18423,
+		"GEOID" : "3911"
 	},
 	{
 		"congress_num" : 116,
@@ -5735,7 +6036,8 @@
 		"fin_total_disbursement" : 2136120,
 		"employment" : 323352,
 		"annual_payroll_in_1000" : 15906298,
-		"num_of_establishment" : 17556
+		"num_of_establishment" : 17556,
+		"GEOID" : "3912"
 	},
 	{
 		"congress_num" : 116,
@@ -5754,7 +6056,8 @@
 		"fin_total_disbursement" : 1472220,
 		"employment" : 258120,
 		"annual_payroll_in_1000" : 10070405,
-		"num_of_establishment" : 14797
+		"num_of_establishment" : 14797,
+		"GEOID" : "3913"
 	},
 	{
 		"congress_num" : 116,
@@ -5773,7 +6076,8 @@
 		"fin_total_disbursement" : 2007900,
 		"employment" : 327767,
 		"annual_payroll_in_1000" : 15992944,
-		"num_of_establishment" : 20335
+		"num_of_establishment" : 20335,
+		"GEOID" : "3914"
 	},
 	{
 		"congress_num" : 116,
@@ -5792,7 +6096,8 @@
 		"fin_total_disbursement" : 3687360,
 		"employment" : 234597,
 		"annual_payroll_in_1000" : 9555163,
-		"num_of_establishment" : 14076
+		"num_of_establishment" : 14076,
+		"GEOID" : "3915"
 	},
 	{
 		"congress_num" : 116,
@@ -5811,7 +6116,8 @@
 		"fin_total_disbursement" : 1446380,
 		"employment" : 295771,
 		"annual_payroll_in_1000" : 12129737,
-		"num_of_establishment" : 18370
+		"num_of_establishment" : 18370,
+		"GEOID" : "3916"
 	},
 	{
 		"congress_num" : 116,
@@ -5830,7 +6136,8 @@
 		"fin_total_disbursement" : 1122330,
 		"employment" : 266754,
 		"annual_payroll_in_1000" : 12206293,
-		"num_of_establishment" : 15819
+		"num_of_establishment" : 15819,
+		"GEOID" : "3902"
 	},
 	{
 		"congress_num" : 116,
@@ -5849,7 +6156,8 @@
 		"fin_total_disbursement" : 563826,
 		"employment" : 371971,
 		"annual_payroll_in_1000" : 18808242,
-		"num_of_establishment" : 15069
+		"num_of_establishment" : 15069,
+		"GEOID" : "3903"
 	},
 	{
 		"congress_num" : 116,
@@ -5868,7 +6176,8 @@
 		"fin_total_disbursement" : 1139620,
 		"employment" : 271591,
 		"annual_payroll_in_1000" : 11247736,
-		"num_of_establishment" : 14458
+		"num_of_establishment" : 14458,
+		"GEOID" : "3904"
 	},
 	{
 		"congress_num" : 116,
@@ -5887,7 +6196,8 @@
 		"fin_total_disbursement" : 1321240,
 		"employment" : 308203,
 		"annual_payroll_in_1000" : 12205127,
-		"num_of_establishment" : 16205
+		"num_of_establishment" : 16205,
+		"GEOID" : "3905"
 	},
 	{
 		"congress_num" : 116,
@@ -5906,7 +6216,8 @@
 		"fin_total_disbursement" : 1626900,
 		"employment" : 177481,
 		"annual_payroll_in_1000" : 6297536,
-		"num_of_establishment" : 12971
+		"num_of_establishment" : 12971,
+		"GEOID" : "3906"
 	},
 	{
 		"congress_num" : 116,
@@ -5925,7 +6236,8 @@
 		"fin_total_disbursement" : 1561000,
 		"employment" : 217664,
 		"annual_payroll_in_1000" : 8118847,
-		"num_of_establishment" : 14281
+		"num_of_establishment" : 14281,
+		"GEOID" : "3907"
 	},
 	{
 		"congress_num" : 116,
@@ -5944,7 +6256,8 @@
 		"fin_total_disbursement" : 478044,
 		"employment" : 246245,
 		"annual_payroll_in_1000" : 10150092,
-		"num_of_establishment" : 13751
+		"num_of_establishment" : 13751,
+		"GEOID" : "3908"
 	},
 	{
 		"congress_num" : 116,
@@ -5963,7 +6276,8 @@
 		"fin_total_disbursement" : 601650,
 		"employment" : 250566,
 		"annual_payroll_in_1000" : 11000375,
-		"num_of_establishment" : 13397
+		"num_of_establishment" : 13397,
+		"GEOID" : "3909"
 	},
 	{
 		"congress_num" : 116,
@@ -5982,7 +6296,8 @@
 		"fin_total_disbursement" : 2664590,
 		"employment" : 377201,
 		"annual_payroll_in_1000" : 17541747,
-		"num_of_establishment" : 21498
+		"num_of_establishment" : 21498,
+		"GEOID" : "4001"
 	},
 	{
 		"congress_num" : 116,
@@ -6001,7 +6316,8 @@
 		"fin_total_disbursement" : 1349490,
 		"employment" : 162235,
 		"annual_payroll_in_1000" : 5377165,
-		"num_of_establishment" : 13035
+		"num_of_establishment" : 13035,
+		"GEOID" : "4002"
 	},
 	{
 		"congress_num" : 116,
@@ -6020,7 +6336,8 @@
 		"fin_total_disbursement" : 851187,
 		"employment" : 187687,
 		"annual_payroll_in_1000" : 7041287,
-		"num_of_establishment" : 17236
+		"num_of_establishment" : 17236,
+		"GEOID" : "4003"
 	},
 	{
 		"congress_num" : 116,
@@ -6039,7 +6356,8 @@
 		"fin_total_disbursement" : 1796290,
 		"employment" : 207679,
 		"annual_payroll_in_1000" : 7243261,
-		"num_of_establishment" : 16662
+		"num_of_establishment" : 16662,
+		"GEOID" : "4004"
 	},
 	{
 		"congress_num" : 116,
@@ -6058,7 +6376,8 @@
 		"fin_total_disbursement" : 917295,
 		"employment" : 381111,
 		"annual_payroll_in_1000" : 17368957,
-		"num_of_establishment" : 24320
+		"num_of_establishment" : 24320,
+		"GEOID" : "4005"
 	},
 	{
 		"congress_num" : 116,
@@ -6077,7 +6396,8 @@
 		"fin_total_disbursement" : 646451,
 		"employment" : 367384,
 		"annual_payroll_in_1000" : 22047293,
-		"num_of_establishment" : 23055
+		"num_of_establishment" : 23055,
+		"GEOID" : "4101"
 	},
 	{
 		"congress_num" : 116,
@@ -6096,7 +6416,8 @@
 		"fin_total_disbursement" : 3911270,
 		"employment" : 253292,
 		"annual_payroll_in_1000" : 9504381,
-		"num_of_establishment" : 23524
+		"num_of_establishment" : 23524,
+		"GEOID" : "4102"
 	},
 	{
 		"congress_num" : 116,
@@ -6115,7 +6436,8 @@
 		"fin_total_disbursement" : 1464330,
 		"employment" : 398780,
 		"annual_payroll_in_1000" : 20189039,
-		"num_of_establishment" : 26229
+		"num_of_establishment" : 26229,
+		"GEOID" : "4103"
 	},
 	{
 		"congress_num" : 116,
@@ -6134,7 +6456,8 @@
 		"fin_total_disbursement" : 1001800,
 		"employment" : 243054,
 		"annual_payroll_in_1000" : 9714273,
-		"num_of_establishment" : 19514
+		"num_of_establishment" : 19514,
+		"GEOID" : "4104"
 	},
 	{
 		"congress_num" : 116,
@@ -6153,7 +6476,8 @@
 		"fin_total_disbursement" : 802105,
 		"employment" : 270511,
 		"annual_payroll_in_1000" : 11619930,
-		"num_of_establishment" : 21740
+		"num_of_establishment" : 21740,
+		"GEOID" : "4105"
 	},
 	{
 		"congress_num" : 116,
@@ -6172,7 +6496,8 @@
 		"fin_total_disbursement" : 2815660,
 		"employment" : 291464,
 		"annual_payroll_in_1000" : 14389659,
-		"num_of_establishment" : 14163
+		"num_of_establishment" : 14163,
+		"GEOID" : "4201"
 	},
 	{
 		"congress_num" : 116,
@@ -6191,7 +6516,8 @@
 		"fin_total_disbursement" : 940512,
 		"employment" : 216281,
 		"annual_payroll_in_1000" : 7757296,
-		"num_of_establishment" : 15717
+		"num_of_establishment" : 15717,
+		"GEOID" : "4210"
 	},
 	{
 		"congress_num" : 116,
@@ -6210,7 +6536,8 @@
 		"fin_total_disbursement" : 1546090,
 		"employment" : 258837,
 		"annual_payroll_in_1000" : 10823377,
-		"num_of_establishment" : 14727
+		"num_of_establishment" : 14727,
+		"GEOID" : "4211"
 	},
 	{
 		"congress_num" : 116,
@@ -6229,7 +6556,8 @@
 		"fin_total_disbursement" : 763365,
 		"employment" : 244469,
 		"annual_payroll_in_1000" : 10566553,
-		"num_of_establishment" : 16801
+		"num_of_establishment" : 16801,
+		"GEOID" : "4212"
 	},
 	{
 		"congress_num" : 116,
@@ -6248,7 +6576,8 @@
 		"fin_total_disbursement" : 1273180,
 		"employment" : 317733,
 		"annual_payroll_in_1000" : 17722615,
-		"num_of_establishment" : 17870
+		"num_of_establishment" : 17870,
+		"GEOID" : "4213"
 	},
 	{
 		"congress_num" : 116,
@@ -6267,7 +6596,8 @@
 		"fin_total_disbursement" : 805197,
 		"employment" : 448098,
 		"annual_payroll_in_1000" : 24666879,
-		"num_of_establishment" : 19206
+		"num_of_establishment" : 19206,
+		"GEOID" : "4214"
 	},
 	{
 		"congress_num" : 116,
@@ -6286,7 +6616,8 @@
 		"fin_total_disbursement" : 1311000,
 		"employment" : 317683,
 		"annual_payroll_in_1000" : 15506163,
-		"num_of_establishment" : 16002
+		"num_of_establishment" : 16002,
+		"GEOID" : "4215"
 	},
 	{
 		"congress_num" : 116,
@@ -6305,7 +6636,8 @@
 		"fin_total_disbursement" : 2263740,
 		"employment" : 292980,
 		"annual_payroll_in_1000" : 12916169,
-		"num_of_establishment" : 15781
+		"num_of_establishment" : 15781,
+		"GEOID" : "4216"
 	},
 	{
 		"congress_num" : 116,
@@ -6324,7 +6656,8 @@
 		"fin_total_disbursement" : 8161160,
 		"employment" : 261532,
 		"annual_payroll_in_1000" : 9889035,
-		"num_of_establishment" : 14996
+		"num_of_establishment" : 14996,
+		"GEOID" : "4217"
 	},
 	{
 		"congress_num" : 116,
@@ -6343,7 +6676,8 @@
 		"fin_total_disbursement" : 802566,
 		"employment" : 312459,
 		"annual_payroll_in_1000" : 14347249,
-		"num_of_establishment" : 18740
+		"num_of_establishment" : 18740,
+		"GEOID" : "4218"
 	},
 	{
 		"congress_num" : 116,
@@ -6362,7 +6696,8 @@
 		"fin_total_disbursement" : 939048,
 		"employment" : 350390,
 		"annual_payroll_in_1000" : 23295301,
-		"num_of_establishment" : 14463
+		"num_of_establishment" : 14463,
+		"GEOID" : "4202"
 	},
 	{
 		"congress_num" : 116,
@@ -6381,7 +6716,8 @@
 		"fin_total_disbursement" : 1057290,
 		"employment" : 266816,
 		"annual_payroll_in_1000" : 10196656,
-		"num_of_establishment" : 16456
+		"num_of_establishment" : 16456,
+		"GEOID" : "4203"
 	},
 	{
 		"congress_num" : 116,
@@ -6400,7 +6736,8 @@
 		"fin_total_disbursement" : 1137710,
 		"employment" : 298703,
 		"annual_payroll_in_1000" : 13183659,
-		"num_of_establishment" : 15849
+		"num_of_establishment" : 15849,
+		"GEOID" : "4204"
 	},
 	{
 		"congress_num" : 116,
@@ -6419,7 +6756,8 @@
 		"fin_total_disbursement" : 1369280,
 		"employment" : 218927,
 		"annual_payroll_in_1000" : 7954696,
-		"num_of_establishment" : 15674
+		"num_of_establishment" : 15674,
+		"GEOID" : "4205"
 	},
 	{
 		"congress_num" : 116,
@@ -6438,7 +6776,8 @@
 		"fin_total_disbursement" : 2368220,
 		"employment" : 361421,
 		"annual_payroll_in_1000" : 23006660,
-		"num_of_establishment" : 20200
+		"num_of_establishment" : 20200,
+		"GEOID" : "4206"
 	},
 	{
 		"congress_num" : 116,
@@ -6457,7 +6796,8 @@
 		"fin_total_disbursement" : 2351950,
 		"employment" : 306043,
 		"annual_payroll_in_1000" : 18638182,
-		"num_of_establishment" : 18227
+		"num_of_establishment" : 18227,
+		"GEOID" : "4207"
 	},
 	{
 		"congress_num" : 116,
@@ -6476,7 +6816,8 @@
 		"fin_total_disbursement" : 1995040,
 		"employment" : 285698,
 		"annual_payroll_in_1000" : 13204184,
-		"num_of_establishment" : 21281
+		"num_of_establishment" : 21281,
+		"GEOID" : "4208"
 	},
 	{
 		"congress_num" : 116,
@@ -6495,7 +6836,8 @@
 		"fin_total_disbursement" : 1819460,
 		"employment" : 209581,
 		"annual_payroll_in_1000" : 7567679,
-		"num_of_establishment" : 14386
+		"num_of_establishment" : 14386,
+		"GEOID" : "4209"
 	},
 	{
 		"congress_num" : 116,
@@ -6514,7 +6856,8 @@
 		"fin_total_disbursement" : 1329910,
 		"employment" : 207536,
 		"annual_payroll_in_1000" : 9460295,
-		"num_of_establishment" : 13558
+		"num_of_establishment" : 13558,
+		"GEOID" : "4401"
 	},
 	{
 		"congress_num" : 116,
@@ -6533,7 +6876,8 @@
 		"fin_total_disbursement" : 684721,
 		"employment" : 222144,
 		"annual_payroll_in_1000" : 10388822,
-		"num_of_establishment" : 14837
+		"num_of_establishment" : 14837,
+		"GEOID" : "4402"
 	},
 	{
 		"congress_num" : 116,
@@ -6552,7 +6896,8 @@
 		"fin_total_disbursement" : 1628120,
 		"employment" : 232495,
 		"annual_payroll_in_1000" : 8948602,
-		"num_of_establishment" : 19171
+		"num_of_establishment" : 19171,
+		"GEOID" : "4501"
 	},
 	{
 		"congress_num" : 116,
@@ -6571,7 +6916,8 @@
 		"fin_total_disbursement" : 1438050,
 		"employment" : 205060,
 		"annual_payroll_in_1000" : 7796928,
-		"num_of_establishment" : 13298
+		"num_of_establishment" : 13298,
+		"GEOID" : "4502"
 	},
 	{
 		"congress_num" : 116,
@@ -6590,7 +6936,8 @@
 		"fin_total_disbursement" : 636396,
 		"employment" : 176201,
 		"annual_payroll_in_1000" : 6499728,
-		"num_of_establishment" : 11384
+		"num_of_establishment" : 11384,
+		"GEOID" : "4503"
 	},
 	{
 		"congress_num" : 116,
@@ -6609,7 +6956,8 @@
 		"fin_total_disbursement" : 1695330,
 		"employment" : 333855,
 		"annual_payroll_in_1000" : 14732686,
-		"num_of_establishment" : 17984
+		"num_of_establishment" : 17984,
+		"GEOID" : "4504"
 	},
 	{
 		"congress_num" : 116,
@@ -6628,7 +6976,8 @@
 		"fin_total_disbursement" : 1706280,
 		"employment" : 190182,
 		"annual_payroll_in_1000" : 7546336,
-		"num_of_establishment" : 11987
+		"num_of_establishment" : 11987,
+		"GEOID" : "4505"
 	},
 	{
 		"congress_num" : 116,
@@ -6647,7 +6996,8 @@
 		"fin_total_disbursement" : 1701140,
 		"employment" : 287278,
 		"annual_payroll_in_1000" : 12852860,
-		"num_of_establishment" : 15201
+		"num_of_establishment" : 15201,
+		"GEOID" : "4506"
 	},
 	{
 		"congress_num" : 116,
@@ -6666,7 +7016,8 @@
 		"fin_total_disbursement" : 913089,
 		"employment" : 228453,
 		"annual_payroll_in_1000" : 7747324,
-		"num_of_establishment" : 16335
+		"num_of_establishment" : 16335,
+		"GEOID" : "4507"
 	},
 	{
 		"congress_num" : 116,
@@ -6685,7 +7036,8 @@
 		"fin_total_disbursement" : 1265950,
 		"employment" : 357950,
 		"annual_payroll_in_1000" : 14183056,
-		"num_of_establishment" : 26743
+		"num_of_establishment" : 26743,
+		"GEOID" : "4600"
 	},
 	{
 		"congress_num" : 116,
@@ -6704,7 +7056,8 @@
 		"fin_total_disbursement" : 467556,
 		"employment" : 239309,
 		"annual_payroll_in_1000" : 9003860,
-		"num_of_establishment" : 13755
+		"num_of_establishment" : 13755,
+		"GEOID" : "4701"
 	},
 	{
 		"congress_num" : 116,
@@ -6723,7 +7076,8 @@
 		"fin_total_disbursement" : 790645,
 		"employment" : 296881,
 		"annual_payroll_in_1000" : 12411069,
-		"num_of_establishment" : 15973
+		"num_of_establishment" : 15973,
+		"GEOID" : "4702"
 	},
 	{
 		"congress_num" : 116,
@@ -6742,7 +7096,8 @@
 		"fin_total_disbursement" : 446076,
 		"employment" : 279250,
 		"annual_payroll_in_1000" : 11940060,
-		"num_of_establishment" : 14266
+		"num_of_establishment" : 14266,
+		"GEOID" : "4703"
 	},
 	{
 		"congress_num" : 116,
@@ -6761,7 +7116,8 @@
 		"fin_total_disbursement" : 188411,
 		"employment" : 240135,
 		"annual_payroll_in_1000" : 9786584,
-		"num_of_establishment" : 13058
+		"num_of_establishment" : 13058,
+		"GEOID" : "4704"
 	},
 	{
 		"congress_num" : 116,
@@ -6780,7 +7136,8 @@
 		"fin_total_disbursement" : 707470,
 		"employment" : 459060,
 		"annual_payroll_in_1000" : 24143918,
-		"num_of_establishment" : 20831
+		"num_of_establishment" : 20831,
+		"GEOID" : "4705"
 	},
 	{
 		"congress_num" : 116,
@@ -6799,7 +7156,8 @@
 		"fin_total_disbursement" : 4832060,
 		"employment" : 199866,
 		"annual_payroll_in_1000" : 7416428,
-		"num_of_establishment" : 13564
+		"num_of_establishment" : 13564,
+		"GEOID" : "4706"
 	},
 	{
 		"congress_num" : 116,
@@ -6818,7 +7176,8 @@
 		"fin_total_disbursement" : 1954240,
 		"employment" : 231822,
 		"annual_payroll_in_1000" : 10870210,
-		"num_of_establishment" : 15051
+		"num_of_establishment" : 15051,
+		"GEOID" : "4707"
 	},
 	{
 		"congress_num" : 116,
@@ -6837,7 +7196,8 @@
 		"fin_total_disbursement" : 1641860,
 		"employment" : 247418,
 		"annual_payroll_in_1000" : 10782458,
-		"num_of_establishment" : 14857
+		"num_of_establishment" : 14857,
+		"GEOID" : "4708"
 	},
 	{
 		"congress_num" : 116,
@@ -6856,7 +7216,8 @@
 		"fin_total_disbursement" : 265784,
 		"employment" : 325100,
 		"annual_payroll_in_1000" : 16033998,
-		"num_of_establishment" : 13341
+		"num_of_establishment" : 13341,
+		"GEOID" : "4709"
 	},
 	{
 		"congress_num" : 116,
@@ -6875,7 +7236,8 @@
 		"fin_total_disbursement" : 707959,
 		"employment" : 254538,
 		"annual_payroll_in_1000" : 10018085,
-		"num_of_establishment" : 16759
+		"num_of_establishment" : 16759,
+		"GEOID" : "4801"
 	},
 	{
 		"congress_num" : 116,
@@ -6894,7 +7256,8 @@
 		"fin_total_disbursement" : 1599930,
 		"employment" : 297626,
 		"annual_payroll_in_1000" : 14526252,
-		"num_of_establishment" : 19783
+		"num_of_establishment" : 19783,
+		"GEOID" : "4810"
 	},
 	{
 		"congress_num" : 116,
@@ -6913,7 +7276,8 @@
 		"fin_total_disbursement" : 2087570,
 		"employment" : 252162,
 		"annual_payroll_in_1000" : 11916978,
-		"num_of_establishment" : 18745
+		"num_of_establishment" : 18745,
+		"GEOID" : "4811"
 	},
 	{
 		"congress_num" : 116,
@@ -6932,7 +7296,8 @@
 		"fin_total_disbursement" : 1670550,
 		"employment" : 309540,
 		"annual_payroll_in_1000" : 16079667,
-		"num_of_establishment" : 17409
+		"num_of_establishment" : 17409,
+		"GEOID" : "4812"
 	},
 	{
 		"congress_num" : 116,
@@ -6951,7 +7316,8 @@
 		"fin_total_disbursement" : 1260610,
 		"employment" : 218135,
 		"annual_payroll_in_1000" : 8751579,
-		"num_of_establishment" : 16503
+		"num_of_establishment" : 16503,
+		"GEOID" : "4813"
 	},
 	{
 		"congress_num" : 116,
@@ -6970,7 +7336,8 @@
 		"fin_total_disbursement" : 614632,
 		"employment" : 236433,
 		"annual_payroll_in_1000" : 11440356,
-		"num_of_establishment" : 13934
+		"num_of_establishment" : 13934,
+		"GEOID" : "4814"
 	},
 	{
 		"congress_num" : 116,
@@ -6989,7 +7356,8 @@
 		"fin_total_disbursement" : 332892,
 		"employment" : 185875,
 		"annual_payroll_in_1000" : 5704426,
-		"num_of_establishment" : 11812
+		"num_of_establishment" : 11812,
+		"GEOID" : "4815"
 	},
 	{
 		"congress_num" : 116,
@@ -7008,7 +7376,8 @@
 		"fin_total_disbursement" : 1132030,
 		"employment" : 223674,
 		"annual_payroll_in_1000" : 7161497,
-		"num_of_establishment" : 13534
+		"num_of_establishment" : 13534,
+		"GEOID" : "4816"
 	},
 	{
 		"congress_num" : 116,
@@ -7027,7 +7396,8 @@
 		"fin_total_disbursement" : 914694,
 		"employment" : 262546,
 		"annual_payroll_in_1000" : 11316992,
-		"num_of_establishment" : 14489
+		"num_of_establishment" : 14489,
+		"GEOID" : "4817"
 	},
 	{
 		"congress_num" : 116,
@@ -7046,7 +7416,8 @@
 		"fin_total_disbursement" : 561865,
 		"employment" : 412362,
 		"annual_payroll_in_1000" : 32836049,
-		"num_of_establishment" : 16824
+		"num_of_establishment" : 16824,
+		"GEOID" : "4818"
 	},
 	{
 		"congress_num" : 116,
@@ -7065,7 +7436,8 @@
 		"fin_total_disbursement" : 889344,
 		"employment" : 234929,
 		"annual_payroll_in_1000" : 8611979,
-		"num_of_establishment" : 16665
+		"num_of_establishment" : 16665,
+		"GEOID" : "4819"
 	},
 	{
 		"congress_num" : 116,
@@ -7084,7 +7456,8 @@
 		"fin_total_disbursement" : 1399230,
 		"employment" : 373458,
 		"annual_payroll_in_1000" : 20509790,
-		"num_of_establishment" : 20845
+		"num_of_establishment" : 20845,
+		"GEOID" : "4802"
 	},
 	{
 		"congress_num" : 116,
@@ -7103,7 +7476,8 @@
 		"fin_total_disbursement" : 821093,
 		"employment" : 257592,
 		"annual_payroll_in_1000" : 10903244,
-		"num_of_establishment" : 11717
+		"num_of_establishment" : 11717,
+		"GEOID" : "4820"
 	},
 	{
 		"congress_num" : 116,
@@ -7122,7 +7496,8 @@
 		"fin_total_disbursement" : 1223210,
 		"employment" : 429437,
 		"annual_payroll_in_1000" : 22291466,
-		"num_of_establishment" : 26331
+		"num_of_establishment" : 26331,
+		"GEOID" : "4821"
 	},
 	{
 		"congress_num" : 116,
@@ -7141,7 +7516,8 @@
 		"fin_total_disbursement" : 1666600,
 		"employment" : 206550,
 		"annual_payroll_in_1000" : 8471480,
-		"num_of_establishment" : 15678
+		"num_of_establishment" : 15678,
+		"GEOID" : "4822"
 	},
 	{
 		"congress_num" : 116,
@@ -7160,7 +7536,8 @@
 		"fin_total_disbursement" : 4383790,
 		"employment" : 177919,
 		"annual_payroll_in_1000" : 6926206,
-		"num_of_establishment" : 11141
+		"num_of_establishment" : 11141,
+		"GEOID" : "4823"
 	},
 	{
 		"congress_num" : 116,
@@ -7179,7 +7556,8 @@
 		"fin_total_disbursement" : 810853,
 		"employment" : 690792,
 		"annual_payroll_in_1000" : 43696056,
-		"num_of_establishment" : 27971
+		"num_of_establishment" : 27971,
+		"GEOID" : "4824"
 	},
 	{
 		"congress_num" : 116,
@@ -7198,7 +7576,8 @@
 		"fin_total_disbursement" : 1436300,
 		"employment" : 227290,
 		"annual_payroll_in_1000" : 11603584,
-		"num_of_establishment" : 18087
+		"num_of_establishment" : 18087,
+		"GEOID" : "4825"
 	},
 	{
 		"congress_num" : 116,
@@ -7217,7 +7596,8 @@
 		"fin_total_disbursement" : 1562600,
 		"employment" : 240064,
 		"annual_payroll_in_1000" : 10704670,
-		"num_of_establishment" : 15199
+		"num_of_establishment" : 15199,
+		"GEOID" : "4826"
 	},
 	{
 		"congress_num" : 116,
@@ -7236,7 +7616,8 @@
 		"fin_total_disbursement" : 502510,
 		"employment" : 249150,
 		"annual_payroll_in_1000" : 10179806,
-		"num_of_establishment" : 15738
+		"num_of_establishment" : 15738,
+		"GEOID" : "4827"
 	},
 	{
 		"congress_num" : 116,
@@ -7255,7 +7636,8 @@
 		"fin_total_disbursement" : 1089440,
 		"employment" : 161914,
 		"annual_payroll_in_1000" : 4949980,
-		"num_of_establishment" : 11101
+		"num_of_establishment" : 11101,
+		"GEOID" : "4828"
 	},
 	{
 		"congress_num" : 116,
@@ -7274,7 +7656,8 @@
 		"fin_total_disbursement" : 836992,
 		"employment" : 213699,
 		"annual_payroll_in_1000" : 10136622,
-		"num_of_establishment" : 10649
+		"num_of_establishment" : 10649,
+		"GEOID" : "4829"
 	},
 	{
 		"congress_num" : 116,
@@ -7293,7 +7676,8 @@
 		"fin_total_disbursement" : 2532940,
 		"employment" : 381841,
 		"annual_payroll_in_1000" : 23713657,
-		"num_of_establishment" : 21388
+		"num_of_establishment" : 21388,
+		"GEOID" : "4803"
 	},
 	{
 		"congress_num" : 116,
@@ -7312,7 +7696,8 @@
 		"fin_total_disbursement" : 246617,
 		"employment" : 343059,
 		"annual_payroll_in_1000" : 22452975,
-		"num_of_establishment" : 13665
+		"num_of_establishment" : 13665,
+		"GEOID" : "4830"
 	},
 	{
 		"congress_num" : 116,
@@ -7331,7 +7716,8 @@
 		"fin_total_disbursement" : 1515260,
 		"employment" : 241132,
 		"annual_payroll_in_1000" : 10767237,
-		"num_of_establishment" : 15228
+		"num_of_establishment" : 15228,
+		"GEOID" : "4831"
 	},
 	{
 		"congress_num" : 116,
@@ -7350,7 +7736,8 @@
 		"fin_total_disbursement" : 3569330,
 		"employment" : 344278,
 		"annual_payroll_in_1000" : 19420884,
-		"num_of_establishment" : 21973
+		"num_of_establishment" : 21973,
+		"GEOID" : "4832"
 	},
 	{
 		"congress_num" : 116,
@@ -7369,7 +7756,8 @@
 		"fin_total_disbursement" : 1271220,
 		"employment" : 273772,
 		"annual_payroll_in_1000" : 12634020,
-		"num_of_establishment" : 12588
+		"num_of_establishment" : 12588,
+		"GEOID" : "4833"
 	},
 	{
 		"congress_num" : 116,
@@ -7388,7 +7776,8 @@
 		"fin_total_disbursement" : 656219,
 		"employment" : 170804,
 		"annual_payroll_in_1000" : 4849093,
-		"num_of_establishment" : 10816
+		"num_of_establishment" : 10816,
+		"GEOID" : "4834"
 	},
 	{
 		"congress_num" : 116,
@@ -7407,7 +7796,8 @@
 		"fin_total_disbursement" : 399471,
 		"employment" : 304332,
 		"annual_payroll_in_1000" : 12704327,
-		"num_of_establishment" : 15636
+		"num_of_establishment" : 15636,
+		"GEOID" : "4835"
 	},
 	{
 		"congress_num" : 116,
@@ -7426,7 +7816,8 @@
 		"fin_total_disbursement" : 702439,
 		"employment" : 244582,
 		"annual_payroll_in_1000" : 13545464,
-		"num_of_establishment" : 12903
+		"num_of_establishment" : 12903,
+		"GEOID" : "4836"
 	},
 	{
 		"congress_num" : 116,
@@ -7445,7 +7836,8 @@
 		"fin_total_disbursement" : 790663,
 		"employment" : 195143,
 		"annual_payroll_in_1000" : 7130482,
-		"num_of_establishment" : 13784
+		"num_of_establishment" : 13784,
+		"GEOID" : "4804"
 	},
 	{
 		"congress_num" : 116,
@@ -7464,7 +7856,8 @@
 		"fin_total_disbursement" : 706256,
 		"employment" : 178337,
 		"annual_payroll_in_1000" : 6505181,
-		"num_of_establishment" : 12386
+		"num_of_establishment" : 12386,
+		"GEOID" : "4805"
 	},
 	{
 		"congress_num" : 116,
@@ -7483,7 +7876,8 @@
 		"fin_total_disbursement" : 511262,
 		"employment" : 228866,
 		"annual_payroll_in_1000" : 9182701,
-		"num_of_establishment" : 13866
+		"num_of_establishment" : 13866,
+		"GEOID" : "4806"
 	},
 	{
 		"congress_num" : 116,
@@ -7502,7 +7896,8 @@
 		"fin_total_disbursement" : 4610300,
 		"employment" : 460210,
 		"annual_payroll_in_1000" : 33498204,
-		"num_of_establishment" : 25319
+		"num_of_establishment" : 25319,
+		"GEOID" : "4807"
 	},
 	{
 		"congress_num" : 116,
@@ -7521,7 +7916,8 @@
 		"fin_total_disbursement" : 5265130,
 		"employment" : 191643,
 		"annual_payroll_in_1000" : 10166381,
-		"num_of_establishment" : 14268
+		"num_of_establishment" : 14268,
+		"GEOID" : "4808"
 	},
 	{
 		"congress_num" : 116,
@@ -7540,7 +7936,8 @@
 		"fin_total_disbursement" : 504821,
 		"employment" : 317159,
 		"annual_payroll_in_1000" : 18124607,
-		"num_of_establishment" : 13047
+		"num_of_establishment" : 13047,
+		"GEOID" : "4809"
 	},
 	{
 		"congress_num" : 116,
@@ -7559,7 +7956,8 @@
 		"fin_total_disbursement" : 902654,
 		"employment" : 231999,
 		"annual_payroll_in_1000" : 8838902,
-		"num_of_establishment" : 17909
+		"num_of_establishment" : 17909,
+		"GEOID" : "4901"
 	},
 	{
 		"congress_num" : 116,
@@ -7578,7 +7976,8 @@
 		"fin_total_disbursement" : 813666,
 		"employment" : 373647,
 		"annual_payroll_in_1000" : 17898045,
-		"num_of_establishment" : 21144
+		"num_of_establishment" : 21144,
+		"GEOID" : "4902"
 	},
 	{
 		"congress_num" : 116,
@@ -7597,7 +7996,8 @@
 		"fin_total_disbursement" : 1416500,
 		"employment" : 261713,
 		"annual_payroll_in_1000" : 10462679,
-		"num_of_establishment" : 19109
+		"num_of_establishment" : 19109,
+		"GEOID" : "4903"
 	},
 	{
 		"congress_num" : 116,
@@ -7616,7 +8016,8 @@
 		"fin_total_disbursement" : 2617820,
 		"employment" : 303855,
 		"annual_payroll_in_1000" : 14262622,
-		"num_of_establishment" : 18858
+		"num_of_establishment" : 18858,
+		"GEOID" : "4904"
 	},
 	{
 		"congress_num" : 116,
@@ -7635,7 +8036,8 @@
 		"fin_total_disbursement" : 1618700,
 		"employment" : 214902,
 		"annual_payroll_in_1000" : 8918525,
-		"num_of_establishment" : 17052
+		"num_of_establishment" : 17052,
+		"GEOID" : "5101"
 	},
 	{
 		"congress_num" : 116,
@@ -7654,7 +8056,8 @@
 		"fin_total_disbursement" : 4284970,
 		"employment" : 338195,
 		"annual_payroll_in_1000" : 19822956,
-		"num_of_establishment" : 22539
+		"num_of_establishment" : 22539,
+		"GEOID" : "5110"
 	},
 	{
 		"congress_num" : 116,
@@ -7673,7 +8076,8 @@
 		"fin_total_disbursement" : 1014960,
 		"employment" : 431483,
 		"annual_payroll_in_1000" : 33961153,
-		"num_of_establishment" : 22048
+		"num_of_establishment" : 22048,
+		"GEOID" : "5111"
 	},
 	{
 		"congress_num" : 116,
@@ -7692,7 +8096,8 @@
 		"fin_total_disbursement" : 2697450,
 		"employment" : 229214,
 		"annual_payroll_in_1000" : 8726499,
-		"num_of_establishment" : 16321
+		"num_of_establishment" : 16321,
+		"GEOID" : "5102"
 	},
 	{
 		"congress_num" : 116,
@@ -7711,7 +8116,8 @@
 		"fin_total_disbursement" : 544557,
 		"employment" : 334293,
 		"annual_payroll_in_1000" : 15124637,
-		"num_of_establishment" : 16694
+		"num_of_establishment" : 16694,
+		"GEOID" : "5103"
 	},
 	{
 		"congress_num" : 116,
@@ -7730,7 +8136,8 @@
 		"fin_total_disbursement" : 827290,
 		"employment" : 273860,
 		"annual_payroll_in_1000" : 13088105,
-		"num_of_establishment" : 15673
+		"num_of_establishment" : 15673,
+		"GEOID" : "5104"
 	},
 	{
 		"congress_num" : 116,
@@ -7749,7 +8156,8 @@
 		"fin_total_disbursement" : 986554,
 		"employment" : 207989,
 		"annual_payroll_in_1000" : 8496127,
-		"num_of_establishment" : 16718
+		"num_of_establishment" : 16718,
+		"GEOID" : "5105"
 	},
 	{
 		"congress_num" : 116,
@@ -7768,7 +8176,8 @@
 		"fin_total_disbursement" : 642312,
 		"employment" : 308049,
 		"annual_payroll_in_1000" : 11921848,
-		"num_of_establishment" : 18096
+		"num_of_establishment" : 18096,
+		"GEOID" : "5106"
 	},
 	{
 		"congress_num" : 116,
@@ -7787,7 +8196,8 @@
 		"fin_total_disbursement" : 5352580,
 		"employment" : 291085,
 		"annual_payroll_in_1000" : 14274675,
-		"num_of_establishment" : 18985
+		"num_of_establishment" : 18985,
+		"GEOID" : "5107"
 	},
 	{
 		"congress_num" : 116,
@@ -7806,7 +8216,8 @@
 		"fin_total_disbursement" : 1663990,
 		"employment" : 360285,
 		"annual_payroll_in_1000" : 24207230,
-		"num_of_establishment" : 20512
+		"num_of_establishment" : 20512,
+		"GEOID" : "5108"
 	},
 	{
 		"congress_num" : 116,
@@ -7825,7 +8236,8 @@
 		"fin_total_disbursement" : 806724,
 		"employment" : 208791,
 		"annual_payroll_in_1000" : 7613800,
-		"num_of_establishment" : 14206
+		"num_of_establishment" : 14206,
+		"GEOID" : "5109"
 	},
 	{
 		"congress_num" : 116,
@@ -7844,7 +8256,8 @@
 		"fin_total_disbursement" : 630216,
 		"employment" : 262705,
 		"annual_payroll_in_1000" : 10828353,
-		"num_of_establishment" : 21174
+		"num_of_establishment" : 21174,
+		"GEOID" : "5000"
 	},
 	{
 		"congress_num" : 116,
@@ -7863,7 +8276,8 @@
 		"fin_total_disbursement" : 1359180,
 		"employment" : 273387,
 		"annual_payroll_in_1000" : 23558027,
-		"num_of_establishment" : 19264
+		"num_of_establishment" : 19264,
+		"GEOID" : "5301"
 	},
 	{
 		"congress_num" : 116,
@@ -7882,7 +8296,8 @@
 		"fin_total_disbursement" : 1047010,
 		"employment" : 203713,
 		"annual_payroll_in_1000" : 8560373,
-		"num_of_establishment" : 14837
+		"num_of_establishment" : 14837,
+		"GEOID" : "5310"
 	},
 	{
 		"congress_num" : 116,
@@ -7901,7 +8316,8 @@
 		"fin_total_disbursement" : 913621,
 		"employment" : 273601,
 		"annual_payroll_in_1000" : 13846577,
-		"num_of_establishment" : 19869
+		"num_of_establishment" : 19869,
+		"GEOID" : "5302"
 	},
 	{
 		"congress_num" : 116,
@@ -7920,7 +8336,8 @@
 		"fin_total_disbursement" : 2203920,
 		"employment" : 194262,
 		"annual_payroll_in_1000" : 8965497,
-		"num_of_establishment" : 16100
+		"num_of_establishment" : 16100,
+		"GEOID" : "5303"
 	},
 	{
 		"congress_num" : 116,
@@ -7939,7 +8356,8 @@
 		"fin_total_disbursement" : 974010,
 		"employment" : 191422,
 		"annual_payroll_in_1000" : 8243690,
-		"num_of_establishment" : 14187
+		"num_of_establishment" : 14187,
+		"GEOID" : "5304"
 	},
 	{
 		"congress_num" : 116,
@@ -7958,7 +8376,8 @@
 		"fin_total_disbursement" : 4985620,
 		"employment" : 233124,
 		"annual_payroll_in_1000" : 9964370,
-		"num_of_establishment" : 17033
+		"num_of_establishment" : 17033,
+		"GEOID" : "5305"
 	},
 	{
 		"congress_num" : 116,
@@ -7977,7 +8396,8 @@
 		"fin_total_disbursement" : 1258000,
 		"employment" : 194723,
 		"annual_payroll_in_1000" : 8172930,
-		"num_of_establishment" : 17157
+		"num_of_establishment" : 17157,
+		"GEOID" : "5306"
 	},
 	{
 		"congress_num" : 116,
@@ -7996,7 +8416,8 @@
 		"fin_total_disbursement" : 1317540,
 		"employment" : 461573,
 		"annual_payroll_in_1000" : 34422037,
-		"num_of_establishment" : 28807
+		"num_of_establishment" : 28807,
+		"GEOID" : "5307"
 	},
 	{
 		"congress_num" : 116,
@@ -8015,7 +8436,8 @@
 		"fin_total_disbursement" : 5373670,
 		"employment" : 173457,
 		"annual_payroll_in_1000" : 8417334,
-		"num_of_establishment" : 15426
+		"num_of_establishment" : 15426,
+		"GEOID" : "5308"
 	},
 	{
 		"congress_num" : 116,
@@ -8034,7 +8456,8 @@
 		"fin_total_disbursement" : 1416170,
 		"employment" : 447136,
 		"annual_payroll_in_1000" : 29862264,
-		"num_of_establishment" : 22852
+		"num_of_establishment" : 22852,
+		"GEOID" : "5309"
 	},
 	{
 		"congress_num" : 116,
@@ -8053,7 +8476,8 @@
 		"fin_total_disbursement" : 1566770,
 		"employment" : 245541,
 		"annual_payroll_in_1000" : 10266665,
-		"num_of_establishment" : 15191
+		"num_of_establishment" : 15191,
+		"GEOID" : "5501"
 	},
 	{
 		"congress_num" : 116,
@@ -8072,7 +8496,8 @@
 		"fin_total_disbursement" : 828086,
 		"employment" : 360351,
 		"annual_payroll_in_1000" : 17856952,
-		"num_of_establishment" : 19233
+		"num_of_establishment" : 19233,
+		"GEOID" : "5502"
 	},
 	{
 		"congress_num" : 116,
@@ -8091,7 +8516,8 @@
 		"fin_total_disbursement" : 1818250,
 		"employment" : 278726,
 		"annual_payroll_in_1000" : 10963794,
-		"num_of_establishment" : 17032
+		"num_of_establishment" : 17032,
+		"GEOID" : "5503"
 	},
 	{
 		"congress_num" : 116,
@@ -8110,7 +8536,8 @@
 		"fin_total_disbursement" : 923631,
 		"employment" : 306701,
 		"annual_payroll_in_1000" : 16757151,
-		"num_of_establishment" : 13450
+		"num_of_establishment" : 13450,
+		"GEOID" : "5504"
 	},
 	{
 		"congress_num" : 116,
@@ -8129,7 +8556,8 @@
 		"fin_total_disbursement" : 442314,
 		"employment" : 410849,
 		"annual_payroll_in_1000" : 20422361,
-		"num_of_establishment" : 21300
+		"num_of_establishment" : 21300,
+		"GEOID" : "5505"
 	},
 	{
 		"congress_num" : 116,
@@ -8148,7 +8576,8 @@
 		"fin_total_disbursement" : 1263090,
 		"employment" : 307770,
 		"annual_payroll_in_1000" : 13721136,
-		"num_of_establishment" : 16747
+		"num_of_establishment" : 16747,
+		"GEOID" : "5506"
 	},
 	{
 		"congress_num" : 116,
@@ -8167,7 +8596,8 @@
 		"fin_total_disbursement" : 2600690,
 		"employment" : 249122,
 		"annual_payroll_in_1000" : 9669025,
-		"num_of_establishment" : 19077
+		"num_of_establishment" : 19077,
+		"GEOID" : "5507"
 	},
 	{
 		"congress_num" : 116,
@@ -8186,7 +8616,8 @@
 		"fin_total_disbursement" : 1869130,
 		"employment" : 328939,
 		"annual_payroll_in_1000" : 14404665,
-		"num_of_establishment" : 18287
+		"num_of_establishment" : 18287,
+		"GEOID" : "5508"
 	},
 	{
 		"congress_num" : 116,
@@ -8205,7 +8636,8 @@
 		"fin_total_disbursement" : 873578,
 		"employment" : 209694,
 		"annual_payroll_in_1000" : 8287861,
-		"num_of_establishment" : 12924
+		"num_of_establishment" : 12924,
+		"GEOID" : "5401"
 	},
 	{
 		"congress_num" : 116,
@@ -8224,7 +8656,8 @@
 		"fin_total_disbursement" : 872321,
 		"employment" : 185108,
 		"annual_payroll_in_1000" : 7306891,
-		"num_of_establishment" : 12285
+		"num_of_establishment" : 12285,
+		"GEOID" : "5402"
 	},
 	{
 		"congress_num" : 116,
@@ -8243,7 +8676,8 @@
 		"fin_total_disbursement" : 1372520,
 		"employment" : 155363,
 		"annual_payroll_in_1000" : 5582893,
-		"num_of_establishment" : 11077
+		"num_of_establishment" : 11077,
+		"GEOID" : "5403"
 	},
 	{
 		"congress_num" : 116,
@@ -8262,6 +8696,7 @@
 		"fin_total_disbursement" : 636684,
 		"employment" : 208440,
 		"annual_payroll_in_1000" : 9303969,
-		"num_of_establishment" : 20966
+		"num_of_establishment" : 20966,
+		"GEOID" : "5600"
 	}
 ]
