@@ -129788,6 +129788,8 @@ var shape_files = {
 
 
 // var results = "/dashboard_us_congress_list_GEOID_with_data_valid.json";
+
+
 var district_data = {
    "data":[
       {
@@ -138497,15 +138499,24 @@ var district_data = {
 
 function complete(district_data) { 
   function getColor(d) {
-    return d/700000 > 0.5 ? '#800026' :
-      d/700000 > 0.4 ? '#BD0026' :
-      d/700000 > 0.3 ? '#E31A1C' :
-      d/700000 > 0.25 ? '#FC4E2A' :
-      d/700000 > 0.2 ? '#FD8D3C' :
-      d/700000 > 0.15 ? '#FEB24C' :
-      d/700000 > 0.1 ? '#FED976' :
-      '#FFEDA0';;
-  }
+      return d == "REP" ? '#800026' :
+         d == "DEM" ? '#0000ff' :
+         d == "DFL" ? '#0000ff' :
+         '#000000';
+}
+
+   
+   
+   
+//    return d/700000 > 0.5 ? '#800026' :
+//       d/700000 > 0.4 ? '#BD0026' :
+//       d/700000 > 0.3 ? '#E31A1C' :
+//       d/700000 > 0.25 ? '#FC4E2A' :
+//       d/700000 > 0.2 ? '#FD8D3C' :
+//       d/700000 > 0.15 ? '#FEB24C' :
+//       d/700000 > 0.1 ? '#FED976' :
+//       '#FFEDA0';
+//   }
 
   // coordinate GEOID and party affiliation
   var STATEFP_CD115FP = {},
@@ -138514,12 +138525,26 @@ function complete(district_data) {
     // console.log(data);
 
   for (var i = 0; i < data.length; i += 1) {
-    (STATEFP_CD115FP[data[i].GEOID] = data[i].employment);
+    (STATEFP_CD115FP[data[i].GEOID] = data[i].party);
   }
 
   for (var i = 0; i < data.length; i += 1) {
     (STATEFP_CD115FP[data[i].STATEFP] = data[i].state);
   }
+
+  var STATEFP_CD115FP2 = {},
+  data2 = district_data.data;
+
+  // console.log(data);
+
+   for (var i = 0; i < data2.length; i += 1) {
+      (STATEFP_CD115FP2[data2[i].GEOID] = data2[i].name);
+}
+
+
+//   for (var i = 0; i < data.length; i += 1) {
+//    (STATEFP_CD115FP[data[i].party] = data[i].party);
+//  }
 
  // for (var i = 0; i < data.length; i += 1) {
  //    (STATEFP_CD115FP[data[i].CD115FP] = data[i].district);
@@ -138532,7 +138557,7 @@ function complete(district_data) {
         weight: 1,
         opacity: 1,
         color: 'white',
-        fillOpacity: 0.5,
+        fillOpacity: 0.7,
         fillColor: getColor(STATEFP_CD115FP[feature.properties.GEOID])
       };
     },
@@ -138556,16 +138581,17 @@ function complete(district_data) {
         mouseout: function(event) {
           layer = event.target;
           layer.setStyle({
-            fillOpacity: 0.5
+            fillOpacity: 0.7
           });
         },
         // When a feature (neighborhood) is clicked, it is enlarged to fit the screen
-        click: function(event) {
-          map.fitBounds(event.target.getBounds());
-        }
+      //   click: function(event) {
+      //     map.fitBounds(event.target.getBounds());
+      //   }
       });
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup("<h1>" + (STATEFP_CD115FP[feature.properties.STATEFP]) + "</h1> <hr> <h2>" + "District: " + feature.properties.CD115FP + "</h2>");
+      layer.bindPopup("<h2>" + (STATEFP_CD115FP[feature.properties.STATEFP]) + "</h2> <hr> <h4>" + "District: " +
+      feature.properties.CD115FP + "</h4> <h4>" + "Party: " + (STATEFP_CD115FP[feature.properties.GEOID]) + "</h4> <h4>" + "Name: " + (STATEFP_CD115FP2[feature.properties.GEOID]) + "</h4>");
     }
 
 
