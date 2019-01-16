@@ -1,0 +1,7 @@
+https://mosal2000.github.io/election2018
+
+Webserver:
+https://election-2018-analysis.herokuapp.com/api/dashboard
+
+https://election-2018-analysis.herokuapp.com/api/map
+
