@@ -42,11 +42,11 @@ var results_file = '116th_us_congress_list.json';
 function complete(district_data) { 
   function getColor(d) {
     return d/700000 > 0.8 ? '#0000ff' :
-      d/700000 > 0.7 ? '#803ce4' :
-      d/700000 > 0.4 ? '#ab66cb' :
-      d/700000 > 0.35 ? '#ca8eb5' :
-      d/700000 > 0.3 ? '#e1b4a3' :
-      d/700000 > 0.25 ? '#f4db9c' :
+      d/700000 > 0.6 ? '#ac0dcd' :
+      d/700000 > 0.45 ? '#dd47a2' :
+      d/700000 > 0.35 ? '#f77985' :
+      d/700000 > 0.3 ? '#ffaa80' :
+      d/700000 > 0.25 ? '#ffd79e' :
       d/700000 > 0.1 ? '#ffffe0' :
       '#000000';
   }
